@@ -45,9 +45,9 @@ The visuals below come directly from the executive dashboard and summarize the p
 
 **What it represents:** The executive dashboard combines the major customer-risk and KYC/EDD indicators into one management view. It connects customer risk segmentation with KYC completeness, EDD triggers, review-case aging, high-risk country exposure, and KYC case status. This makes it easier to identify where risk is concentrated, understand why customers are entering enhanced review, and prioritize cases that may require remediation, escalation, or additional due diligence.
 
-### Customer Risk Mix
+### Review Case Aging
 
-![Revie Case Aging](images/03_review_case_aging)
+![Review Case Aging](images/03_review_case_aging)
 
 **What it represents:** What it represents: This shows how long KYC/EDD cases remain under review. The large 90+ day backlog (193 cases) highlights the need to prioritize older cases and improve remediation efficiency.
 
