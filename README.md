@@ -47,9 +47,9 @@ The visuals below come directly from the executive dashboard and summarize the p
 
 ### Customer Risk Mix
 
-![Customer Risk Mix](images/03_customer_risk_mix.png)
+![Revie Case Aging](images/03_review_case_aging)
 
-**What it represents:** The Customer Risk Mix shows how the 1,200-customer population is distributed across Low, Moderate, High, and Critical risk categories. Most customers fall within the lower-risk tiers, while a smaller population is classified as High risk. This helps an AML/KYC team quickly understand portfolio risk concentration and identify customers most likely to require enhanced monitoring, deeper review, or EDD.
+**What it represents:** What it represents: This shows how long KYC/EDD cases remain under review. The large 90+ day backlog (193 cases) highlights the need to prioritize older cases and improve remediation efficiency.
 
 ### Top EDD Drivers
 
@@ -66,15 +66,6 @@ cd app
 pip install -r requirements.txt
 streamlit run streamlit_app.py
 ```
-
-## Resume bullets
-**Financial Crime Customer Risk & KYC/EDD Analytics | SQL, Python, Tableau, Streamlit**
-
-- Built an end-to-end KYC/EDD analytics project using synthetic customer, beneficial-ownership, and review-case data to identify high-risk customers, incomplete due-diligence records, PEP/sanctions/adverse-media exposure, and remediation priorities.
-- Developed an explainable customer risk-scoring framework and SQL investigation logic, then created Tableau and Streamlit dashboards for customer-risk segmentation, EDD prioritization, KYC completeness, case aging, and escalation monitoring.
-
-## Interview explanation
-“I built a customer-risk and KYC/EDD analytics project that simulates how a bank or fintech can move from onboarding and verification data into risk tiering, enhanced due diligence, remediation, and review prioritization. SQL identifies high-risk populations and KYC gaps, Python builds an explainable risk score, Tableau provides executive monitoring, and Streamlit gives an analyst-style customer review workbench.”
 
 ## Disclaimer
 Synthetic educational portfolio project only. No real financial institution or customer data.
