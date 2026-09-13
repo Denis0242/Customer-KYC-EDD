@@ -1,0 +1,1201 @@
+customer_id,customer_type,country,occupation_industry,pep_flag,sanctions_hit,adverse_media_flag,source_of_wealth_verified,ubo_complete,id_verified,address_verified,tax_verified,kyc_complete_pct,risk_score,risk_level,edd_required,customer_status,last_review_date,next_review_date
+CUST10000,Individual,United Arab Emirates,Finance,0,0,0,1,1,0,1,1,80.0,40,Moderate,0,Approved,2026-04-03,2027-04-03
+CUST10001,Business,United States,FinTech,0,0,0,0,1,1,1,0,60.0,23,Low,0,Pending Documents,2026-06-19,2028-06-18
+CUST10002,Business,United States,Logistics,0,0,0,1,1,1,0,1,80.0,17,Low,0,Approved,2026-07-06,2028-07-05
+CUST10003,Individual,United States,Finance,0,0,0,0,1,0,1,1,60.0,33,Moderate,0,Pending Documents,2025-10-01,2026-10-01
+CUST10004,Individual,United Kingdom,Construction,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2025-12-23,2027-12-23
+CUST10005,Individual,United Arab Emirates,Finance,0,0,1,1,1,1,0,1,80.0,54,Moderate,1,Approved,2025-12-21,2026-12-21
+CUST10006,Individual,Mexico,Technology,0,0,0,1,1,1,1,1,100.0,17,Low,0,Periodic Review,2025-08-12,2027-08-12
+CUST10007,Business,United States,Manufacturing,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2025-06-02,2027-06-02
+CUST10008,Individual,United States,Construction,0,0,0,1,1,1,1,1,100.0,10,Low,0,Periodic Review,2025-12-16,2027-12-16
+CUST10009,Individual,Iran,Consulting,1,0,0,1,1,1,1,1,100.0,49,Moderate,1,Approved,2025-05-24,2026-05-24
+CUST10010,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2026-07-29,2028-07-28
+CUST10011,Business,United States,Manufacturing,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2025-04-24,2027-04-24
+CUST10012,Business,United States,Real Estate,0,0,1,1,1,1,1,1,100.0,29,Low,1,Approved,2025-10-10,2027-10-10
+CUST10013,Individual,China,Consulting,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2026-01-06,2028-01-06
+CUST10014,Individual,Nigeria,Retail,0,0,0,0,1,1,1,1,80.0,42,Moderate,0,Periodic Review,2024-10-10,2025-10-10
+CUST10015,Individual,United States,Consulting,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2024-12-24,2026-12-24
+CUST10016,Individual,United States,Retail,0,0,0,1,1,1,1,0,80.0,21,Low,0,Periodic Review,2025-03-09,2027-03-09
+CUST10017,Individual,Mexico,Construction,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2025-05-23,2027-05-23
+CUST10018,Individual,Mexico,Technology,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2025-11-01,2027-11-01
+CUST10019,Individual,United States,Hospitality,0,0,0,1,1,1,1,0,80.0,14,Low,0,Approved,2026-05-07,2028-05-06
+CUST10020,Individual,Russia,Retail,0,0,0,1,1,1,1,1,100.0,25,Low,0,Periodic Review,2026-02-06,2028-02-06
+CUST10021,Individual,United States,Technology,0,0,0,1,1,1,0,1,80.0,17,Low,0,Approved,2024-10-04,2026-10-04
+CUST10022,Individual,United States,Education,0,0,0,0,1,1,1,1,80.0,26,Low,0,Periodic Review,2025-05-08,2027-05-08
+CUST10023,Individual,Turkey,Healthcare,0,0,0,1,1,1,1,1,100.0,26,Low,0,Approved,2024-11-20,2026-11-20
+CUST10024,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,13,Low,0,Periodic Review,2025-07-25,2027-07-25
+CUST10025,Business,Mexico,Logistics,0,0,0,1,1,1,1,0,80.0,14,Low,0,Approved,2024-10-25,2026-10-25
+CUST10026,Individual,United States,Consulting,0,0,0,1,1,1,0,1,80.0,14,Low,0,Approved,2025-01-22,2027-01-22
+CUST10027,Individual,United States,Consulting,0,0,0,0,1,1,1,1,80.0,22,Low,0,Approved,2026-01-11,2028-01-11
+CUST10028,Individual,Iran,Finance,0,0,0,1,1,0,1,1,80.0,41,Moderate,0,Approved,2025-11-21,2026-11-21
+CUST10029,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2025-05-09,2027-05-09
+CUST10030,Individual,Brazil,Finance,0,0,0,0,1,1,1,1,80.0,27,Low,0,Periodic Review,2026-08-23,2028-08-22
+CUST10031,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,9,Low,0,Periodic Review,2024-09-16,2026-09-16
+CUST10032,Individual,United States,Retail,0,0,0,0,1,1,1,1,80.0,27,Low,0,Approved,2025-08-18,2027-08-18
+CUST10033,Business,United States,Retail,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2025-01-06,2027-01-06
+CUST10034,Business,Mexico,Consulting,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2025-08-16,2027-08-16
+CUST10035,Business,United States,Logistics,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2024-11-08,2026-11-08
+CUST10036,Individual,India,Construction,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2025-09-06,2027-09-06
+CUST10037,Individual,United States,Finance,0,0,0,1,1,0,1,1,80.0,21,Low,0,Approved,2026-03-09,2028-03-08
+CUST10038,Individual,Russia,Consulting,0,0,0,1,1,1,1,1,100.0,31,Moderate,0,Approved,2025-05-04,2026-05-04
+CUST10039,Individual,United States,Finance,0,0,0,1,1,0,1,1,80.0,20,Low,0,Approved,2025-07-23,2027-07-23
+CUST10040,Individual,India,Healthcare,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2026-07-30,2028-07-29
+CUST10041,Individual,United Arab Emirates,Finance,0,0,0,1,1,1,1,1,100.0,25,Low,0,Approved,2025-05-24,2027-05-24
+CUST10042,Individual,United Arab Emirates,Healthcare,0,0,0,0,1,1,1,1,80.0,40,Moderate,0,Approved,2024-10-05,2025-10-05
+CUST10043,Business,India,FinTech,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2026-03-28,2028-03-27
+CUST10044,Individual,United Arab Emirates,Finance,0,0,0,1,1,1,1,1,100.0,29,Low,0,Approved,2025-02-13,2027-02-13
+CUST10045,Individual,Canada,Education,0,0,0,0,1,1,1,0,60.0,27,Low,0,Pending Documents,2026-02-11,2028-02-11
+CUST10046,Individual,United States,Hospitality,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2026-03-10,2028-03-09
+CUST10047,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2025-12-31,2027-12-31
+CUST10048,Individual,Turkey,Construction,0,0,0,1,1,1,1,1,100.0,25,Low,0,Approved,2025-12-06,2027-12-06
+CUST10049,Individual,Canada,Healthcare,1,0,1,1,1,1,0,1,80.0,62,High,1,Approved,2025-06-12,2025-12-09
+CUST10050,Business,China,Manufacturing,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2026-06-19,2028-06-18
+CUST10051,Business,United Kingdom,Manufacturing,0,0,1,1,0,1,1,1,80.0,36,Moderate,1,Approved,2026-05-28,2027-05-28
+CUST10052,Business,United States,Retail,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2026-03-12,2028-03-11
+CUST10053,Business,United States,FinTech,0,0,0,1,1,1,1,1,100.0,15,Low,0,Periodic Review,2025-07-22,2027-07-22
+CUST10054,Individual,Mexico,Healthcare,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2026-03-30,2028-03-29
+CUST10055,Business,United States,Retail,0,0,0,1,0,1,1,1,80.0,17,Low,0,Periodic Review,2026-03-02,2028-03-01
+CUST10056,Individual,United States,Education,0,0,0,0,1,1,1,1,80.0,21,Low,0,Periodic Review,2025-10-13,2027-10-13
+CUST10057,Individual,United Kingdom,Finance,0,0,0,0,1,1,1,1,80.0,19,Low,0,Approved,2025-11-16,2027-11-16
+CUST10058,Individual,United States,Hospitality,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2025-12-17,2027-12-17
+CUST10059,Individual,Canada,Construction,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2025-01-22,2027-01-22
+CUST10060,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2026-03-11,2028-03-10
+CUST10061,Individual,China,Healthcare,0,0,0,1,1,1,1,1,100.0,8,Low,0,Periodic Review,2025-10-06,2027-10-06
+CUST10062,Business,United States,Real Estate,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2026-01-13,2028-01-13
+CUST10063,Individual,United States,Technology,0,0,0,0,1,0,1,1,60.0,35,Moderate,0,Remediation,2026-03-24,2027-03-24
+CUST10064,Individual,United States,Technology,0,0,0,1,1,1,0,1,80.0,18,Low,0,Periodic Review,2026-02-27,2028-02-27
+CUST10065,Individual,United States,Education,0,0,0,0,1,1,1,1,80.0,24,Low,0,Periodic Review,2026-04-11,2028-04-10
+CUST10066,Individual,United States,Education,0,0,0,1,1,0,0,1,60.0,29,Low,0,Remediation,2025-11-23,2027-11-23
+CUST10067,Business,United States,Retail,0,0,0,1,1,1,1,1,100.0,8,Low,0,Periodic Review,2024-11-30,2026-11-30
+CUST10068,Individual,Canada,Hospitality,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2024-10-23,2026-10-23
+CUST10069,Business,United States,Hospitality,0,0,0,1,0,1,1,1,80.0,23,Low,0,Approved,2026-08-05,2028-08-04
+CUST10070,Business,Nigeria,Import/Export,0,0,1,1,1,1,0,1,80.0,51,Moderate,1,Approved,2025-12-29,2026-12-29
+CUST10071,Individual,India,Technology,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2025-05-02,2027-05-02
+CUST10072,Individual,United Arab Emirates,Education,0,0,0,1,1,1,1,1,100.0,31,Moderate,0,Approved,2024-11-23,2025-11-23
+CUST10073,Business,United States,FinTech,0,0,0,0,0,1,1,1,60.0,33,Moderate,0,Remediation,2026-02-11,2027-02-11
+CUST10074,Individual,United Kingdom,Consulting,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2026-08-11,2028-08-10
+CUST10075,Business,United States,Hospitality,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2025-01-18,2027-01-18
+CUST10076,Business,United States,Import/Export,0,0,0,1,0,1,1,1,80.0,22,Low,0,Approved,2024-10-31,2026-10-31
+CUST10077,Individual,Iran,Education,0,0,0,0,1,0,1,1,60.0,50,Moderate,0,Pending Documents,2026-05-30,2027-05-30
+CUST10078,Individual,United States,Education,0,0,0,1,1,1,1,0,80.0,18,Low,0,Approved,2026-08-24,2028-08-23
+CUST10079,Individual,United Kingdom,Technology,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2025-05-17,2027-05-17
+CUST10080,Business,Canada,FinTech,0,0,0,1,0,1,1,1,80.0,24,Low,0,Periodic Review,2025-09-27,2027-09-27
+CUST10081,Individual,Nigeria,Education,0,0,1,0,1,0,0,1,40.0,71,High,1,Pending Documents,2025-12-16,2026-06-14
+CUST10082,Individual,United Kingdom,Healthcare,0,0,0,0,1,1,1,0,60.0,31,Moderate,0,Remediation,2026-07-08,2027-07-08
+CUST10083,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2025-03-02,2027-03-02
+CUST10084,Individual,United States,Construction,0,0,0,1,1,1,1,0,80.0,15,Low,0,Periodic Review,2026-08-26,2028-08-25
+CUST10085,Individual,United Kingdom,Education,0,0,0,1,1,1,1,1,100.0,10,Low,0,Periodic Review,2025-08-20,2027-08-20
+CUST10086,Business,United States,Consulting,0,0,0,1,0,1,0,1,60.0,30,Moderate,0,Remediation,2025-02-24,2026-02-24
+CUST10087,Individual,United States,Hospitality,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2026-07-13,2028-07-12
+CUST10088,Business,United States,Logistics,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2026-05-12,2028-05-11
+CUST10089,Individual,United States,Finance,0,0,0,1,1,1,0,1,80.0,17,Low,0,Approved,2026-04-08,2028-04-07
+CUST10090,Individual,United States,Healthcare,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2026-01-14,2028-01-14
+CUST10091,Individual,United States,Healthcare,0,0,0,0,1,1,0,1,60.0,26,Low,0,Remediation,2024-09-08,2026-09-08
+CUST10092,Business,Canada,FinTech,0,0,0,0,1,1,1,1,80.0,20,Low,0,Approved,2025-04-22,2027-04-22
+CUST10093,Individual,Mexico,Education,0,0,0,1,1,1,1,1,100.0,10,Low,0,Periodic Review,2025-10-30,2027-10-30
+CUST10094,Business,China,Real Estate,0,0,0,1,0,1,1,1,80.0,26,Low,0,Approved,2025-03-08,2027-03-08
+CUST10095,Individual,United States,Healthcare,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2025-05-28,2027-05-28
+CUST10096,Individual,United States,Technology,1,0,0,0,1,1,0,1,60.0,53,Moderate,1,Pending Documents,2024-12-12,2025-12-12
+CUST10097,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2026-01-18,2028-01-18
+CUST10098,Individual,Mexico,Construction,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2026-07-04,2028-07-03
+CUST10099,Individual,Nigeria,Hospitality,0,0,0,1,1,1,1,1,100.0,33,Moderate,0,Approved,2026-06-17,2027-06-17
+CUST10100,Individual,United States,Retail,0,0,0,0,1,1,1,1,80.0,20,Low,0,Approved,2025-06-30,2027-06-30
+CUST10101,Individual,Turkey,Education,0,0,0,1,1,1,1,1,100.0,30,Moderate,0,Periodic Review,2024-09-03,2025-09-03
+CUST10102,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2026-04-22,2028-04-21
+CUST10103,Individual,United Kingdom,Finance,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2025-04-21,2027-04-21
+CUST10104,Business,Nigeria,Hospitality,0,0,0,0,0,1,1,1,60.0,46,Moderate,0,Pending Documents,2025-01-16,2026-01-16
+CUST10105,Individual,India,Retail,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2025-10-31,2027-10-31
+CUST10106,Individual,Nigeria,Finance,0,0,0,1,1,0,1,1,80.0,38,Moderate,0,Approved,2026-06-26,2027-06-26
+CUST10107,Business,China,Hospitality,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2026-01-14,2028-01-14
+CUST10108,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2025-10-03,2027-10-03
+CUST10109,Individual,China,Hospitality,1,0,1,0,1,1,1,1,80.0,61,High,1,Periodic Review,2025-11-28,2026-05-27
+CUST10110,Individual,United States,Consulting,0,0,1,1,1,1,0,0,60.0,41,Moderate,1,Remediation,2025-01-25,2026-01-25
+CUST10111,Individual,Brazil,Education,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2024-09-10,2026-09-10
+CUST10112,Business,United Kingdom,Real Estate,0,0,1,1,1,1,1,1,100.0,33,Moderate,1,Approved,2026-04-10,2027-04-10
+CUST10113,Business,China,Manufacturing,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2025-12-24,2027-12-24
+CUST10114,Individual,United States,Hospitality,1,0,0,0,1,1,1,1,80.0,42,Moderate,1,Approved,2024-10-10,2025-10-10
+CUST10115,Business,Mexico,Real Estate,0,0,0,1,1,1,0,0,60.0,19,Low,0,Pending Documents,2026-06-13,2028-06-12
+CUST10116,Business,United Kingdom,Logistics,0,0,0,0,1,1,1,1,80.0,23,Low,0,Approved,2026-07-06,2028-07-05
+CUST10117,Individual,Nigeria,Retail,0,0,1,1,1,1,1,1,100.0,43,Moderate,1,Approved,2025-08-31,2026-08-31
+CUST10118,Business,United States,Consulting,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2025-10-28,2027-10-28
+CUST10119,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2026-03-11,2028-03-10
+CUST10120,Business,United States,Real Estate,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2025-05-27,2027-05-27
+CUST10121,Business,United States,FinTech,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2024-10-23,2026-10-23
+CUST10122,Individual,India,Retail,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2025-01-13,2027-01-13
+CUST10123,Individual,United States,Healthcare,0,0,1,1,1,1,0,1,80.0,41,Moderate,1,Periodic Review,2025-04-26,2026-04-26
+CUST10124,Individual,Russia,Consulting,0,0,0,0,1,1,1,1,80.0,43,Moderate,0,Approved,2025-02-18,2026-02-18
+CUST10125,Individual,United States,Construction,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2024-12-01,2026-12-01
+CUST10126,Business,United States,Retail,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2024-10-20,2026-10-20
+CUST10127,Business,China,Real Estate,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2025-08-23,2027-08-23
+CUST10128,Individual,Mexico,Healthcare,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2025-09-17,2027-09-17
+CUST10129,Individual,United Kingdom,Finance,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2026-06-26,2028-06-25
+CUST10130,Individual,United Kingdom,Education,0,0,0,1,1,1,1,1,100.0,15,Low,0,Periodic Review,2025-10-06,2027-10-06
+CUST10131,Individual,Nigeria,Hospitality,1,0,0,1,1,1,1,1,100.0,55,Moderate,1,Approved,2026-02-19,2027-02-19
+CUST10132,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,12,Low,0,Periodic Review,2026-03-30,2028-03-29
+CUST10133,Individual,Iran,Consulting,0,0,0,1,1,1,1,0,80.0,38,Moderate,0,Approved,2026-03-25,2027-03-25
+CUST10134,Business,Russia,Real Estate,0,0,0,1,1,1,1,0,80.0,37,Moderate,0,Approved,2024-10-05,2025-10-05
+CUST10135,Individual,Mexico,Education,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2025-12-09,2027-12-09
+CUST10136,Individual,United States,Technology,0,0,0,0,1,1,1,1,80.0,25,Low,0,Approved,2026-03-17,2028-03-16
+CUST10137,Individual,Mexico,Education,0,0,1,1,1,0,1,1,80.0,41,Moderate,1,Approved,2026-04-09,2027-04-09
+CUST10138,Individual,United States,Retail,0,0,0,1,1,1,0,0,60.0,24,Low,0,Remediation,2026-02-27,2028-02-27
+CUST10139,Business,United States,FinTech,0,0,0,1,1,1,0,1,80.0,14,Low,0,Approved,2025-07-05,2027-07-05
+CUST10140,Business,United States,FinTech,0,0,0,1,1,0,1,1,80.0,23,Low,0,Approved,2025-06-01,2027-06-01
+CUST10141,Individual,United States,Hospitality,0,0,0,1,1,0,1,1,80.0,21,Low,0,Approved,2025-09-21,2027-09-21
+CUST10142,Individual,India,Consulting,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2025-02-24,2027-02-24
+CUST10143,Individual,Nigeria,Finance,0,0,0,1,1,1,1,1,100.0,25,Low,0,Approved,2025-04-03,2027-04-03
+CUST10144,Individual,United Arab Emirates,Education,0,0,0,1,1,1,1,1,100.0,27,Low,0,Approved,2024-09-26,2026-09-26
+CUST10145,Individual,United States,Healthcare,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2026-05-20,2028-05-19
+CUST10146,Individual,United States,Finance,0,0,0,1,1,1,0,0,60.0,23,Low,0,Remediation,2025-12-28,2027-12-28
+CUST10147,Individual,United States,Construction,0,0,0,1,1,1,1,0,80.0,17,Low,0,Approved,2026-08-09,2028-08-08
+CUST10148,Individual,Iran,Education,0,0,0,1,1,0,1,1,80.0,37,Moderate,0,Periodic Review,2025-03-25,2026-03-25
+CUST10149,Individual,United States,Hospitality,0,0,1,1,1,1,1,1,100.0,26,Low,1,Approved,2026-04-10,2028-04-09
+CUST10150,Business,India,Logistics,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2024-10-06,2026-10-06
+CUST10151,Individual,Canada,Construction,0,0,0,0,1,1,1,1,80.0,25,Low,0,Periodic Review,2026-02-20,2028-02-20
+CUST10152,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2025-05-24,2027-05-24
+CUST10153,Individual,Nigeria,Construction,0,0,0,1,1,1,0,1,80.0,31,Moderate,0,Approved,2025-08-22,2026-08-22
+CUST10154,Business,United Kingdom,Import/Export,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2024-10-24,2026-10-24
+CUST10155,Individual,India,Hospitality,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2024-10-09,2026-10-09
+CUST10156,Individual,Brazil,Retail,0,0,0,1,1,1,1,0,80.0,21,Low,0,Approved,2024-12-11,2026-12-11
+CUST10157,Business,United States,Logistics,0,0,0,1,1,1,1,0,80.0,14,Low,0,Approved,2025-12-09,2027-12-09
+CUST10158,Individual,United States,Technology,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2025-08-19,2027-08-19
+CUST10159,Business,Canada,Real Estate,0,0,0,1,1,1,1,1,100.0,17,Low,0,Periodic Review,2025-02-28,2027-02-28
+CUST10160,Individual,Brazil,Retail,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2025-02-22,2027-02-22
+CUST10161,Individual,United States,Technology,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2026-06-19,2028-06-18
+CUST10162,Individual,Canada,Construction,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2025-06-20,2027-06-20
+CUST10163,Individual,Mexico,Healthcare,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2026-01-18,2028-01-18
+CUST10164,Individual,Nigeria,Retail,0,0,0,1,1,1,1,1,100.0,27,Low,0,Periodic Review,2025-10-28,2027-10-28
+CUST10165,Business,United States,Hospitality,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2025-09-18,2027-09-18
+CUST10166,Individual,Nigeria,Technology,0,0,0,1,1,1,1,1,100.0,26,Low,0,Periodic Review,2025-05-13,2027-05-13
+CUST10167,Individual,Brazil,Finance,0,0,1,1,1,1,1,1,100.0,31,Moderate,1,Periodic Review,2025-10-21,2026-10-21
+CUST10168,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2025-03-25,2027-03-25
+CUST10169,Individual,United States,Healthcare,0,0,0,1,1,1,1,1,100.0,16,Low,0,Periodic Review,2025-07-03,2027-07-03
+CUST10170,Individual,Russia,Consulting,0,0,0,1,1,1,1,1,100.0,26,Low,0,Approved,2025-03-26,2027-03-26
+CUST10171,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2025-02-16,2027-02-16
+CUST10172,Individual,India,Retail,0,0,0,0,1,1,1,0,60.0,30,Moderate,0,Remediation,2025-12-26,2026-12-26
+CUST10173,Individual,United Kingdom,Retail,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2024-12-09,2026-12-09
+CUST10174,Individual,United States,Consulting,0,0,0,0,1,1,1,1,80.0,25,Low,0,Approved,2025-02-09,2027-02-09
+CUST10175,Individual,India,Construction,0,0,0,0,1,1,1,1,80.0,24,Low,0,Approved,2026-03-03,2028-03-02
+CUST10176,Individual,United States,Hospitality,0,0,0,1,1,1,1,0,80.0,15,Low,0,Periodic Review,2026-05-18,2028-05-17
+CUST10177,Individual,United Kingdom,Hospitality,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2026-02-22,2028-02-22
+CUST10178,Business,United States,FinTech,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2026-04-17,2028-04-16
+CUST10179,Individual,Canada,Retail,0,0,0,0,1,1,1,0,60.0,23,Low,0,Remediation,2024-10-01,2026-10-01
+CUST10180,Individual,United States,Construction,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2026-05-04,2028-05-03
+CUST10181,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2026-06-21,2028-06-20
+CUST10182,Business,Russia,FinTech,0,0,0,1,1,1,1,1,100.0,31,Moderate,0,Periodic Review,2026-04-23,2027-04-23
+CUST10183,Business,United States,Import/Export,0,0,1,1,1,1,1,1,100.0,34,Moderate,1,Approved,2025-06-01,2026-06-01
+CUST10184,Individual,Mexico,Consulting,0,0,0,1,1,1,1,0,80.0,22,Low,0,Periodic Review,2025-05-10,2027-05-10
+CUST10185,Individual,United States,Hospitality,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2026-07-11,2028-07-10
+CUST10186,Business,United Arab Emirates,Logistics,0,0,0,0,1,1,0,1,60.0,44,Moderate,0,Pending Documents,2025-02-04,2026-02-04
+CUST10187,Individual,United States,Finance,0,0,0,1,1,1,0,1,80.0,15,Low,0,Approved,2026-05-05,2028-05-04
+CUST10188,Individual,Russia,Finance,0,0,0,1,1,1,1,1,100.0,32,Moderate,0,Approved,2025-12-11,2026-12-11
+CUST10189,Individual,United States,Consulting,1,0,0,1,1,0,1,1,80.0,45,Moderate,1,Approved,2026-01-05,2027-01-05
+CUST10190,Individual,United States,Technology,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2025-09-15,2027-09-15
+CUST10191,Business,United States,Consulting,0,0,0,0,0,1,1,1,60.0,35,Moderate,0,Pending Documents,2025-12-20,2026-12-20
+CUST10192,Business,United States,Hospitality,0,0,0,1,1,0,1,1,80.0,26,Low,0,Approved,2024-10-16,2026-10-16
+CUST10193,Individual,United Kingdom,Technology,0,0,1,1,1,1,1,1,100.0,33,Moderate,1,Approved,2025-10-27,2026-10-27
+CUST10194,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2025-01-02,2027-01-02
+CUST10195,Individual,China,Education,0,0,0,0,1,1,1,1,80.0,25,Low,0,Approved,2025-04-24,2027-04-24
+CUST10196,Business,United States,Import/Export,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2026-07-06,2028-07-05
+CUST10197,Business,United States,Real Estate,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2025-07-25,2027-07-25
+CUST10198,Business,Canada,Consulting,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2026-06-26,2028-06-25
+CUST10199,Business,Nigeria,Import/Export,0,0,0,1,1,1,1,1,100.0,24,Low,0,Approved,2026-07-17,2028-07-16
+CUST10200,Individual,United States,Finance,0,0,0,0,1,1,1,1,80.0,21,Low,0,Approved,2025-01-03,2027-01-03
+CUST10201,Individual,United States,Hospitality,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2024-11-20,2026-11-20
+CUST10202,Individual,United States,Hospitality,0,0,1,1,1,1,1,1,100.0,27,Low,1,Approved,2025-08-28,2027-08-28
+CUST10203,Business,Nigeria,Logistics,1,0,0,1,0,1,1,1,80.0,59,Moderate,1,Periodic Review,2025-01-04,2026-01-04
+CUST10204,Individual,Mexico,Retail,0,0,0,1,1,1,0,0,60.0,22,Low,0,Remediation,2026-01-12,2028-01-12
+CUST10205,Individual,United States,Hospitality,1,0,1,1,1,1,1,0,80.0,53,Moderate,1,Approved,2025-07-26,2026-07-26
+CUST10206,Individual,India,Education,0,0,0,1,1,1,1,1,100.0,16,Low,0,Periodic Review,2025-02-17,2027-02-17
+CUST10207,Individual,China,Finance,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2026-08-09,2028-08-08
+CUST10208,Individual,Canada,Consulting,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2025-02-04,2027-02-04
+CUST10209,Individual,India,Hospitality,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2025-12-08,2027-12-08
+CUST10210,Individual,United States,Technology,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2026-05-06,2028-05-05
+CUST10211,Individual,United States,Consulting,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2025-01-09,2027-01-09
+CUST10212,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,9,Low,0,Periodic Review,2025-01-08,2027-01-08
+CUST10213,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,17,Low,0,Periodic Review,2026-07-08,2028-07-07
+CUST10214,Individual,United Kingdom,Technology,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2026-04-01,2028-03-31
+CUST10215,Individual,Turkey,Technology,0,0,0,1,1,1,1,1,100.0,25,Low,0,Approved,2026-01-05,2028-01-05
+CUST10216,Individual,United States,Technology,0,0,0,1,1,1,1,1,100.0,9,Low,0,Periodic Review,2025-12-10,2027-12-10
+CUST10217,Business,United States,Retail,0,0,0,1,0,1,1,1,80.0,20,Low,0,Approved,2025-12-07,2027-12-07
+CUST10218,Individual,United States,Consulting,0,0,0,0,1,1,1,0,60.0,26,Low,0,Remediation,2026-05-11,2028-05-10
+CUST10219,Business,Turkey,Real Estate,0,0,0,1,0,1,1,1,80.0,40,Moderate,0,Approved,2026-03-19,2027-03-19
+CUST10220,Individual,United States,Finance,0,0,0,1,1,1,1,0,80.0,18,Low,0,Approved,2024-11-02,2026-11-02
+CUST10221,Individual,United Kingdom,Hospitality,0,0,0,1,1,1,0,0,60.0,28,Low,0,Remediation,2026-08-24,2028-08-23
+CUST10222,Individual,United States,Construction,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2024-09-17,2026-09-17
+CUST10223,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2026-01-27,2028-01-27
+CUST10224,Individual,Iran,Finance,0,0,0,1,1,1,1,1,100.0,33,Moderate,0,Approved,2025-06-27,2026-06-27
+CUST10225,Individual,Russia,Education,0,0,0,1,1,1,1,1,100.0,27,Low,0,Approved,2025-11-13,2027-11-13
+CUST10226,Business,United States,Hospitality,0,0,0,0,1,1,1,1,80.0,19,Low,0,Approved,2026-07-13,2028-07-12
+CUST10227,Individual,Russia,Hospitality,0,0,1,1,1,1,1,0,80.0,55,Moderate,1,Approved,2026-05-17,2027-05-17
+CUST10228,Business,Mexico,FinTech,0,0,0,1,1,1,1,1,100.0,9,Low,0,Periodic Review,2026-08-23,2028-08-22
+CUST10229,Individual,India,Education,0,0,0,1,1,1,0,1,80.0,14,Low,0,Periodic Review,2024-10-01,2026-10-01
+CUST10230,Business,United States,Manufacturing,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2025-06-02,2027-06-02
+CUST10231,Individual,United Kingdom,Hospitality,0,0,1,1,1,1,0,1,80.0,41,Moderate,1,Approved,2025-10-13,2026-10-13
+CUST10232,Individual,United Kingdom,Consulting,0,0,0,1,1,1,1,0,80.0,21,Low,0,Approved,2025-10-27,2027-10-27
+CUST10233,Individual,Mexico,Healthcare,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2024-12-18,2026-12-18
+CUST10234,Individual,United States,Consulting,0,0,0,0,1,1,1,1,80.0,24,Low,0,Approved,2026-04-09,2028-04-08
+CUST10235,Business,United States,Hospitality,0,0,0,1,1,0,1,1,80.0,19,Low,0,Approved,2025-07-16,2027-07-16
+CUST10236,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2026-05-10,2028-05-09
+CUST10237,Individual,Nigeria,Construction,0,0,0,1,1,1,1,1,100.0,28,Low,0,Approved,2025-02-03,2027-02-03
+CUST10238,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2025-07-29,2027-07-29
+CUST10239,Individual,Mexico,Finance,0,0,0,0,1,1,1,1,80.0,19,Low,0,Approved,2025-11-30,2027-11-30
+CUST10240,Business,Russia,Logistics,0,0,1,1,1,1,1,0,80.0,48,Moderate,1,Periodic Review,2026-04-30,2027-04-30
+CUST10241,Business,United States,Real Estate,0,0,0,0,1,1,1,0,60.0,32,Moderate,0,Remediation,2026-06-07,2027-06-07
+CUST10242,Business,Mexico,Hospitality,0,0,0,0,1,1,1,1,80.0,27,Low,0,Approved,2025-01-27,2027-01-27
+CUST10243,Individual,United States,Consulting,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2026-07-16,2028-07-15
+CUST10244,Individual,India,Construction,0,0,0,1,1,1,1,0,80.0,13,Low,0,Periodic Review,2024-09-20,2026-09-20
+CUST10245,Business,United States,Real Estate,0,0,0,1,1,1,1,0,80.0,16,Low,0,Approved,2026-02-12,2028-02-12
+CUST10246,Individual,Nigeria,Consulting,1,0,0,1,1,1,0,0,60.0,66,High,1,Remediation,2025-11-29,2026-05-28
+CUST10247,Business,India,Import/Export,0,0,0,1,0,1,1,0,60.0,26,Low,0,Remediation,2025-03-01,2027-03-01
+CUST10248,Business,Turkey,Real Estate,0,0,0,1,1,1,1,1,100.0,25,Low,0,Approved,2024-09-16,2026-09-16
+CUST10249,Business,Mexico,Consulting,0,0,0,0,1,1,1,1,80.0,19,Low,0,Approved,2026-04-24,2028-04-23
+CUST10250,Individual,United Kingdom,Consulting,0,0,0,1,1,1,0,1,80.0,20,Low,0,Approved,2025-06-10,2027-06-10
+CUST10251,Individual,Canada,Finance,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2025-08-08,2027-08-08
+CUST10252,Business,India,Real Estate,0,0,0,1,1,0,1,1,80.0,23,Low,0,Approved,2025-02-02,2027-02-02
+CUST10253,Individual,Canada,Construction,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2025-12-12,2027-12-12
+CUST10254,Individual,United States,Technology,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2024-12-08,2026-12-08
+CUST10255,Individual,Turkey,Construction,0,0,0,1,1,1,1,1,100.0,32,Moderate,0,Approved,2025-11-27,2026-11-27
+CUST10256,Business,Mexico,Hospitality,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2024-09-17,2026-09-17
+CUST10257,Individual,Mexico,Finance,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2026-07-17,2028-07-16
+CUST10258,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2026-03-17,2028-03-16
+CUST10259,Individual,Mexico,Healthcare,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2025-06-13,2027-06-13
+CUST10260,Individual,United States,Consulting,0,0,0,1,1,1,1,1,100.0,14,Low,0,Periodic Review,2024-12-18,2026-12-18
+CUST10261,Business,Mexico,Manufacturing,0,0,0,1,1,1,0,1,80.0,22,Low,0,Approved,2026-07-17,2028-07-16
+CUST10262,Individual,United States,Technology,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2024-09-07,2026-09-07
+CUST10263,Individual,Mexico,Consulting,0,0,1,1,1,1,1,0,80.0,34,Moderate,1,Approved,2025-03-10,2026-03-10
+CUST10264,Business,Iran,Real Estate,0,0,0,1,1,1,0,1,80.0,33,Moderate,0,Approved,2026-06-06,2027-06-06
+CUST10265,Business,United States,Manufacturing,0,0,0,1,1,0,0,1,60.0,30,Moderate,0,Remediation,2025-08-12,2026-08-12
+CUST10266,Individual,Russia,Hospitality,0,0,1,1,1,1,0,0,60.0,53,Moderate,1,Remediation,2024-11-01,2025-11-01
+CUST10267,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2025-12-10,2027-12-10
+CUST10268,Individual,India,Technology,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2026-08-10,2028-08-09
+CUST10269,Individual,China,Retail,0,0,0,1,1,1,1,0,80.0,14,Low,0,Approved,2024-09-28,2026-09-28
+CUST10270,Business,Canada,Import/Export,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2025-06-08,2027-06-08
+CUST10271,Business,Nigeria,Consulting,0,0,1,0,0,1,1,0,40.0,72,High,1,Remediation,2026-01-12,2026-07-11
+CUST10272,Business,India,FinTech,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2026-02-27,2028-02-27
+CUST10273,Business,United States,Manufacturing,0,0,0,1,1,1,0,1,80.0,16,Low,0,Approved,2025-10-10,2027-10-10
+CUST10274,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2026-03-02,2028-03-01
+CUST10275,Individual,Mexico,Education,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2025-07-31,2027-07-31
+CUST10276,Business,China,Consulting,0,0,0,1,0,0,1,1,60.0,36,Moderate,0,Remediation,2025-05-08,2026-05-08
+CUST10277,Individual,United Arab Emirates,Consulting,0,0,0,0,1,1,1,1,80.0,37,Moderate,0,Approved,2025-07-25,2026-07-25
+CUST10278,Individual,China,Education,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2025-05-26,2027-05-26
+CUST10279,Business,United States,Consulting,0,0,0,1,0,1,1,1,80.0,17,Low,0,Approved,2025-07-11,2027-07-11
+CUST10280,Business,China,Import/Export,0,0,0,1,0,1,1,1,80.0,17,Low,0,Approved,2026-02-11,2028-02-11
+CUST10281,Individual,United States,Technology,0,0,0,0,1,1,1,1,80.0,22,Low,0,Approved,2026-06-28,2028-06-27
+CUST10282,Individual,United Kingdom,Hospitality,1,0,0,1,1,1,1,1,100.0,35,Moderate,1,Approved,2025-02-23,2026-02-23
+CUST10283,Individual,United States,Technology,0,0,0,1,1,1,1,1,100.0,12,Low,0,Periodic Review,2026-08-15,2028-08-14
+CUST10284,Individual,United States,Retail,0,0,0,1,1,0,1,1,80.0,19,Low,0,Approved,2026-03-02,2028-03-01
+CUST10285,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,16,Low,0,Periodic Review,2025-08-06,2027-08-06
+CUST10286,Individual,United States,Healthcare,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2026-07-19,2028-07-18
+CUST10287,Individual,Nigeria,Hospitality,0,0,0,1,1,1,1,1,100.0,28,Low,0,Approved,2024-10-01,2026-10-01
+CUST10288,Individual,United States,Consulting,0,0,1,1,1,1,1,0,80.0,40,Moderate,1,Periodic Review,2025-05-07,2026-05-07
+CUST10289,Individual,United States,Hospitality,0,0,0,1,1,1,1,0,80.0,21,Low,0,Periodic Review,2025-12-12,2027-12-12
+CUST10290,Individual,United States,Technology,0,0,0,0,1,1,1,1,80.0,20,Low,0,Periodic Review,2026-03-11,2028-03-10
+CUST10291,Individual,United States,Healthcare,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2025-06-17,2027-06-17
+CUST10292,Business,United States,Consulting,0,0,1,1,1,1,0,1,80.0,36,Moderate,1,Approved,2025-02-12,2026-02-12
+CUST10293,Individual,United States,Construction,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2026-01-24,2028-01-24
+CUST10294,Individual,Canada,Consulting,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2025-02-20,2027-02-20
+CUST10295,Individual,Mexico,Retail,0,0,0,0,1,1,1,1,80.0,19,Low,0,Approved,2025-08-03,2027-08-03
+CUST10296,Business,Canada,Hospitality,0,0,0,0,1,1,1,1,80.0,22,Low,0,Periodic Review,2026-02-18,2028-02-18
+CUST10297,Individual,United States,Hospitality,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2025-07-19,2027-07-19
+CUST10298,Individual,United States,Construction,0,0,0,1,1,1,1,0,80.0,14,Low,0,Approved,2025-05-18,2027-05-18
+CUST10299,Individual,India,Finance,0,0,0,1,1,0,1,1,80.0,27,Low,0,Approved,2025-09-19,2027-09-19
+CUST10300,Individual,United Kingdom,Finance,0,0,0,1,1,0,1,1,80.0,26,Low,0,Approved,2025-05-27,2027-05-27
+CUST10301,Individual,United States,Consulting,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2026-07-02,2028-07-01
+CUST10302,Individual,United States,Finance,0,0,0,0,1,1,1,1,80.0,23,Low,0,Periodic Review,2026-03-19,2028-03-18
+CUST10303,Individual,United States,Construction,0,0,0,0,1,1,1,1,80.0,25,Low,0,Approved,2024-10-29,2026-10-29
+CUST10304,Business,United States,Retail,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2026-04-03,2028-04-02
+CUST10305,Business,United States,Consulting,0,0,0,1,1,1,1,1,100.0,15,Low,0,Periodic Review,2026-05-13,2028-05-12
+CUST10306,Individual,Canada,Education,0,0,0,1,1,1,1,1,100.0,12,Low,0,Periodic Review,2025-05-01,2027-05-01
+CUST10307,Individual,United Kingdom,Consulting,0,0,0,1,1,0,1,1,80.0,22,Low,0,Approved,2025-03-01,2027-03-01
+CUST10308,Business,Canada,Retail,0,0,0,1,0,1,1,1,80.0,22,Low,0,Periodic Review,2026-08-29,2028-08-28
+CUST10309,Individual,United Arab Emirates,Education,0,0,0,1,1,0,1,1,80.0,34,Moderate,0,Approved,2025-05-06,2026-05-06
+CUST10310,Individual,China,Education,0,0,0,1,1,1,1,1,100.0,15,Low,0,Periodic Review,2026-08-19,2028-08-18
+CUST10311,Individual,Nigeria,Finance,0,0,0,1,1,1,1,1,100.0,25,Low,0,Approved,2026-03-23,2028-03-22
+CUST10312,Individual,Russia,Finance,0,0,0,0,1,1,0,1,60.0,45,Moderate,0,Pending Documents,2025-09-22,2026-09-22
+CUST10313,Business,United States,Manufacturing,1,0,0,0,1,1,1,1,80.0,48,Moderate,1,Approved,2025-06-09,2026-06-09
+CUST10314,Business,United States,Retail,1,0,0,1,1,1,1,1,100.0,32,Moderate,1,Approved,2025-10-04,2026-10-04
+CUST10315,Individual,United States,Healthcare,0,0,1,1,1,1,1,1,100.0,27,Low,1,Approved,2025-12-11,2027-12-11
+CUST10316,Individual,Mexico,Consulting,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2026-06-10,2028-06-09
+CUST10317,Individual,Brazil,Technology,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2025-10-02,2027-10-02
+CUST10318,Individual,United States,Hospitality,0,0,0,1,1,0,1,0,60.0,31,Moderate,0,Remediation,2025-08-17,2026-08-17
+CUST10319,Individual,Turkey,Healthcare,0,0,0,0,1,1,1,1,80.0,39,Moderate,0,Approved,2026-01-25,2027-01-25
+CUST10320,Individual,United States,Healthcare,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2024-11-12,2026-11-12
+CUST10321,Individual,Turkey,Retail,0,0,0,1,1,1,1,1,100.0,31,Moderate,0,Approved,2025-06-04,2026-06-04
+CUST10322,Individual,United States,Consulting,0,0,0,1,1,1,1,1,100.0,14,Low,0,Periodic Review,2024-10-28,2026-10-28
+CUST10323,Individual,United States,Construction,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2026-06-04,2028-06-03
+CUST10324,Business,United Kingdom,Retail,1,0,0,1,1,1,0,1,80.0,37,Moderate,1,Approved,2025-10-03,2026-10-03
+CUST10325,Business,United States,Consulting,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2025-10-26,2027-10-26
+CUST10326,Individual,United States,Healthcare,0,0,1,1,1,1,1,1,100.0,35,Moderate,1,Approved,2024-09-04,2025-09-04
+CUST10327,Individual,United States,Healthcare,0,0,0,1,1,1,1,0,80.0,17,Low,0,Periodic Review,2025-07-08,2027-07-08
+CUST10328,Individual,China,Education,0,0,0,1,1,1,1,1,100.0,14,Low,0,Periodic Review,2024-12-31,2026-12-31
+CUST10329,Individual,United Kingdom,Consulting,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2024-09-06,2026-09-06
+CUST10330,Individual,United States,Hospitality,0,0,0,0,1,1,1,1,80.0,19,Low,0,Approved,2025-09-12,2027-09-12
+CUST10331,Business,Canada,Hospitality,0,0,0,0,1,1,1,1,80.0,24,Low,0,Approved,2026-05-24,2028-05-23
+CUST10332,Individual,Nigeria,Retail,0,0,0,1,1,1,1,1,100.0,29,Low,0,Approved,2026-04-09,2028-04-08
+CUST10333,Individual,United States,Healthcare,0,0,0,1,1,0,1,1,80.0,24,Low,0,Approved,2026-08-22,2028-08-21
+CUST10334,Individual,United States,Hospitality,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2026-07-19,2028-07-18
+CUST10335,Individual,United States,Finance,0,0,0,1,1,1,1,0,80.0,16,Low,0,Approved,2025-08-11,2027-08-11
+CUST10336,Business,United States,Manufacturing,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2025-04-24,2027-04-24
+CUST10337,Individual,Mexico,Hospitality,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2025-04-26,2027-04-26
+CUST10338,Individual,United States,Construction,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2026-03-16,2028-03-15
+CUST10339,Individual,United Kingdom,Consulting,0,0,0,1,1,1,1,1,100.0,10,Low,0,Periodic Review,2024-11-28,2026-11-28
+CUST10340,Individual,Nigeria,Construction,0,0,0,1,1,1,1,1,100.0,26,Low,0,Approved,2025-03-19,2027-03-19
+CUST10341,Individual,United States,Hospitality,0,0,0,0,1,0,1,1,60.0,32,Moderate,0,Pending Documents,2025-09-30,2026-09-30
+CUST10342,Individual,Canada,Finance,0,0,0,1,1,0,1,1,80.0,20,Low,0,Approved,2025-04-06,2027-04-06
+CUST10343,Individual,United States,Construction,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2026-04-24,2028-04-23
+CUST10344,Individual,Russia,Education,0,0,0,1,1,1,0,1,80.0,37,Moderate,0,Approved,2025-03-11,2026-03-11
+CUST10345,Individual,United Kingdom,Hospitality,0,0,0,0,1,1,1,1,80.0,18,Low,0,Approved,2025-04-05,2027-04-05
+CUST10346,Individual,China,Education,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2025-12-25,2027-12-25
+CUST10347,Individual,United Kingdom,Hospitality,0,0,1,1,1,1,1,1,100.0,27,Low,1,Approved,2026-04-16,2028-04-15
+CUST10348,Individual,United States,Technology,0,0,0,1,1,1,1,0,80.0,16,Low,0,Periodic Review,2025-11-30,2027-11-30
+CUST10349,Individual,Mexico,Technology,0,0,0,1,1,1,1,1,100.0,16,Low,0,Periodic Review,2025-05-25,2027-05-25
+CUST10350,Individual,Russia,Technology,0,0,0,1,1,1,0,1,80.0,31,Moderate,0,Approved,2026-04-13,2027-04-13
+CUST10351,Business,Canada,Retail,0,0,0,1,0,1,1,1,80.0,25,Low,0,Periodic Review,2025-12-19,2027-12-19
+CUST10352,Individual,China,Education,1,0,0,1,1,1,1,1,100.0,36,Moderate,1,Approved,2025-06-02,2026-06-02
+CUST10353,Individual,Brazil,Education,0,0,0,1,1,1,1,1,100.0,17,Low,0,Periodic Review,2025-06-24,2027-06-24
+CUST10354,Individual,United States,Education,0,0,1,1,1,1,1,1,100.0,33,Moderate,1,Approved,2025-01-02,2026-01-02
+CUST10355,Individual,United States,Finance,0,0,1,1,1,1,1,1,100.0,26,Low,1,Approved,2026-03-12,2028-03-11
+CUST10356,Individual,Canada,Education,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2025-05-16,2027-05-16
+CUST10357,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,16,Low,0,Periodic Review,2025-07-05,2027-07-05
+CUST10358,Business,India,Retail,0,0,1,1,1,1,1,1,100.0,29,Low,1,Approved,2025-06-19,2027-06-19
+CUST10359,Individual,Brazil,Technology,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2026-07-06,2028-07-05
+CUST10360,Individual,United States,Construction,0,0,0,1,1,1,1,1,100.0,13,Low,0,Periodic Review,2025-04-21,2027-04-21
+CUST10361,Individual,United States,Hospitality,0,0,0,1,1,1,1,1,100.0,9,Low,0,Periodic Review,2024-12-26,2026-12-26
+CUST10362,Individual,China,Technology,0,0,0,0,1,1,1,1,80.0,20,Low,0,Approved,2026-03-16,2028-03-15
+CUST10363,Individual,United States,Hospitality,0,0,0,1,1,1,1,0,80.0,20,Low,0,Approved,2025-01-27,2027-01-27
+CUST10364,Business,China,Retail,0,0,0,1,0,1,1,1,80.0,19,Low,0,Approved,2025-02-17,2027-02-17
+CUST10365,Individual,United States,Consulting,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2025-06-30,2027-06-30
+CUST10366,Business,Mexico,Retail,0,0,0,1,1,1,0,1,80.0,19,Low,0,Approved,2025-07-09,2027-07-09
+CUST10367,Business,United States,Real Estate,0,0,0,0,0,1,1,1,60.0,29,Low,0,Remediation,2025-09-19,2027-09-19
+CUST10368,Individual,Canada,Healthcare,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2025-04-02,2027-04-02
+CUST10369,Individual,United States,Retail,0,0,0,0,1,1,0,1,60.0,26,Low,0,Remediation,2025-06-03,2027-06-03
+CUST10370,Individual,Canada,Consulting,1,0,0,1,1,0,1,0,60.0,50,Moderate,1,Remediation,2024-09-17,2025-09-17
+CUST10371,Individual,United States,Construction,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2026-02-11,2028-02-11
+CUST10372,Individual,Nigeria,Retail,0,0,1,0,1,1,1,1,80.0,60,High,1,Approved,2026-03-06,2026-09-02
+CUST10373,Individual,India,Retail,0,0,1,1,1,0,1,1,80.0,42,Moderate,1,Approved,2026-07-06,2027-07-06
+CUST10374,Individual,United States,Consulting,0,0,0,0,1,1,1,1,80.0,22,Low,0,Approved,2024-10-03,2026-10-03
+CUST10375,Individual,United States,Healthcare,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2025-01-05,2027-01-05
+CUST10376,Business,United States,Retail,0,0,0,1,1,1,1,0,80.0,21,Low,0,Approved,2025-04-18,2027-04-18
+CUST10377,Individual,Mexico,Healthcare,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2026-05-12,2028-05-11
+CUST10378,Business,Canada,FinTech,0,0,1,1,1,1,1,1,100.0,32,Moderate,1,Approved,2026-04-06,2027-04-06
+CUST10379,Individual,United Kingdom,Construction,0,0,0,1,1,1,0,1,80.0,22,Low,0,Approved,2024-09-16,2026-09-16
+CUST10380,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2025-08-19,2027-08-19
+CUST10381,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2025-09-18,2027-09-18
+CUST10382,Individual,Canada,Consulting,0,0,0,0,1,1,1,1,80.0,18,Low,0,Periodic Review,2025-09-08,2027-09-08
+CUST10383,Business,United Kingdom,Manufacturing,0,0,0,0,1,1,1,1,80.0,23,Low,0,Approved,2026-07-07,2028-07-06
+CUST10384,Business,Iran,Hospitality,0,0,0,1,1,1,1,1,100.0,25,Low,0,Approved,2025-10-20,2027-10-20
+CUST10385,Business,United States,Logistics,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2026-02-28,2028-02-28
+CUST10386,Individual,Nigeria,Hospitality,0,0,0,1,1,1,0,1,80.0,34,Moderate,0,Periodic Review,2026-07-09,2027-07-09
+CUST10387,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2026-07-26,2028-07-25
+CUST10388,Business,United States,Import/Export,0,0,0,1,0,0,1,1,60.0,28,Low,0,Remediation,2024-09-08,2026-09-08
+CUST10389,Business,Nigeria,FinTech,0,0,0,0,1,1,1,1,80.0,41,Moderate,0,Approved,2025-12-05,2026-12-05
+CUST10390,Business,Nigeria,Import/Export,0,0,0,1,1,1,1,1,100.0,30,Moderate,0,Approved,2025-04-11,2026-04-11
+CUST10391,Individual,Iran,Consulting,0,0,0,1,1,1,1,1,100.0,32,Moderate,0,Approved,2026-01-16,2027-01-16
+CUST10392,Individual,United States,Healthcare,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2025-06-30,2027-06-30
+CUST10393,Business,United States,Hospitality,0,0,0,1,1,1,1,1,100.0,11,Low,0,Periodic Review,2024-09-08,2026-09-08
+CUST10394,Individual,Nigeria,Hospitality,0,0,1,0,1,1,1,1,80.0,53,Moderate,1,Periodic Review,2026-08-31,2027-08-31
+CUST10395,Business,Canada,FinTech,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2026-08-09,2028-08-08
+CUST10396,Business,United States,Logistics,0,0,0,1,0,1,1,1,80.0,18,Low,0,Periodic Review,2025-04-16,2027-04-16
+CUST10397,Individual,United States,Healthcare,0,0,0,0,1,1,1,1,80.0,23,Low,0,Approved,2025-06-10,2027-06-10
+CUST10398,Business,United States,FinTech,0,0,0,1,0,1,1,1,80.0,23,Low,0,Approved,2025-04-23,2027-04-23
+CUST10399,Business,Brazil,Consulting,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2025-07-03,2027-07-03
+CUST10400,Individual,United States,Healthcare,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2024-10-01,2026-10-01
+CUST10401,Business,United States,Logistics,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2026-08-14,2028-08-13
+CUST10402,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2025-06-13,2027-06-13
+CUST10403,Business,United States,Manufacturing,0,0,0,1,1,1,1,1,100.0,11,Low,0,Periodic Review,2025-02-17,2027-02-17
+CUST10404,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2025-02-19,2027-02-19
+CUST10405,Business,United Kingdom,FinTech,0,0,0,1,1,1,1,0,80.0,19,Low,0,Approved,2024-12-13,2026-12-13
+CUST10406,Individual,United States,Hospitality,0,0,0,1,1,0,1,0,60.0,31,Moderate,0,Remediation,2026-07-24,2027-07-24
+CUST10407,Individual,China,Technology,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2024-09-02,2026-09-02
+CUST10408,Business,United States,Import/Export,0,0,0,1,0,1,0,1,60.0,30,Moderate,0,Remediation,2026-02-03,2027-02-03
+CUST10409,Individual,United Kingdom,Technology,0,0,1,1,1,1,1,1,100.0,28,Low,1,Approved,2026-02-02,2028-02-02
+CUST10410,Individual,Brazil,Healthcare,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2025-02-13,2027-02-13
+CUST10411,Business,Mexico,Retail,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2025-11-24,2027-11-24
+CUST10412,Business,United Kingdom,Manufacturing,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2026-04-21,2028-04-20
+CUST10413,Individual,United States,Healthcare,0,0,0,1,1,1,0,1,80.0,16,Low,0,Approved,2025-06-09,2027-06-09
+CUST10414,Individual,United States,Consulting,0,0,0,1,1,1,1,1,100.0,17,Low,0,Periodic Review,2025-12-11,2027-12-11
+CUST10415,Individual,Mexico,Construction,0,0,0,1,1,0,1,0,60.0,28,Low,0,Pending Documents,2026-05-13,2028-05-12
+CUST10416,Individual,Iran,Construction,0,0,0,1,1,0,1,0,60.0,48,Moderate,0,Remediation,2025-02-23,2026-02-23
+CUST10417,Individual,Mexico,Technology,0,0,1,1,1,1,1,1,100.0,34,Moderate,1,Approved,2026-01-06,2027-01-06
+CUST10418,Individual,United Kingdom,Hospitality,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2025-06-01,2027-06-01
+CUST10419,Business,Nigeria,FinTech,0,0,0,1,1,1,1,1,100.0,27,Low,0,Approved,2025-04-03,2027-04-03
+CUST10420,Business,United States,Logistics,0,0,1,1,0,1,0,1,60.0,43,Moderate,1,Remediation,2026-03-12,2027-03-12
+CUST10421,Business,United States,Manufacturing,0,0,0,1,1,0,1,1,80.0,27,Low,0,Approved,2026-02-20,2028-02-20
+CUST10422,Individual,Canada,Technology,0,0,0,0,1,1,1,1,80.0,21,Low,0,Approved,2025-04-04,2027-04-04
+CUST10423,Individual,Russia,Construction,0,0,0,1,1,0,1,1,80.0,36,Moderate,0,Approved,2025-02-10,2026-02-10
+CUST10424,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2025-07-19,2027-07-19
+CUST10425,Individual,Nigeria,Retail,0,0,0,1,1,1,1,1,100.0,32,Moderate,0,Approved,2024-10-13,2025-10-13
+CUST10426,Individual,United States,Technology,0,0,1,1,1,1,1,1,100.0,29,Low,1,Periodic Review,2024-12-12,2026-12-12
+CUST10427,Business,United Kingdom,Retail,0,0,0,1,1,1,1,1,100.0,16,Low,0,Periodic Review,2026-06-09,2028-06-08
+CUST10428,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2024-10-30,2026-10-30
+CUST10429,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2026-06-13,2028-06-12
+CUST10430,Individual,United Arab Emirates,Finance,0,0,0,1,1,0,1,1,80.0,40,Moderate,0,Periodic Review,2025-01-31,2026-01-31
+CUST10431,Business,United States,Logistics,0,0,1,1,1,1,1,0,80.0,35,Moderate,1,Approved,2026-02-04,2027-02-04
+CUST10432,Individual,Mexico,Technology,0,0,0,1,1,1,1,1,100.0,8,Low,0,Periodic Review,2025-03-28,2027-03-28
+CUST10433,Individual,China,Finance,1,0,0,1,1,1,1,1,100.0,31,Moderate,1,Approved,2026-02-14,2027-02-14
+CUST10434,Individual,Turkey,Finance,0,0,0,1,1,1,1,1,100.0,28,Low,0,Periodic Review,2025-02-07,2027-02-07
+CUST10435,Individual,United States,Technology,1,0,0,0,1,1,1,1,80.0,45,Moderate,1,Periodic Review,2026-01-10,2027-01-10
+CUST10436,Individual,United States,Finance,1,0,0,1,1,1,1,1,100.0,36,Moderate,1,Approved,2025-12-31,2026-12-31
+CUST10437,Business,United States,Logistics,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2025-08-04,2027-08-04
+CUST10438,Individual,Iran,Retail,0,0,0,0,1,1,1,1,80.0,43,Moderate,0,Approved,2025-02-12,2026-02-12
+CUST10439,Individual,Turkey,Retail,0,0,0,0,1,1,1,1,80.0,42,Moderate,0,Approved,2025-06-12,2026-06-12
+CUST10440,Individual,United Kingdom,Retail,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2025-08-04,2027-08-04
+CUST10441,Business,India,Consulting,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2026-08-23,2028-08-22
+CUST10442,Individual,United Kingdom,Hospitality,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2024-12-27,2026-12-27
+CUST10443,Individual,Canada,Finance,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2024-09-16,2026-09-16
+CUST10444,Business,United States,FinTech,0,0,0,1,0,1,1,1,80.0,17,Low,0,Periodic Review,2026-04-01,2028-03-31
+CUST10445,Business,United Arab Emirates,Consulting,0,0,0,1,1,1,1,0,80.0,37,Moderate,0,Approved,2026-05-14,2027-05-14
+CUST10446,Business,United States,FinTech,0,0,1,1,1,1,1,1,100.0,35,Moderate,1,Approved,2025-12-09,2026-12-09
+CUST10447,Business,China,Consulting,0,0,0,1,1,0,1,1,80.0,21,Low,0,Approved,2025-08-24,2027-08-24
+CUST10448,Individual,China,Consulting,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2026-04-02,2028-04-01
+CUST10449,Individual,Nigeria,Consulting,0,0,0,1,1,1,1,1,100.0,30,Moderate,0,Approved,2025-01-14,2026-01-14
+CUST10450,Business,United States,Import/Export,0,0,0,0,1,1,1,1,80.0,18,Low,0,Periodic Review,2025-07-13,2027-07-13
+CUST10451,Individual,United States,Finance,0,0,1,0,1,1,1,1,80.0,38,Moderate,1,Approved,2024-11-24,2025-11-24
+CUST10452,Individual,United States,Education,0,0,0,0,1,1,1,0,60.0,25,Low,0,Remediation,2025-10-10,2027-10-10
+CUST10453,Business,United States,Import/Export,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2024-10-29,2026-10-29
+CUST10454,Individual,United States,Healthcare,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2025-02-27,2027-02-27
+CUST10455,Individual,Turkey,Hospitality,0,0,0,1,1,1,1,1,100.0,28,Low,0,Periodic Review,2026-03-09,2028-03-08
+CUST10456,Individual,United Kingdom,Healthcare,0,0,0,1,1,1,0,1,80.0,14,Low,0,Approved,2025-03-25,2027-03-25
+CUST10457,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2025-10-21,2027-10-21
+CUST10458,Individual,United States,Technology,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2026-06-26,2028-06-25
+CUST10459,Individual,United States,Retail,1,0,0,1,1,1,1,1,100.0,35,Moderate,1,Periodic Review,2025-02-25,2026-02-25
+CUST10460,Individual,Canada,Finance,0,0,0,0,1,1,1,1,80.0,26,Low,0,Approved,2026-03-01,2028-02-29
+CUST10461,Individual,United Kingdom,Technology,0,0,0,1,1,0,1,1,80.0,24,Low,0,Periodic Review,2026-07-28,2028-07-27
+CUST10462,Business,Brazil,Retail,0,0,1,1,1,1,1,1,100.0,30,Moderate,1,Approved,2025-04-14,2026-04-14
+CUST10463,Individual,United Kingdom,Hospitality,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2026-06-17,2028-06-16
+CUST10464,Business,Iran,Consulting,0,0,0,1,0,1,1,1,80.0,40,Moderate,0,Approved,2025-05-17,2026-05-17
+CUST10465,Individual,India,Hospitality,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2025-01-27,2027-01-27
+CUST10466,Individual,United States,Hospitality,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2025-03-27,2027-03-27
+CUST10467,Business,Turkey,Manufacturing,1,0,0,1,1,1,1,1,100.0,54,Moderate,1,Approved,2025-11-22,2026-11-22
+CUST10468,Individual,United States,Education,0,0,1,1,1,1,1,1,100.0,30,Moderate,1,Approved,2025-03-14,2026-03-14
+CUST10469,Business,China,Manufacturing,0,0,0,1,1,1,1,1,100.0,13,Low,0,Periodic Review,2025-12-01,2027-12-01
+CUST10470,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2025-03-11,2027-03-11
+CUST10471,Business,India,Consulting,0,0,0,1,0,1,0,1,60.0,32,Moderate,0,Pending Documents,2026-07-09,2027-07-09
+CUST10472,Individual,India,Technology,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2026-07-08,2028-07-07
+CUST10473,Business,China,Consulting,0,0,1,1,0,1,1,1,80.0,41,Moderate,1,Approved,2025-11-28,2026-11-28
+CUST10474,Individual,China,Retail,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2025-06-15,2027-06-15
+CUST10475,Business,United States,Hospitality,0,0,1,1,0,1,1,1,80.0,36,Moderate,1,Approved,2025-07-10,2026-07-10
+CUST10476,Individual,United States,Technology,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2024-12-08,2026-12-08
+CUST10477,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2026-01-19,2028-01-19
+CUST10478,Business,United States,Logistics,0,0,0,0,1,0,1,1,60.0,31,Moderate,0,Remediation,2025-02-08,2026-02-08
+CUST10479,Individual,Nigeria,Technology,0,0,0,0,1,1,1,0,60.0,44,Moderate,0,Pending Documents,2025-12-20,2026-12-20
+CUST10480,Individual,United States,Construction,0,1,0,1,1,1,1,1,100.0,52,Moderate,1,EDD Review,2026-03-09,2027-03-09
+CUST10481,Individual,Russia,Technology,0,0,0,1,1,1,1,1,100.0,26,Low,0,Approved,2025-02-12,2027-02-12
+CUST10482,Individual,Mexico,Education,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2026-04-08,2028-04-07
+CUST10483,Individual,China,Retail,0,0,0,1,1,1,0,0,60.0,21,Low,0,Remediation,2024-11-06,2026-11-06
+CUST10484,Individual,United States,Finance,0,0,0,0,1,0,1,1,60.0,34,Moderate,0,Remediation,2025-08-12,2026-08-12
+CUST10485,Business,India,Real Estate,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2025-12-13,2027-12-13
+CUST10486,Individual,Turkey,Retail,0,0,1,1,1,1,1,1,100.0,44,Moderate,1,Periodic Review,2025-03-19,2026-03-19
+CUST10487,Individual,United Kingdom,Education,0,0,0,1,1,1,1,0,80.0,14,Low,0,Periodic Review,2025-08-26,2027-08-26
+CUST10488,Business,Canada,Manufacturing,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2024-10-18,2026-10-18
+CUST10489,Business,United Arab Emirates,Import/Export,0,0,0,1,0,1,1,1,80.0,36,Moderate,0,Approved,2026-02-16,2027-02-16
+CUST10490,Individual,United States,Education,0,0,0,0,1,1,1,1,80.0,25,Low,0,Approved,2025-01-24,2027-01-24
+CUST10491,Individual,United Kingdom,Construction,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2025-01-12,2027-01-12
+CUST10492,Individual,United States,Consulting,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2025-11-21,2027-11-21
+CUST10493,Individual,United States,Hospitality,0,0,0,1,1,1,1,1,100.0,9,Low,0,Periodic Review,2025-11-03,2027-11-03
+CUST10494,Individual,United States,Retail,0,0,1,1,1,1,0,0,60.0,38,Moderate,1,Remediation,2026-04-22,2027-04-22
+CUST10495,Individual,United States,Consulting,0,0,0,1,1,1,0,1,80.0,15,Low,0,Approved,2026-05-04,2028-05-03
+CUST10496,Individual,United States,Technology,0,0,0,1,1,1,1,1,100.0,8,Low,0,Periodic Review,2024-09-03,2026-09-03
+CUST10497,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2026-04-18,2028-04-17
+CUST10498,Business,Russia,Import/Export,0,0,0,1,0,1,1,1,80.0,34,Moderate,0,Approved,2024-12-12,2025-12-12
+CUST10499,Business,United Kingdom,Logistics,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2025-02-05,2027-02-05
+CUST10500,Individual,Russia,Healthcare,0,0,0,1,1,1,1,1,100.0,32,Moderate,0,Approved,2025-03-21,2026-03-21
+CUST10501,Individual,United States,Consulting,0,0,0,1,1,1,1,0,80.0,19,Low,0,Approved,2026-07-29,2028-07-28
+CUST10502,Individual,United States,Construction,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2025-03-18,2027-03-18
+CUST10503,Business,United Kingdom,Hospitality,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2026-02-05,2028-02-05
+CUST10504,Individual,United States,Retail,0,0,0,0,1,1,0,1,60.0,30,Moderate,0,Pending Documents,2024-10-27,2025-10-27
+CUST10505,Individual,United States,Technology,0,0,0,0,1,1,0,1,60.0,24,Low,0,Remediation,2025-11-06,2027-11-06
+CUST10506,Business,Mexico,Hospitality,1,0,0,1,1,1,1,1,100.0,38,Moderate,1,Approved,2025-03-28,2026-03-28
+CUST10507,Business,United States,Logistics,0,0,1,1,1,1,1,1,100.0,29,Low,1,Approved,2026-05-30,2028-05-29
+CUST10508,Business,Canada,Logistics,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2025-07-14,2027-07-14
+CUST10509,Business,Mexico,Manufacturing,0,0,0,1,1,1,0,1,80.0,19,Low,0,Approved,2025-08-26,2027-08-26
+CUST10510,Individual,United States,Healthcare,0,0,0,0,1,1,1,1,80.0,20,Low,0,Periodic Review,2025-07-19,2027-07-19
+CUST10511,Individual,United States,Education,0,0,0,1,1,0,1,1,80.0,21,Low,0,Periodic Review,2025-08-14,2027-08-14
+CUST10512,Business,China,Import/Export,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2025-06-17,2027-06-17
+CUST10513,Business,United States,FinTech,0,0,0,1,1,1,1,1,100.0,10,Low,0,Periodic Review,2025-06-11,2027-06-11
+CUST10514,Individual,United States,Hospitality,0,0,0,0,1,1,1,1,80.0,23,Low,0,Approved,2024-12-21,2026-12-21
+CUST10515,Individual,Iran,Healthcare,0,0,0,1,1,1,1,1,100.0,24,Low,0,Approved,2024-12-23,2026-12-23
+CUST10516,Individual,United States,Consulting,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2026-06-22,2028-06-21
+CUST10517,Business,Nigeria,Import/Export,0,0,0,1,1,1,1,1,100.0,31,Moderate,0,Periodic Review,2026-06-09,2027-06-09
+CUST10518,Business,Iran,FinTech,0,0,1,1,1,1,1,1,100.0,50,Moderate,1,Approved,2026-02-04,2027-02-04
+CUST10519,Individual,United States,Construction,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2025-12-16,2027-12-16
+CUST10520,Individual,United States,Finance,0,0,0,1,1,0,1,0,60.0,23,Low,0,Pending Documents,2026-01-05,2028-01-05
+CUST10521,Individual,United States,Construction,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2025-11-03,2027-11-03
+CUST10522,Business,United States,FinTech,0,0,0,0,1,1,1,1,80.0,18,Low,0,Approved,2026-01-12,2028-01-12
+CUST10523,Business,United States,Manufacturing,0,1,0,1,1,1,0,1,80.0,53,Moderate,1,EDD Review,2025-11-23,2026-11-23
+CUST10524,Business,Nigeria,Logistics,0,0,0,1,0,1,1,0,60.0,40,Moderate,0,Pending Documents,2025-08-03,2026-08-03
+CUST10525,Individual,United States,Retail,0,0,1,0,1,1,1,1,80.0,37,Moderate,1,Approved,2025-07-10,2026-07-10
+CUST10526,Individual,United Kingdom,Education,0,0,0,0,1,1,1,0,60.0,25,Low,0,Remediation,2026-02-07,2028-02-07
+CUST10527,Individual,Iran,Hospitality,0,0,0,1,1,1,1,0,80.0,37,Moderate,0,Periodic Review,2025-12-11,2026-12-11
+CUST10528,Individual,China,Education,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2025-10-25,2027-10-25
+CUST10529,Business,Canada,Real Estate,0,0,0,1,1,1,0,1,80.0,16,Low,0,Approved,2024-10-04,2026-10-04
+CUST10530,Business,United States,FinTech,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2024-12-14,2026-12-14
+CUST10531,Business,Canada,Real Estate,0,0,0,0,1,1,1,1,80.0,22,Low,0,Approved,2026-06-14,2028-06-13
+CUST10532,Business,United Kingdom,Logistics,0,0,1,0,0,1,1,0,40.0,50,Moderate,1,Pending Documents,2025-09-24,2026-09-24
+CUST10533,Individual,United States,Consulting,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2025-02-16,2027-02-16
+CUST10534,Business,United States,Manufacturing,0,0,0,0,1,0,1,1,60.0,35,Moderate,0,Remediation,2026-05-29,2027-05-29
+CUST10535,Business,Brazil,Logistics,0,0,0,1,1,0,1,1,80.0,18,Low,0,Periodic Review,2025-09-15,2027-09-15
+CUST10536,Business,United States,Logistics,0,0,0,1,0,1,1,1,80.0,21,Low,0,Approved,2026-07-01,2028-06-30
+CUST10537,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2026-04-12,2028-04-11
+CUST10538,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2026-05-13,2028-05-12
+CUST10539,Individual,United States,Construction,0,0,0,0,1,1,1,0,60.0,29,Low,0,Remediation,2024-12-24,2026-12-24
+CUST10540,Business,China,Retail,0,0,0,1,1,0,1,0,60.0,31,Moderate,0,Remediation,2025-03-23,2026-03-23
+CUST10541,Individual,Nigeria,Retail,0,0,0,1,1,1,1,1,100.0,24,Low,0,Periodic Review,2024-10-30,2026-10-30
+CUST10542,Individual,United Arab Emirates,Education,0,0,1,1,1,1,1,1,100.0,51,Moderate,1,Approved,2026-03-28,2027-03-28
+CUST10543,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2025-03-11,2027-03-11
+CUST10544,Individual,United States,Consulting,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2025-01-12,2027-01-12
+CUST10545,Individual,United Kingdom,Construction,0,0,0,1,1,1,1,0,80.0,22,Low,0,Approved,2026-08-23,2028-08-22
+CUST10546,Individual,United States,Construction,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2025-11-29,2027-11-29
+CUST10547,Individual,United States,Technology,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2026-01-17,2028-01-17
+CUST10548,Individual,United Arab Emirates,Retail,0,0,0,1,1,1,1,1,100.0,31,Moderate,0,Approved,2026-02-27,2027-02-27
+CUST10549,Business,United States,Logistics,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2025-01-18,2027-01-18
+CUST10550,Individual,United Kingdom,Retail,0,0,0,0,1,1,1,1,80.0,25,Low,0,Approved,2026-01-28,2028-01-28
+CUST10551,Business,United States,Consulting,0,1,0,1,1,1,0,1,80.0,56,Moderate,1,Escalated,2025-06-25,2026-06-25
+CUST10552,Individual,United States,Finance,0,0,0,0,1,1,1,1,80.0,25,Low,0,Periodic Review,2025-02-09,2027-02-09
+CUST10553,Individual,United States,Education,0,0,0,1,1,0,1,1,80.0,25,Low,0,Approved,2024-11-14,2026-11-14
+CUST10554,Business,Russia,Real Estate,0,0,0,1,1,1,1,1,100.0,29,Low,0,Approved,2025-09-10,2027-09-10
+CUST10555,Individual,China,Technology,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2025-08-05,2027-08-05
+CUST10556,Individual,Russia,Construction,0,0,0,1,1,1,1,1,100.0,26,Low,0,Approved,2025-01-30,2027-01-30
+CUST10557,Individual,United Kingdom,Construction,0,0,0,1,1,1,1,1,100.0,13,Low,0,Periodic Review,2025-11-30,2027-11-30
+CUST10558,Business,United States,FinTech,1,0,0,1,1,1,1,1,100.0,34,Moderate,1,Approved,2025-04-25,2026-04-25
+CUST10559,Individual,United Kingdom,Education,0,0,1,1,1,1,1,1,100.0,33,Moderate,1,Approved,2024-12-23,2025-12-23
+CUST10560,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,11,Low,0,Periodic Review,2025-06-07,2027-06-07
+CUST10561,Individual,India,Hospitality,0,0,0,0,1,1,1,1,80.0,21,Low,0,Approved,2025-07-08,2027-07-08
+CUST10562,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2024-10-01,2026-10-01
+CUST10563,Individual,United Kingdom,Healthcare,0,0,0,1,1,1,1,1,100.0,17,Low,0,Periodic Review,2026-03-21,2028-03-20
+CUST10564,Individual,United States,Construction,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2025-02-15,2027-02-15
+CUST10565,Individual,United States,Education,0,1,0,1,1,1,1,1,100.0,48,Moderate,1,EDD Review,2024-12-02,2025-12-02
+CUST10566,Individual,Nigeria,Education,0,0,0,1,1,1,1,1,100.0,27,Low,0,Approved,2025-01-17,2027-01-17
+CUST10567,Individual,United States,Construction,0,0,0,1,1,1,1,0,80.0,14,Low,0,Approved,2026-03-02,2028-03-01
+CUST10568,Business,United States,Real Estate,0,0,0,0,1,1,1,1,80.0,19,Low,0,Approved,2025-10-26,2027-10-26
+CUST10569,Individual,United States,Healthcare,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2026-08-15,2028-08-14
+CUST10570,Individual,United States,Construction,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2025-06-12,2027-06-12
+CUST10571,Business,China,Consulting,1,0,0,1,1,1,1,1,100.0,30,Moderate,1,Approved,2026-03-15,2027-03-15
+CUST10572,Individual,Brazil,Retail,0,0,0,1,1,1,1,0,80.0,20,Low,0,Approved,2025-11-25,2027-11-25
+CUST10573,Individual,Russia,Construction,0,0,0,1,1,1,1,1,100.0,28,Low,0,Approved,2025-09-26,2027-09-26
+CUST10574,Business,China,Hospitality,0,0,0,1,1,1,1,1,100.0,17,Low,0,Periodic Review,2024-09-05,2026-09-05
+CUST10575,Business,United States,Import/Export,1,0,0,0,1,0,1,1,60.0,50,Moderate,1,Remediation,2024-09-21,2025-09-21
+CUST10576,Individual,Mexico,Technology,0,0,1,1,1,1,1,0,80.0,39,Moderate,1,Approved,2025-03-31,2026-03-31
+CUST10577,Business,United States,Hospitality,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2026-08-21,2028-08-20
+CUST10578,Individual,United States,Hospitality,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2025-03-26,2027-03-26
+CUST10579,Individual,India,Construction,0,0,0,1,1,1,1,0,80.0,20,Low,0,Approved,2024-12-18,2026-12-18
+CUST10580,Individual,United States,Technology,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2026-04-21,2028-04-20
+CUST10581,Business,Brazil,Hospitality,0,0,1,0,1,1,1,1,80.0,42,Moderate,1,Approved,2024-11-30,2025-11-30
+CUST10582,Individual,United States,Construction,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2026-04-06,2028-04-05
+CUST10583,Individual,Mexico,Retail,0,0,0,0,1,1,1,1,80.0,18,Low,0,Approved,2025-02-12,2027-02-12
+CUST10584,Individual,Mexico,Consulting,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2026-06-14,2028-06-13
+CUST10585,Individual,Brazil,Education,0,0,0,1,1,1,1,1,100.0,11,Low,0,Periodic Review,2025-09-20,2027-09-20
+CUST10586,Individual,Mexico,Finance,0,0,0,1,1,1,0,1,80.0,23,Low,0,Approved,2024-12-31,2026-12-31
+CUST10587,Individual,Canada,Technology,0,0,0,1,1,1,1,1,100.0,17,Low,0,Periodic Review,2025-12-26,2027-12-26
+CUST10588,Individual,United States,Retail,0,0,0,0,1,1,1,1,80.0,27,Low,0,Periodic Review,2024-12-01,2026-12-01
+CUST10589,Individual,United Kingdom,Healthcare,0,0,0,1,1,1,1,1,100.0,9,Low,0,Periodic Review,2025-03-08,2027-03-08
+CUST10590,Individual,United States,Retail,0,0,0,1,1,1,0,1,80.0,23,Low,0,Periodic Review,2026-08-08,2028-08-07
+CUST10591,Individual,Nigeria,Healthcare,0,0,0,1,1,1,1,1,100.0,30,Moderate,0,Periodic Review,2025-05-18,2026-05-18
+CUST10592,Individual,United Kingdom,Construction,0,0,0,1,1,0,1,1,80.0,26,Low,0,Approved,2026-02-12,2028-02-12
+CUST10593,Individual,Mexico,Technology,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2026-04-23,2028-04-22
+CUST10594,Business,United States,Logistics,0,0,0,1,1,1,1,0,80.0,20,Low,0,Approved,2024-12-06,2026-12-06
+CUST10595,Individual,United States,Hospitality,0,0,0,0,1,1,1,0,60.0,27,Low,0,Pending Documents,2025-09-10,2027-09-10
+CUST10596,Individual,Nigeria,Retail,0,0,0,1,1,1,1,1,100.0,30,Moderate,0,Approved,2026-04-04,2027-04-04
+CUST10597,Individual,United States,Consulting,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2025-03-24,2027-03-24
+CUST10598,Individual,United States,Hospitality,0,0,1,1,1,1,1,1,100.0,34,Moderate,1,Approved,2025-11-01,2026-11-01
+CUST10599,Individual,United States,Technology,0,0,0,1,1,1,1,1,100.0,10,Low,0,Periodic Review,2025-03-09,2027-03-09
+CUST10600,Individual,Russia,Consulting,0,0,0,0,1,1,1,1,80.0,34,Moderate,0,Approved,2026-07-13,2027-07-13
+CUST10601,Individual,Nigeria,Retail,0,0,0,0,1,1,1,1,80.0,35,Moderate,0,Approved,2025-05-25,2026-05-25
+CUST10602,Individual,United States,Healthcare,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2026-01-04,2028-01-04
+CUST10603,Individual,United States,Retail,1,0,0,1,1,1,1,1,100.0,39,Moderate,1,Approved,2025-05-07,2026-05-07
+CUST10604,Individual,United States,Finance,0,0,0,0,1,1,1,1,80.0,27,Low,0,Approved,2025-06-03,2027-06-03
+CUST10605,Individual,United Arab Emirates,Construction,0,0,0,0,1,1,1,1,80.0,42,Moderate,0,Approved,2025-11-22,2026-11-22
+CUST10606,Individual,Mexico,Education,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2025-10-01,2027-10-01
+CUST10607,Individual,United States,Healthcare,0,0,0,1,1,1,1,1,100.0,17,Low,0,Periodic Review,2025-09-14,2027-09-14
+CUST10608,Individual,United States,Finance,0,0,1,1,1,0,1,1,80.0,37,Moderate,1,Approved,2024-11-02,2025-11-02
+CUST10609,Individual,United States,Hospitality,0,0,0,0,1,1,1,1,80.0,18,Low,0,Approved,2024-11-21,2026-11-21
+CUST10610,Individual,Mexico,Construction,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2025-10-09,2027-10-09
+CUST10611,Business,United Arab Emirates,Consulting,0,0,0,0,1,1,1,0,60.0,41,Moderate,0,Remediation,2025-09-30,2026-09-30
+CUST10612,Individual,United States,Healthcare,0,0,0,0,1,1,0,1,60.0,30,Moderate,0,Remediation,2024-11-04,2025-11-04
+CUST10613,Individual,United States,Education,0,0,0,1,1,1,0,1,80.0,15,Low,0,Approved,2026-06-12,2028-06-11
+CUST10614,Business,United States,Real Estate,0,0,0,1,1,1,1,1,100.0,12,Low,0,Periodic Review,2026-06-06,2028-06-05
+CUST10615,Business,Russia,Manufacturing,0,0,0,1,0,1,1,1,80.0,34,Moderate,0,Approved,2025-12-17,2026-12-17
+CUST10616,Individual,United States,Consulting,0,0,0,1,1,1,1,0,80.0,19,Low,0,Approved,2026-02-28,2028-02-28
+CUST10617,Individual,United Arab Emirates,Consulting,0,0,0,1,1,1,1,1,100.0,33,Moderate,0,Periodic Review,2024-10-09,2025-10-09
+CUST10618,Business,Canada,Real Estate,0,0,0,1,0,1,1,1,80.0,24,Low,0,Periodic Review,2024-10-03,2026-10-03
+CUST10619,Business,United States,Retail,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2026-05-01,2028-04-30
+CUST10620,Individual,United States,Technology,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2026-05-28,2028-05-27
+CUST10621,Individual,United States,Hospitality,0,0,0,1,1,1,1,1,100.0,17,Low,0,Periodic Review,2025-01-04,2027-01-04
+CUST10622,Individual,Canada,Healthcare,0,0,0,1,1,1,1,1,100.0,16,Low,0,Periodic Review,2025-04-04,2027-04-04
+CUST10623,Individual,United Arab Emirates,Hospitality,0,0,0,1,1,1,1,1,100.0,24,Low,0,Periodic Review,2025-06-15,2027-06-15
+CUST10624,Individual,Mexico,Retail,0,0,0,1,1,0,1,1,80.0,18,Low,0,Approved,2025-04-05,2027-04-05
+CUST10625,Individual,United Kingdom,Technology,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2025-08-26,2027-08-26
+CUST10626,Individual,United States,Construction,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2025-10-31,2027-10-31
+CUST10627,Business,Russia,Consulting,0,0,0,1,0,1,1,1,80.0,38,Moderate,0,Approved,2025-09-09,2026-09-09
+CUST10628,Individual,China,Consulting,0,0,0,1,1,1,0,1,80.0,14,Low,0,Periodic Review,2026-04-06,2028-04-05
+CUST10629,Individual,United States,Consulting,0,0,0,0,1,1,1,1,80.0,22,Low,0,Periodic Review,2025-11-20,2027-11-20
+CUST10630,Individual,Russia,Finance,0,0,0,1,1,1,1,1,100.0,28,Low,0,Approved,2024-11-13,2026-11-13
+CUST10631,Business,Canada,Hospitality,0,0,0,1,1,1,1,0,80.0,16,Low,0,Approved,2025-12-13,2027-12-13
+CUST10632,Individual,Canada,Retail,0,0,0,1,1,1,1,0,80.0,17,Low,0,Approved,2025-02-04,2027-02-04
+CUST10633,Individual,United Arab Emirates,Education,0,0,0,1,1,1,1,1,100.0,24,Low,0,Approved,2025-04-28,2027-04-28
+CUST10634,Individual,China,Hospitality,0,0,0,0,1,1,1,1,80.0,23,Low,0,Approved,2026-08-01,2028-07-31
+CUST10635,Individual,Mexico,Retail,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2024-09-29,2026-09-29
+CUST10636,Individual,United States,Hospitality,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2025-12-07,2027-12-07
+CUST10637,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2026-08-20,2028-08-19
+CUST10638,Individual,Turkey,Technology,0,0,0,1,1,1,1,1,100.0,30,Moderate,0,Approved,2026-02-22,2027-02-22
+CUST10639,Individual,United States,Consulting,0,0,0,1,1,1,1,1,100.0,13,Low,0,Periodic Review,2025-07-28,2027-07-28
+CUST10640,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2025-03-13,2027-03-13
+CUST10641,Individual,United States,Consulting,0,0,0,1,1,1,1,1,100.0,15,Low,0,Periodic Review,2026-06-02,2028-06-01
+CUST10642,Individual,United States,Technology,0,0,0,0,1,1,1,1,80.0,21,Low,0,Approved,2025-01-09,2027-01-09
+CUST10643,Individual,Canada,Hospitality,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2025-04-18,2027-04-18
+CUST10644,Individual,Turkey,Technology,0,0,0,1,1,1,1,1,100.0,24,Low,0,Approved,2025-11-04,2027-11-04
+CUST10645,Business,United States,FinTech,0,0,0,1,0,1,1,1,80.0,22,Low,0,Approved,2026-05-13,2028-05-12
+CUST10646,Individual,United States,Consulting,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2026-06-13,2028-06-12
+CUST10647,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2024-11-18,2026-11-18
+CUST10648,Business,Brazil,Logistics,0,0,0,0,1,1,0,1,60.0,25,Low,0,Remediation,2025-06-25,2027-06-25
+CUST10649,Individual,Mexico,Finance,1,0,0,0,1,0,1,1,60.0,51,Moderate,1,Remediation,2025-07-11,2026-07-11
+CUST10650,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2026-01-30,2028-01-30
+CUST10651,Individual,China,Consulting,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2025-06-11,2027-06-11
+CUST10652,Individual,India,Finance,0,0,0,1,1,0,0,1,60.0,28,Low,0,Pending Documents,2026-08-14,2028-08-13
+CUST10653,Business,India,Hospitality,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2026-07-09,2028-07-08
+CUST10654,Individual,Brazil,Technology,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2024-12-31,2026-12-31
+CUST10655,Individual,United States,Education,0,0,0,1,1,0,1,1,80.0,21,Low,0,Approved,2026-01-04,2028-01-04
+CUST10656,Individual,United Arab Emirates,Healthcare,1,0,0,1,1,1,1,1,100.0,50,Moderate,1,Periodic Review,2025-07-10,2026-07-10
+CUST10657,Individual,United States,Healthcare,0,0,0,1,1,1,1,0,80.0,17,Low,0,Approved,2025-05-03,2027-05-03
+CUST10658,Individual,India,Retail,0,0,0,0,1,1,1,1,80.0,26,Low,0,Periodic Review,2025-06-14,2027-06-14
+CUST10659,Individual,Nigeria,Education,0,0,0,1,1,1,1,1,100.0,31,Moderate,0,Approved,2025-02-12,2026-02-12
+CUST10660,Individual,United Arab Emirates,Hospitality,0,0,0,0,1,1,1,1,80.0,42,Moderate,0,Approved,2025-01-10,2026-01-10
+CUST10661,Business,Mexico,Retail,0,0,0,1,1,1,0,1,80.0,16,Low,0,Approved,2026-05-01,2028-04-30
+CUST10662,Individual,United States,Hospitality,0,0,0,0,1,1,1,1,80.0,20,Low,0,Approved,2025-07-08,2027-07-08
+CUST10663,Individual,United Kingdom,Retail,0,0,0,1,1,1,1,1,100.0,8,Low,0,Periodic Review,2025-02-12,2027-02-12
+CUST10664,Individual,Iran,Healthcare,0,0,0,1,1,1,1,1,100.0,33,Moderate,0,Approved,2026-01-28,2027-01-28
+CUST10665,Individual,Turkey,Retail,0,0,0,1,1,0,0,1,60.0,45,Moderate,0,Pending Documents,2025-07-08,2026-07-08
+CUST10666,Individual,United States,Healthcare,0,0,0,1,1,1,1,1,100.0,11,Low,0,Periodic Review,2024-09-22,2026-09-22
+CUST10667,Individual,United States,Consulting,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2025-02-27,2027-02-27
+CUST10668,Individual,United States,Technology,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2026-01-16,2028-01-16
+CUST10669,Individual,Nigeria,Hospitality,0,0,0,0,1,1,1,0,60.0,40,Moderate,0,Remediation,2026-01-07,2027-01-07
+CUST10670,Individual,China,Education,0,0,0,1,1,1,0,0,60.0,25,Low,0,Pending Documents,2024-11-26,2026-11-26
+CUST10671,Business,United States,Import/Export,1,0,0,0,1,1,1,0,60.0,49,Moderate,1,Remediation,2025-10-06,2026-10-06
+CUST10672,Individual,United Kingdom,Consulting,0,0,0,1,1,1,1,1,100.0,8,Low,0,Periodic Review,2025-05-20,2027-05-20
+CUST10673,Individual,India,Retail,0,0,0,1,1,1,1,0,80.0,19,Low,0,Approved,2024-10-21,2026-10-21
+CUST10674,Individual,Nigeria,Healthcare,0,0,0,1,1,1,1,1,100.0,30,Moderate,0,Approved,2025-05-02,2026-05-02
+CUST10675,Business,United Kingdom,Manufacturing,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2025-03-01,2027-03-01
+CUST10676,Individual,Canada,Hospitality,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2025-01-30,2027-01-30
+CUST10677,Individual,United Kingdom,Consulting,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2024-12-17,2026-12-17
+CUST10678,Business,United States,Hospitality,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2025-07-13,2027-07-13
+CUST10679,Business,Canada,Import/Export,0,0,0,0,1,1,1,1,80.0,19,Low,0,Periodic Review,2026-01-25,2028-01-25
+CUST10680,Business,Mexico,Retail,0,0,0,0,1,1,1,1,80.0,19,Low,0,Approved,2024-09-10,2026-09-10
+CUST10681,Individual,India,Technology,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2025-08-16,2027-08-16
+CUST10682,Individual,Mexico,Finance,0,0,0,1,1,1,1,1,100.0,10,Low,0,Periodic Review,2026-06-06,2028-06-05
+CUST10683,Individual,United Arab Emirates,Healthcare,0,0,0,1,1,1,1,1,100.0,29,Low,0,Approved,2025-05-28,2027-05-28
+CUST10684,Business,United States,Consulting,0,0,0,0,1,1,1,1,80.0,18,Low,0,Approved,2025-07-17,2027-07-17
+CUST10685,Individual,United States,Hospitality,0,1,0,1,1,1,1,1,100.0,44,Moderate,1,EDD Review,2024-10-10,2025-10-10
+CUST10686,Individual,United States,Healthcare,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2025-03-25,2027-03-25
+CUST10687,Individual,United States,Technology,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2025-06-11,2027-06-11
+CUST10688,Business,Nigeria,Import/Export,0,0,0,1,1,1,1,1,100.0,24,Low,0,Periodic Review,2025-11-05,2027-11-05
+CUST10689,Individual,Iran,Technology,0,0,0,1,1,1,1,1,100.0,26,Low,0,Approved,2025-07-20,2027-07-20
+CUST10690,Individual,United States,Healthcare,0,0,0,0,1,1,1,1,80.0,27,Low,0,Approved,2024-12-03,2026-12-03
+CUST10691,Individual,United States,Finance,0,0,0,1,1,0,1,1,80.0,24,Low,0,Approved,2025-08-22,2027-08-22
+CUST10692,Individual,China,Education,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2026-01-11,2028-01-11
+CUST10693,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2024-12-02,2026-12-02
+CUST10694,Individual,United Kingdom,Finance,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2024-11-20,2026-11-20
+CUST10695,Individual,Nigeria,Education,0,0,0,1,1,1,1,1,100.0,32,Moderate,0,Approved,2026-07-14,2027-07-14
+CUST10696,Individual,Canada,Education,0,0,0,1,1,1,0,1,80.0,15,Low,0,Periodic Review,2026-02-27,2028-02-27
+CUST10697,Individual,United States,Consulting,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2026-02-08,2028-02-08
+CUST10698,Individual,United States,Consulting,0,0,0,1,1,0,1,1,80.0,26,Low,0,Approved,2026-06-15,2028-06-14
+CUST10699,Individual,China,Retail,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2025-05-08,2027-05-08
+CUST10700,Individual,United Kingdom,Hospitality,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2025-08-11,2027-08-11
+CUST10701,Individual,United States,Hospitality,0,0,0,1,1,1,1,1,100.0,13,Low,0,Periodic Review,2026-02-19,2028-02-19
+CUST10702,Individual,United Arab Emirates,Retail,0,0,0,1,1,1,1,1,100.0,28,Low,0,Approved,2026-05-21,2028-05-20
+CUST10703,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2024-12-23,2026-12-23
+CUST10704,Individual,United Arab Emirates,Finance,0,0,0,0,1,1,1,1,80.0,41,Moderate,0,Approved,2025-08-21,2026-08-21
+CUST10705,Business,United States,Import/Export,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2025-11-18,2027-11-18
+CUST10706,Individual,Russia,Technology,0,0,1,0,1,1,1,1,80.0,58,Moderate,1,Approved,2025-05-07,2026-05-07
+CUST10707,Business,United States,Real Estate,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2024-09-08,2026-09-08
+CUST10708,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,11,Low,0,Periodic Review,2025-12-25,2027-12-25
+CUST10709,Individual,United States,Construction,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2026-02-12,2028-02-12
+CUST10710,Business,United States,FinTech,0,0,0,1,1,1,0,1,80.0,23,Low,0,Approved,2025-03-14,2027-03-14
+CUST10711,Individual,India,Construction,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2025-05-28,2027-05-28
+CUST10712,Individual,Iran,Retail,0,0,0,1,1,1,1,1,100.0,24,Low,0,Approved,2025-11-05,2027-11-05
+CUST10713,Individual,United States,Technology,0,0,0,0,1,0,1,1,60.0,29,Low,0,Remediation,2025-05-11,2027-05-11
+CUST10714,Individual,United States,Hospitality,1,0,0,0,1,1,1,1,80.0,40,Moderate,1,Approved,2026-06-10,2027-06-10
+CUST10715,Business,Nigeria,Real Estate,0,0,0,1,1,1,1,0,80.0,36,Moderate,0,Approved,2025-05-31,2026-05-31
+CUST10716,Business,Brazil,Import/Export,0,0,0,1,1,1,1,0,80.0,16,Low,0,Periodic Review,2024-10-10,2026-10-10
+CUST10717,Business,Canada,Manufacturing,0,0,0,0,1,1,1,1,80.0,20,Low,0,Approved,2025-11-07,2027-11-07
+CUST10718,Individual,United States,Healthcare,0,0,0,0,1,1,1,1,80.0,18,Low,0,Periodic Review,2025-09-02,2027-09-02
+CUST10719,Business,United States,Consulting,0,0,0,1,1,1,1,0,80.0,14,Low,0,Approved,2024-09-13,2026-09-13
+CUST10720,Business,Nigeria,Hospitality,0,0,0,1,1,1,1,1,100.0,26,Low,0,Approved,2026-07-23,2028-07-22
+CUST10721,Individual,United States,Healthcare,0,0,0,1,1,1,0,0,60.0,21,Low,0,Pending Documents,2024-12-15,2026-12-15
+CUST10722,Individual,Canada,Education,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2025-09-26,2027-09-26
+CUST10723,Business,United States,Consulting,0,0,0,0,1,0,0,1,40.0,43,Moderate,0,Remediation,2025-04-03,2026-04-03
+CUST10724,Individual,China,Retail,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2026-05-16,2028-05-15
+CUST10725,Business,United States,FinTech,1,0,0,1,1,1,1,1,100.0,35,Moderate,1,Approved,2025-10-20,2026-10-20
+CUST10726,Individual,Canada,Finance,0,0,0,1,1,1,1,1,100.0,9,Low,0,Periodic Review,2026-05-10,2028-05-09
+CUST10727,Business,United Kingdom,Real Estate,1,0,0,1,1,1,1,1,100.0,31,Moderate,1,Approved,2026-03-18,2027-03-18
+CUST10728,Individual,Mexico,Construction,0,0,1,1,1,1,1,1,100.0,32,Moderate,1,Approved,2025-12-14,2026-12-14
+CUST10729,Individual,United States,Technology,0,0,0,1,1,1,1,1,100.0,8,Low,0,Periodic Review,2024-12-22,2026-12-22
+CUST10730,Individual,Canada,Healthcare,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2026-01-20,2028-01-20
+CUST10731,Business,Canada,Logistics,0,0,0,1,1,1,0,1,80.0,20,Low,0,Approved,2025-12-13,2027-12-13
+CUST10732,Individual,Canada,Finance,0,0,1,1,1,1,1,1,100.0,34,Moderate,1,Approved,2025-12-24,2026-12-24
+CUST10733,Individual,Canada,Healthcare,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2025-03-24,2027-03-24
+CUST10734,Individual,Mexico,Hospitality,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2024-09-21,2026-09-21
+CUST10735,Business,China,Hospitality,0,0,0,0,1,1,1,1,80.0,22,Low,0,Approved,2026-04-28,2028-04-27
+CUST10736,Individual,United States,Education,0,0,1,1,1,1,1,1,100.0,26,Low,1,Periodic Review,2026-02-07,2028-02-07
+CUST10737,Business,China,Logistics,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2026-04-14,2028-04-13
+CUST10738,Individual,United Kingdom,Education,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2026-07-01,2028-06-30
+CUST10739,Individual,United States,Construction,0,0,1,1,1,1,1,1,100.0,29,Low,1,Approved,2025-11-22,2027-11-22
+CUST10740,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2026-07-09,2028-07-08
+CUST10741,Individual,United States,Construction,0,0,0,1,1,1,1,1,100.0,9,Low,0,Periodic Review,2025-09-20,2027-09-20
+CUST10742,Business,China,Retail,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2025-03-26,2027-03-26
+CUST10743,Individual,Nigeria,Construction,0,0,0,1,1,1,1,1,100.0,25,Low,0,Approved,2026-04-18,2028-04-17
+CUST10744,Individual,China,Construction,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2025-10-06,2027-10-06
+CUST10745,Business,United Kingdom,Import/Export,0,0,1,0,1,1,1,1,80.0,41,Moderate,1,Approved,2026-04-10,2027-04-10
+CUST10746,Individual,United States,Healthcare,0,0,0,1,1,1,1,0,80.0,14,Low,0,Approved,2025-06-22,2027-06-22
+CUST10747,Individual,United States,Construction,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2025-11-23,2027-11-23
+CUST10748,Business,United States,Manufacturing,0,0,1,1,1,1,1,1,100.0,27,Low,1,Approved,2026-04-18,2028-04-17
+CUST10749,Individual,United States,Construction,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2025-04-30,2027-04-30
+CUST10750,Individual,United States,Education,0,0,0,1,1,1,1,0,80.0,17,Low,0,Approved,2024-09-10,2026-09-10
+CUST10751,Business,United States,Hospitality,0,0,0,0,1,1,1,1,80.0,26,Low,0,Approved,2025-07-27,2027-07-27
+CUST10752,Individual,Canada,Construction,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2025-06-09,2027-06-09
+CUST10753,Individual,Nigeria,Finance,1,0,0,0,1,1,1,0,60.0,69,High,1,Pending Documents,2024-12-05,2025-06-03
+CUST10754,Individual,Iran,Construction,0,0,0,1,1,1,1,1,100.0,33,Moderate,0,Approved,2024-12-12,2025-12-12
+CUST10755,Business,Turkey,Hospitality,0,0,0,1,0,1,1,1,80.0,37,Moderate,0,Periodic Review,2024-11-01,2025-11-01
+CUST10756,Individual,Mexico,Education,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2025-12-05,2027-12-05
+CUST10757,Individual,United States,Consulting,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2026-08-15,2028-08-14
+CUST10758,Business,Mexico,Logistics,0,0,1,0,1,1,1,1,80.0,43,Moderate,1,Approved,2025-12-06,2026-12-06
+CUST10759,Business,China,Retail,0,0,0,0,1,1,1,1,80.0,20,Low,0,Approved,2025-05-07,2027-05-07
+CUST10760,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2026-01-25,2028-01-25
+CUST10761,Individual,United States,Retail,0,1,0,1,1,1,1,1,100.0,45,Moderate,1,Escalated,2025-10-17,2026-10-17
+CUST10762,Individual,India,Technology,0,0,0,0,1,1,1,1,80.0,26,Low,0,Approved,2026-01-06,2028-01-06
+CUST10763,Business,United States,Hospitality,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2025-03-05,2027-03-05
+CUST10764,Individual,Canada,Consulting,0,0,0,1,1,0,1,1,80.0,27,Low,0,Approved,2025-11-20,2027-11-20
+CUST10765,Individual,Canada,Finance,0,0,0,0,1,1,1,1,80.0,21,Low,0,Approved,2026-07-26,2028-07-25
+CUST10766,Business,United States,Manufacturing,0,0,1,1,1,1,0,1,80.0,41,Moderate,1,Approved,2026-05-21,2027-05-21
+CUST10767,Business,United States,Consulting,0,0,0,0,0,1,1,1,60.0,29,Low,0,Remediation,2024-09-08,2026-09-08
+CUST10768,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2025-06-28,2027-06-28
+CUST10769,Business,United States,Logistics,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2024-11-16,2026-11-16
+CUST10770,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2026-01-05,2028-01-05
+CUST10771,Business,India,Hospitality,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2024-11-25,2026-11-25
+CUST10772,Individual,United States,Construction,0,0,0,1,1,1,0,1,80.0,18,Low,0,Approved,2026-04-29,2028-04-28
+CUST10773,Individual,United Kingdom,Technology,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2025-02-13,2027-02-13
+CUST10774,Business,United States,Logistics,0,0,0,1,1,1,1,1,100.0,9,Low,0,Periodic Review,2025-01-09,2027-01-09
+CUST10775,Individual,Turkey,Retail,0,0,0,0,1,1,1,1,80.0,36,Moderate,0,Approved,2024-12-30,2025-12-30
+CUST10776,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,13,Low,0,Periodic Review,2025-01-02,2027-01-02
+CUST10777,Business,United States,Consulting,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2026-02-25,2028-02-25
+CUST10778,Business,India,Import/Export,0,0,1,1,1,1,1,1,100.0,29,Low,1,Periodic Review,2025-12-19,2027-12-19
+CUST10779,Individual,India,Consulting,0,0,0,1,1,1,1,1,100.0,8,Low,0,Periodic Review,2025-01-24,2027-01-24
+CUST10780,Individual,United States,Consulting,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2025-03-20,2027-03-20
+CUST10781,Individual,China,Finance,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2024-10-25,2026-10-25
+CUST10782,Individual,United States,Healthcare,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2025-08-05,2027-08-05
+CUST10783,Individual,United Kingdom,Construction,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2024-11-12,2026-11-12
+CUST10784,Individual,United States,Technology,0,0,0,1,1,1,1,1,100.0,8,Low,0,Periodic Review,2025-05-21,2027-05-21
+CUST10785,Business,United States,Hospitality,0,0,0,1,1,1,1,1,100.0,17,Low,0,Periodic Review,2025-12-22,2027-12-22
+CUST10786,Individual,Nigeria,Finance,1,0,1,1,1,1,1,0,80.0,75,High,1,Approved,2024-10-29,2025-04-27
+CUST10787,Individual,United Kingdom,Education,0,0,0,1,1,1,0,1,80.0,22,Low,0,Periodic Review,2025-02-17,2027-02-17
+CUST10788,Individual,United States,Technology,0,0,0,1,1,1,1,1,100.0,10,Low,0,Periodic Review,2026-03-09,2028-03-08
+CUST10789,Business,Nigeria,Manufacturing,0,0,0,1,1,1,1,1,100.0,31,Moderate,0,Approved,2025-05-23,2026-05-23
+CUST10790,Individual,United Arab Emirates,Finance,0,0,0,1,1,1,1,1,100.0,32,Moderate,0,Approved,2025-02-01,2026-02-01
+CUST10791,Individual,United States,Hospitality,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2025-11-16,2027-11-16
+CUST10792,Individual,Canada,Hospitality,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2026-07-13,2028-07-12
+CUST10793,Individual,United States,Construction,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2026-08-28,2028-08-27
+CUST10794,Individual,United Arab Emirates,Construction,0,0,0,0,1,0,1,1,60.0,45,Moderate,0,Remediation,2024-12-09,2025-12-09
+CUST10795,Business,Mexico,Hospitality,0,0,0,1,0,1,1,1,80.0,23,Low,0,Approved,2025-04-19,2027-04-19
+CUST10796,Business,Russia,Real Estate,0,0,1,1,1,1,1,1,100.0,44,Moderate,1,Approved,2024-10-25,2025-10-25
+CUST10797,Individual,United States,Construction,0,0,0,1,1,1,1,1,100.0,14,Low,0,Periodic Review,2026-01-21,2028-01-21
+CUST10798,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2024-11-02,2026-11-02
+CUST10799,Business,United States,Logistics,0,0,0,0,1,1,1,1,80.0,27,Low,0,Approved,2025-12-13,2027-12-13
+CUST10800,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2024-10-16,2026-10-16
+CUST10801,Individual,United States,Education,0,0,0,1,1,1,1,0,80.0,17,Low,0,Approved,2025-03-15,2027-03-15
+CUST10802,Individual,Brazil,Finance,0,0,0,0,1,1,1,1,80.0,20,Low,0,Approved,2025-08-21,2027-08-21
+CUST10803,Individual,United States,Education,0,0,0,1,1,1,1,0,80.0,21,Low,0,Approved,2026-07-02,2028-07-01
+CUST10804,Individual,United States,Healthcare,1,0,0,1,1,1,1,1,100.0,36,Moderate,1,Approved,2025-09-10,2026-09-10
+CUST10805,Business,United Arab Emirates,Retail,0,0,0,1,0,1,1,1,80.0,37,Moderate,0,Periodic Review,2024-11-24,2025-11-24
+CUST10806,Business,United States,Real Estate,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2026-08-08,2028-08-07
+CUST10807,Business,United Arab Emirates,Logistics,0,0,0,1,1,1,1,1,100.0,33,Moderate,0,Approved,2025-11-12,2026-11-12
+CUST10808,Individual,United States,Education,0,0,0,1,1,1,0,1,80.0,22,Low,0,Approved,2025-02-21,2027-02-21
+CUST10809,Individual,United Kingdom,Consulting,0,0,0,0,1,1,1,1,80.0,22,Low,0,Periodic Review,2024-10-10,2026-10-10
+CUST10810,Business,United States,Hospitality,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2025-09-10,2027-09-10
+CUST10811,Business,United States,Logistics,0,0,0,1,1,1,1,1,100.0,16,Low,0,Periodic Review,2025-02-03,2027-02-03
+CUST10812,Individual,Brazil,Hospitality,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2026-08-03,2028-08-02
+CUST10813,Business,United States,Real Estate,0,0,0,1,1,1,1,0,80.0,16,Low,0,Periodic Review,2025-09-09,2027-09-09
+CUST10814,Business,United Kingdom,Logistics,0,0,0,1,0,1,0,0,40.0,28,Low,0,Pending Documents,2025-09-01,2027-09-01
+CUST10815,Individual,United States,Healthcare,0,0,0,1,1,1,1,0,80.0,20,Low,0,Approved,2025-01-01,2027-01-01
+CUST10816,Individual,United States,Consulting,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2025-07-19,2027-07-19
+CUST10817,Individual,Brazil,Construction,0,0,1,1,1,1,0,1,80.0,33,Moderate,1,Periodic Review,2025-12-09,2026-12-09
+CUST10818,Individual,United States,Consulting,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2025-11-14,2027-11-14
+CUST10819,Individual,Mexico,Retail,0,0,0,1,1,1,1,1,100.0,10,Low,0,Periodic Review,2025-02-11,2027-02-11
+CUST10820,Business,Russia,Logistics,0,0,0,1,0,1,1,1,80.0,37,Moderate,0,Approved,2026-04-01,2027-04-01
+CUST10821,Individual,Canada,Construction,1,0,0,1,1,1,1,1,100.0,37,Moderate,1,Approved,2026-01-25,2027-01-25
+CUST10822,Individual,Turkey,Technology,0,0,1,1,1,1,0,1,80.0,57,Moderate,1,Approved,2026-03-12,2027-03-12
+CUST10823,Individual,United States,Finance,0,0,1,1,1,1,0,1,80.0,39,Moderate,1,Approved,2025-01-01,2026-01-01
+CUST10824,Individual,United States,Hospitality,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2024-12-05,2026-12-05
+CUST10825,Business,United States,Real Estate,0,0,0,1,1,1,0,1,80.0,21,Low,0,Approved,2026-08-20,2028-08-19
+CUST10826,Individual,Nigeria,Finance,0,0,0,1,1,1,1,1,100.0,28,Low,0,Approved,2025-04-03,2027-04-03
+CUST10827,Individual,Iran,Retail,0,0,0,1,1,1,1,0,80.0,38,Moderate,0,Periodic Review,2025-09-04,2026-09-04
+CUST10828,Business,United States,Real Estate,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2025-01-30,2027-01-30
+CUST10829,Individual,Mexico,Healthcare,0,0,0,1,1,1,1,0,80.0,18,Low,0,Approved,2024-11-13,2026-11-13
+CUST10830,Individual,United States,Construction,0,0,1,1,1,1,1,1,100.0,33,Moderate,1,Periodic Review,2025-05-12,2026-05-12
+CUST10831,Individual,Canada,Education,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2025-02-01,2027-02-01
+CUST10832,Individual,United States,Construction,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2026-06-11,2028-06-10
+CUST10833,Individual,Russia,Retail,0,0,1,0,1,1,1,1,80.0,57,Moderate,1,Approved,2024-12-23,2025-12-23
+CUST10834,Individual,Canada,Technology,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2024-10-08,2026-10-08
+CUST10835,Individual,United States,Education,0,0,0,0,1,1,1,1,80.0,21,Low,0,Approved,2025-09-26,2027-09-26
+CUST10836,Business,United States,Real Estate,0,0,0,1,0,1,1,1,80.0,17,Low,0,Approved,2025-06-17,2027-06-17
+CUST10837,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,17,Low,0,Periodic Review,2024-12-23,2026-12-23
+CUST10838,Individual,United States,Education,1,0,0,1,1,1,1,1,100.0,37,Moderate,1,Approved,2026-01-18,2027-01-18
+CUST10839,Individual,United States,Retail,0,0,1,1,1,1,1,1,100.0,31,Moderate,1,Approved,2025-08-26,2026-08-26
+CUST10840,Individual,India,Consulting,0,0,1,1,1,1,1,1,100.0,28,Low,1,Approved,2026-08-04,2028-08-03
+CUST10841,Individual,Canada,Retail,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2026-08-16,2028-08-15
+CUST10842,Individual,United Kingdom,Healthcare,0,0,0,0,1,1,1,1,80.0,23,Low,0,Approved,2025-11-28,2027-11-28
+CUST10843,Business,United States,FinTech,0,0,0,1,1,1,1,1,100.0,14,Low,0,Periodic Review,2025-10-03,2027-10-03
+CUST10844,Individual,India,Finance,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2025-05-06,2027-05-06
+CUST10845,Individual,Nigeria,Education,1,0,0,0,1,1,1,1,80.0,60,High,1,Periodic Review,2025-02-12,2025-08-11
+CUST10846,Individual,United States,Consulting,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2025-11-17,2027-11-17
+CUST10847,Business,Nigeria,Manufacturing,0,0,0,0,1,1,1,1,80.0,39,Moderate,0,Approved,2026-05-10,2027-05-10
+CUST10848,Individual,United Kingdom,Retail,0,0,0,1,1,1,0,0,60.0,19,Low,0,Remediation,2026-07-25,2028-07-24
+CUST10849,Individual,United States,Consulting,0,0,0,0,1,1,1,1,80.0,23,Low,0,Approved,2025-06-04,2027-06-04
+CUST10850,Individual,United States,Healthcare,0,0,0,0,1,1,1,1,80.0,26,Low,0,Approved,2026-03-19,2028-03-18
+CUST10851,Business,United Kingdom,Import/Export,0,0,1,1,1,1,1,1,100.0,35,Moderate,1,Periodic Review,2024-10-07,2025-10-07
+CUST10852,Individual,United States,Consulting,0,0,0,1,1,1,0,1,80.0,17,Low,0,Approved,2026-02-08,2028-02-08
+CUST10853,Business,Turkey,Real Estate,0,0,0,1,1,1,1,1,100.0,33,Moderate,0,Approved,2025-12-30,2026-12-30
+CUST10854,Individual,India,Finance,0,0,0,1,1,1,1,1,100.0,8,Low,0,Periodic Review,2025-10-03,2027-10-03
+CUST10855,Individual,Mexico,Construction,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2025-08-01,2027-08-01
+CUST10856,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2025-04-12,2027-04-12
+CUST10857,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2026-05-03,2028-05-02
+CUST10858,Individual,Mexico,Technology,0,0,0,1,1,0,1,1,80.0,18,Low,0,Approved,2025-12-16,2027-12-16
+CUST10859,Individual,United Kingdom,Education,0,0,0,1,1,1,1,1,100.0,10,Low,0,Periodic Review,2024-09-09,2026-09-09
+CUST10860,Business,United States,FinTech,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2025-07-18,2027-07-18
+CUST10861,Individual,United Kingdom,Retail,0,0,0,1,1,1,1,1,100.0,17,Low,0,Periodic Review,2025-10-26,2027-10-26
+CUST10862,Individual,China,Education,1,0,1,1,1,1,1,1,100.0,49,Moderate,1,Approved,2024-09-25,2025-09-25
+CUST10863,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2026-06-25,2028-06-24
+CUST10864,Individual,United States,Healthcare,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2026-05-10,2028-05-09
+CUST10865,Individual,China,Retail,0,0,0,0,1,1,1,1,80.0,22,Low,0,Periodic Review,2026-01-24,2028-01-24
+CUST10866,Individual,United States,Technology,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2026-01-24,2028-01-24
+CUST10867,Individual,United States,Construction,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2025-05-16,2027-05-16
+CUST10868,Business,United States,Import/Export,0,0,0,1,0,1,1,1,80.0,24,Low,0,Approved,2025-08-11,2027-08-11
+CUST10869,Business,United States,Logistics,0,0,1,1,1,1,0,1,80.0,34,Moderate,1,Approved,2025-11-07,2026-11-07
+CUST10870,Individual,United Arab Emirates,Finance,0,0,0,1,1,1,1,1,100.0,25,Low,0,Approved,2025-01-03,2027-01-03
+CUST10871,Individual,United Kingdom,Healthcare,1,0,0,1,1,1,1,1,100.0,38,Moderate,1,Approved,2025-12-22,2026-12-22
+CUST10872,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,10,Low,0,Periodic Review,2025-07-23,2027-07-23
+CUST10873,Individual,India,Technology,0,0,0,1,1,1,1,0,80.0,20,Low,0,Approved,2025-04-27,2027-04-27
+CUST10874,Individual,India,Consulting,0,0,0,1,1,1,0,1,80.0,15,Low,0,Approved,2025-09-09,2027-09-09
+CUST10875,Individual,India,Technology,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2025-06-30,2027-06-30
+CUST10876,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2026-01-29,2028-01-29
+CUST10877,Individual,United States,Hospitality,0,0,0,1,1,0,1,1,80.0,23,Low,0,Periodic Review,2025-08-17,2027-08-17
+CUST10878,Individual,Iran,Technology,0,0,0,1,1,1,1,1,100.0,30,Moderate,0,Approved,2026-01-30,2027-01-30
+CUST10879,Individual,United Arab Emirates,Finance,0,0,0,1,1,1,1,1,100.0,27,Low,0,Approved,2026-05-26,2028-05-25
+CUST10880,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2025-03-22,2027-03-22
+CUST10881,Individual,United States,Retail,0,0,0,0,1,1,1,1,80.0,20,Low,0,Periodic Review,2024-11-04,2026-11-04
+CUST10882,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,16,Low,0,Periodic Review,2025-03-22,2027-03-22
+CUST10883,Individual,Brazil,Construction,0,0,0,0,1,1,1,1,80.0,22,Low,0,Approved,2024-09-21,2026-09-21
+CUST10884,Business,United Kingdom,Real Estate,0,0,1,1,1,0,1,0,60.0,46,Moderate,1,Pending Documents,2024-12-20,2025-12-20
+CUST10885,Individual,United Kingdom,Finance,0,0,1,1,1,1,1,0,80.0,34,Moderate,1,Approved,2025-03-15,2026-03-15
+CUST10886,Individual,United States,Technology,0,0,0,1,1,0,0,1,60.0,24,Low,0,Remediation,2025-02-24,2027-02-24
+CUST10887,Individual,Mexico,Hospitality,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2025-03-01,2027-03-01
+CUST10888,Individual,China,Finance,0,0,0,0,1,1,1,1,80.0,22,Low,0,Approved,2025-10-08,2027-10-08
+CUST10889,Individual,United States,Healthcare,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2026-03-20,2028-03-19
+CUST10890,Business,United Arab Emirates,Retail,0,0,0,1,1,1,1,1,100.0,29,Low,0,Approved,2026-05-08,2028-05-07
+CUST10891,Business,Russia,Consulting,0,0,0,1,1,0,1,1,80.0,35,Moderate,0,Approved,2026-04-04,2027-04-04
+CUST10892,Business,United States,FinTech,0,0,1,1,1,1,1,1,100.0,26,Low,1,Approved,2025-04-01,2027-04-01
+CUST10893,Individual,United Kingdom,Education,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2026-07-31,2028-07-30
+CUST10894,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2024-11-13,2026-11-13
+CUST10895,Individual,China,Education,0,0,0,1,1,1,1,0,80.0,18,Low,0,Approved,2025-11-12,2027-11-12
+CUST10896,Individual,Canada,Retail,0,0,0,0,1,1,1,1,80.0,22,Low,0,Approved,2024-10-12,2026-10-12
+CUST10897,Business,Mexico,Consulting,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2026-03-08,2028-03-07
+CUST10898,Individual,China,Finance,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2026-07-02,2028-07-01
+CUST10899,Individual,United States,Healthcare,0,0,0,1,1,0,0,0,40.0,38,Moderate,0,Remediation,2025-01-20,2026-01-20
+CUST10900,Individual,Brazil,Retail,0,0,0,1,1,0,1,1,80.0,24,Low,0,Periodic Review,2025-07-12,2027-07-12
+CUST10901,Individual,United Kingdom,Technology,0,0,0,1,1,0,1,1,80.0,26,Low,0,Approved,2025-08-14,2027-08-14
+CUST10902,Individual,United States,Healthcare,0,0,0,1,1,1,1,0,80.0,19,Low,0,Approved,2025-01-11,2027-01-11
+CUST10903,Individual,Nigeria,Technology,0,0,0,0,1,1,1,1,80.0,35,Moderate,0,Approved,2024-09-28,2025-09-28
+CUST10904,Individual,China,Healthcare,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2026-08-25,2028-08-24
+CUST10905,Business,United States,Consulting,0,0,0,1,0,1,1,1,80.0,25,Low,0,Approved,2026-06-08,2028-06-07
+CUST10906,Business,India,Import/Export,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2025-07-30,2027-07-30
+CUST10907,Individual,Brazil,Retail,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2025-08-04,2027-08-04
+CUST10908,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2026-07-16,2028-07-15
+CUST10909,Individual,Iran,Hospitality,0,0,0,1,1,1,1,1,100.0,31,Moderate,0,Approved,2025-09-25,2026-09-25
+CUST10910,Individual,United States,Healthcare,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2025-04-21,2027-04-21
+CUST10911,Individual,United States,Finance,0,0,1,1,1,1,1,1,100.0,29,Low,1,Approved,2025-01-03,2027-01-03
+CUST10912,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2025-05-11,2027-05-11
+CUST10913,Individual,Brazil,Technology,0,0,0,1,1,1,1,0,80.0,14,Low,0,Approved,2025-07-02,2027-07-02
+CUST10914,Individual,Mexico,Technology,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2025-07-02,2027-07-02
+CUST10915,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2025-04-04,2027-04-04
+CUST10916,Individual,United States,Healthcare,0,0,0,1,1,1,0,1,80.0,14,Low,0,Approved,2026-04-25,2028-04-24
+CUST10917,Business,Canada,FinTech,0,0,1,1,1,1,1,1,100.0,30,Moderate,1,Approved,2025-12-26,2026-12-26
+CUST10918,Business,United States,FinTech,0,0,0,1,1,1,1,0,80.0,14,Low,0,Approved,2026-04-23,2028-04-22
+CUST10919,Individual,Brazil,Construction,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2024-10-12,2026-10-12
+CUST10920,Business,China,Import/Export,0,0,1,1,1,1,1,1,100.0,33,Moderate,1,Periodic Review,2025-10-13,2026-10-13
+CUST10921,Individual,United Kingdom,Consulting,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2025-03-07,2027-03-07
+CUST10922,Business,Russia,Real Estate,0,0,0,0,1,1,1,1,80.0,40,Moderate,0,Periodic Review,2026-06-27,2027-06-27
+CUST10923,Business,United States,FinTech,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2024-09-13,2026-09-13
+CUST10924,Individual,Iran,Education,0,0,0,1,1,1,1,1,100.0,24,Low,0,Periodic Review,2026-05-23,2028-05-22
+CUST10925,Individual,Mexico,Retail,0,0,0,0,1,1,1,1,80.0,20,Low,0,Approved,2026-08-01,2028-07-31
+CUST10926,Individual,Mexico,Education,0,0,0,0,1,1,1,1,80.0,18,Low,0,Periodic Review,2026-02-22,2028-02-22
+CUST10927,Individual,United States,Consulting,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2025-01-31,2027-01-31
+CUST10928,Individual,Brazil,Finance,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2025-07-13,2027-07-13
+CUST10929,Individual,United States,Consulting,0,0,0,1,1,0,1,1,80.0,18,Low,0,Approved,2024-09-17,2026-09-17
+CUST10930,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2025-04-19,2027-04-19
+CUST10931,Business,United States,Consulting,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2025-01-14,2027-01-14
+CUST10932,Business,United Kingdom,Consulting,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2026-07-17,2028-07-16
+CUST10933,Individual,United Kingdom,Retail,0,0,0,1,1,0,1,1,80.0,26,Low,0,Approved,2026-06-04,2028-06-03
+CUST10934,Individual,Nigeria,Healthcare,0,0,1,1,1,1,1,1,100.0,46,Moderate,1,Approved,2024-10-03,2025-10-03
+CUST10935,Individual,Brazil,Finance,0,0,0,0,1,1,1,1,80.0,26,Low,0,Approved,2025-08-22,2027-08-22
+CUST10936,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2024-09-30,2026-09-30
+CUST10937,Business,Nigeria,Consulting,0,0,0,1,1,1,1,0,80.0,36,Moderate,0,Approved,2025-12-29,2026-12-29
+CUST10938,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,14,Low,0,Periodic Review,2025-02-20,2027-02-20
+CUST10939,Individual,India,Hospitality,0,0,0,1,1,1,1,1,100.0,8,Low,0,Periodic Review,2025-12-18,2027-12-18
+CUST10940,Individual,China,Hospitality,0,0,0,0,1,1,1,1,80.0,21,Low,0,Periodic Review,2025-09-14,2027-09-14
+CUST10941,Individual,United Kingdom,Hospitality,0,0,0,1,1,1,1,1,100.0,16,Low,0,Periodic Review,2025-02-05,2027-02-05
+CUST10942,Individual,Nigeria,Hospitality,0,0,0,1,1,1,1,0,80.0,38,Moderate,0,Approved,2026-05-19,2027-05-19
+CUST10943,Business,United States,FinTech,0,1,0,1,1,1,1,1,100.0,50,Moderate,1,Restricted,2025-09-29,2026-09-29
+CUST10944,Individual,United States,Consulting,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2025-03-24,2027-03-24
+CUST10945,Individual,China,Education,0,0,0,0,1,1,1,1,80.0,18,Low,0,Approved,2025-11-04,2027-11-04
+CUST10946,Individual,United States,Education,0,0,0,1,1,1,0,1,80.0,23,Low,0,Approved,2026-06-16,2028-06-15
+CUST10947,Business,United States,Manufacturing,0,0,0,1,1,1,0,1,80.0,17,Low,0,Approved,2025-04-08,2027-04-08
+CUST10948,Business,United Kingdom,Retail,0,1,0,1,1,1,1,1,100.0,45,Moderate,1,Escalated,2026-01-14,2027-01-14
+CUST10949,Individual,China,Hospitality,0,0,0,1,1,1,1,0,80.0,18,Low,0,Approved,2024-10-22,2026-10-22
+CUST10950,Individual,United States,Healthcare,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2025-01-31,2027-01-31
+CUST10951,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2026-07-31,2028-07-30
+CUST10952,Individual,Nigeria,Hospitality,0,0,0,0,1,1,1,1,80.0,35,Moderate,0,Approved,2025-01-01,2026-01-01
+CUST10953,Business,China,Consulting,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2026-07-05,2028-07-04
+CUST10954,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2026-05-20,2028-05-19
+CUST10955,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2025-10-24,2027-10-24
+CUST10956,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2024-11-24,2026-11-24
+CUST10957,Individual,United States,Consulting,0,0,0,1,1,1,1,1,100.0,9,Low,0,Periodic Review,2024-09-02,2026-09-02
+CUST10958,Individual,United States,Technology,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2026-06-26,2028-06-25
+CUST10959,Business,United Arab Emirates,Logistics,1,0,1,1,1,1,1,1,100.0,66,High,1,Periodic Review,2024-10-11,2025-04-09
+CUST10960,Individual,Mexico,Finance,0,0,0,1,1,1,1,0,80.0,22,Low,0,Approved,2025-08-23,2027-08-23
+CUST10961,Individual,Canada,Consulting,0,0,0,0,1,1,1,0,60.0,32,Moderate,0,Remediation,2026-01-09,2027-01-09
+CUST10962,Individual,United States,Hospitality,0,0,1,1,1,1,1,1,100.0,31,Moderate,1,Approved,2024-11-27,2025-11-27
+CUST10963,Individual,India,Construction,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2026-05-12,2028-05-11
+CUST10964,Individual,United States,Retail,0,0,0,1,1,0,1,0,60.0,32,Moderate,0,Remediation,2025-08-08,2026-08-08
+CUST10965,Individual,Russia,Construction,0,0,0,1,1,1,1,1,100.0,26,Low,0,Approved,2025-07-20,2027-07-20
+CUST10966,Individual,Mexico,Technology,0,0,0,0,1,1,1,1,80.0,25,Low,0,Approved,2026-07-09,2028-07-08
+CUST10967,Individual,United States,Finance,0,0,0,1,1,1,0,1,80.0,18,Low,0,Approved,2026-01-05,2028-01-05
+CUST10968,Individual,Mexico,Retail,0,0,0,1,1,1,0,1,80.0,21,Low,0,Approved,2025-11-10,2027-11-10
+CUST10969,Individual,United States,Healthcare,0,0,0,1,1,1,0,1,80.0,15,Low,0,Periodic Review,2026-05-12,2028-05-11
+CUST10970,Individual,Mexico,Hospitality,0,0,0,1,1,1,0,1,80.0,20,Low,0,Approved,2026-06-05,2028-06-04
+CUST10971,Business,United States,Retail,0,0,0,1,0,1,1,1,80.0,25,Low,0,Approved,2025-05-13,2027-05-13
+CUST10972,Business,United States,Hospitality,0,0,0,1,0,1,1,1,80.0,23,Low,0,Approved,2025-11-01,2027-11-01
+CUST10973,Individual,India,Technology,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2025-10-31,2027-10-31
+CUST10974,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,14,Low,0,Periodic Review,2025-11-15,2027-11-15
+CUST10975,Individual,India,Hospitality,0,0,0,1,1,1,1,1,100.0,15,Low,0,Periodic Review,2026-02-05,2028-02-05
+CUST10976,Individual,United States,Consulting,0,0,0,1,1,1,1,0,80.0,13,Low,0,Approved,2025-01-27,2027-01-27
+CUST10977,Individual,Mexico,Finance,0,0,0,1,1,1,1,0,80.0,15,Low,0,Approved,2025-08-27,2027-08-27
+CUST10978,Individual,Nigeria,Consulting,1,0,0,0,1,1,1,1,80.0,60,High,1,Approved,2026-01-24,2026-07-23
+CUST10979,Individual,United Kingdom,Hospitality,0,0,0,0,1,1,1,1,80.0,23,Low,0,Approved,2026-01-13,2028-01-13
+CUST10980,Individual,United States,Education,0,0,0,0,1,1,1,1,80.0,20,Low,0,Approved,2025-09-17,2027-09-17
+CUST10981,Business,United States,FinTech,0,0,0,0,1,1,1,1,80.0,21,Low,0,Periodic Review,2025-12-20,2027-12-20
+CUST10982,Individual,United States,Healthcare,0,0,1,0,1,1,1,0,60.0,45,Moderate,1,Pending Documents,2025-06-06,2026-06-06
+CUST10983,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2026-04-12,2028-04-11
+CUST10984,Business,Mexico,Retail,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2026-06-24,2028-06-23
+CUST10985,Individual,Turkey,Consulting,1,0,0,0,1,1,1,1,80.0,60,High,1,Periodic Review,2026-06-04,2026-12-01
+CUST10986,Individual,India,Healthcare,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2026-04-18,2028-04-17
+CUST10987,Individual,United Arab Emirates,Retail,0,0,0,1,1,1,1,0,80.0,38,Moderate,0,Approved,2024-11-15,2025-11-15
+CUST10988,Individual,China,Finance,0,1,0,1,1,1,1,1,100.0,51,Moderate,1,EDD Review,2024-10-02,2025-10-02
+CUST10989,Business,Mexico,Real Estate,0,0,0,1,1,1,1,0,80.0,22,Low,0,Approved,2025-03-27,2027-03-27
+CUST10990,Business,United States,Manufacturing,0,0,1,1,1,1,1,1,100.0,33,Moderate,1,Approved,2024-11-10,2025-11-10
+CUST10991,Individual,Brazil,Technology,0,0,0,1,1,1,0,1,80.0,19,Low,0,Approved,2025-06-16,2027-06-16
+CUST10992,Individual,Mexico,Hospitality,0,0,0,1,1,1,1,0,80.0,22,Low,0,Approved,2026-07-25,2028-07-24
+CUST10993,Individual,Canada,Education,0,0,0,1,1,1,1,0,80.0,15,Low,0,Approved,2026-02-05,2028-02-05
+CUST10994,Individual,United States,Consulting,0,0,1,1,1,1,1,1,100.0,27,Low,1,Approved,2026-02-03,2028-02-03
+CUST10995,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2025-04-06,2027-04-06
+CUST10996,Business,United States,Hospitality,0,0,0,1,0,1,1,1,80.0,24,Low,0,Approved,2025-09-06,2027-09-06
+CUST10997,Individual,India,Education,0,0,1,1,1,1,1,1,100.0,35,Moderate,1,Approved,2025-02-01,2026-02-01
+CUST10998,Business,United Kingdom,Logistics,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2026-08-31,2028-08-30
+CUST10999,Individual,United States,Hospitality,0,0,0,0,1,1,1,0,60.0,28,Low,0,Remediation,2025-08-16,2027-08-16
+CUST11000,Individual,Russia,Construction,0,0,0,1,1,1,1,1,100.0,30,Moderate,0,Approved,2025-03-13,2026-03-13
+CUST11001,Individual,United States,Education,0,0,0,1,1,1,1,0,80.0,21,Low,0,Periodic Review,2025-08-03,2027-08-03
+CUST11002,Business,United States,Manufacturing,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2026-07-13,2028-07-12
+CUST11003,Business,United States,FinTech,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2025-08-01,2027-08-01
+CUST11004,Business,Nigeria,Real Estate,0,0,0,1,0,1,1,0,60.0,42,Moderate,0,Pending Documents,2026-07-31,2027-07-31
+CUST11005,Individual,Brazil,Education,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2025-03-05,2027-03-05
+CUST11006,Individual,United States,Technology,0,0,0,0,1,1,1,1,80.0,18,Low,0,Approved,2024-09-19,2026-09-19
+CUST11007,Business,India,Logistics,0,0,0,0,1,1,0,1,60.0,29,Low,0,Remediation,2026-01-10,2028-01-10
+CUST11008,Individual,United States,Construction,1,0,0,1,1,1,0,1,80.0,44,Moderate,1,Approved,2026-08-06,2027-08-06
+CUST11009,Individual,Brazil,Construction,0,0,0,0,1,1,1,1,80.0,27,Low,0,Approved,2025-02-24,2027-02-24
+CUST11010,Individual,United Arab Emirates,Education,0,0,0,1,1,1,1,1,100.0,32,Moderate,0,Periodic Review,2025-06-24,2026-06-24
+CUST11011,Business,China,Manufacturing,0,1,0,1,1,1,1,1,100.0,49,Moderate,1,EDD Review,2026-07-02,2027-07-02
+CUST11012,Business,United States,Manufacturing,0,0,0,0,1,1,1,1,80.0,24,Low,0,Approved,2025-02-25,2027-02-25
+CUST11013,Individual,Russia,Consulting,0,0,0,1,1,1,1,1,100.0,31,Moderate,0,Periodic Review,2025-06-17,2026-06-17
+CUST11014,Individual,Nigeria,Hospitality,0,0,0,1,1,1,1,1,100.0,33,Moderate,0,Approved,2026-04-24,2027-04-24
+CUST11015,Business,United States,Manufacturing,0,0,0,1,0,1,1,1,80.0,18,Low,0,Approved,2025-09-12,2027-09-12
+CUST11016,Individual,China,Construction,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2026-02-15,2028-02-15
+CUST11017,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,12,Low,0,Periodic Review,2024-11-07,2026-11-07
+CUST11018,Business,India,Consulting,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2024-09-15,2026-09-15
+CUST11019,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2024-10-07,2026-10-07
+CUST11020,Individual,Nigeria,Finance,0,0,0,1,1,1,1,1,100.0,26,Low,0,Approved,2025-08-26,2027-08-26
+CUST11021,Individual,United Kingdom,Consulting,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2024-09-12,2026-09-12
+CUST11022,Business,United States,Manufacturing,0,0,1,0,1,1,1,1,80.0,45,Moderate,1,Approved,2026-04-07,2027-04-07
+CUST11023,Business,United States,Logistics,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2024-09-15,2026-09-15
+CUST11024,Business,United States,Manufacturing,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2025-04-21,2027-04-21
+CUST11025,Individual,United States,Retail,0,0,0,1,1,1,1,0,80.0,13,Low,0,Approved,2026-07-15,2028-07-14
+CUST11026,Business,United States,FinTech,0,0,0,1,1,1,1,0,80.0,15,Low,0,Approved,2024-11-19,2026-11-19
+CUST11027,Business,Canada,FinTech,0,0,1,0,1,1,1,1,80.0,36,Moderate,1,Approved,2026-03-13,2027-03-13
+CUST11028,Individual,United States,Construction,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2024-12-27,2026-12-27
+CUST11029,Business,United States,Import/Export,0,0,0,1,1,1,0,1,80.0,16,Low,0,Approved,2024-10-02,2026-10-02
+CUST11030,Individual,United Arab Emirates,Hospitality,0,1,0,1,1,1,1,1,100.0,63,High,1,Escalated,2025-10-21,2026-04-19
+CUST11031,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2025-08-21,2027-08-21
+CUST11032,Individual,Brazil,Hospitality,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2025-03-17,2027-03-17
+CUST11033,Individual,India,Technology,0,0,0,1,1,1,1,0,80.0,22,Low,0,Approved,2025-07-08,2027-07-08
+CUST11034,Individual,Mexico,Education,0,0,0,0,1,1,1,0,60.0,32,Moderate,0,Remediation,2025-08-01,2026-08-01
+CUST11035,Individual,Canada,Education,1,0,0,1,1,1,1,1,100.0,38,Moderate,1,Approved,2025-03-28,2026-03-28
+CUST11036,Individual,Brazil,Hospitality,0,0,0,1,1,1,1,1,100.0,8,Low,0,Periodic Review,2026-02-26,2028-02-26
+CUST11037,Business,United States,Manufacturing,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2024-11-25,2026-11-25
+CUST11038,Individual,United States,Healthcare,0,0,0,1,1,1,0,1,80.0,22,Low,0,Periodic Review,2026-07-30,2028-07-29
+CUST11039,Individual,United States,Construction,0,0,0,0,1,1,1,1,80.0,22,Low,0,Approved,2026-06-24,2028-06-23
+CUST11040,Individual,China,Construction,0,0,0,1,1,1,0,1,80.0,23,Low,0,Approved,2025-01-17,2027-01-17
+CUST11041,Business,United States,Real Estate,0,0,0,1,0,1,1,1,80.0,18,Low,0,Approved,2026-02-22,2028-02-22
+CUST11042,Individual,Canada,Technology,0,0,0,0,1,1,1,1,80.0,22,Low,0,Approved,2026-05-23,2028-05-22
+CUST11043,Individual,Iran,Consulting,0,0,0,1,1,1,1,1,100.0,24,Low,0,Approved,2025-05-04,2027-05-04
+CUST11044,Business,India,Consulting,0,0,1,1,1,1,1,1,100.0,34,Moderate,1,Approved,2025-11-20,2026-11-20
+CUST11045,Individual,United Kingdom,Finance,0,0,0,1,1,1,0,1,80.0,23,Low,0,Approved,2025-08-07,2027-08-07
+CUST11046,Individual,United States,Construction,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2025-02-13,2027-02-13
+CUST11047,Individual,India,Technology,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2026-03-25,2028-03-24
+CUST11048,Business,Canada,Retail,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2025-02-24,2027-02-24
+CUST11049,Individual,United States,Consulting,0,0,0,1,1,1,1,1,100.0,16,Low,0,Periodic Review,2026-07-16,2028-07-15
+CUST11050,Business,United States,Logistics,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2026-03-26,2028-03-25
+CUST11051,Individual,Brazil,Hospitality,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2025-06-12,2027-06-12
+CUST11052,Business,Mexico,Real Estate,0,0,1,0,0,1,1,1,60.0,50,Moderate,1,Remediation,2024-10-05,2025-10-05
+CUST11053,Business,China,Logistics,0,0,0,1,0,1,1,1,80.0,20,Low,0,Periodic Review,2025-03-27,2027-03-27
+CUST11054,Business,India,Consulting,0,0,0,1,1,1,1,0,80.0,13,Low,0,Approved,2024-11-04,2026-11-04
+CUST11055,Individual,Canada,Consulting,0,0,0,1,1,1,1,1,100.0,14,Low,0,Periodic Review,2026-03-30,2028-03-29
+CUST11056,Business,United Kingdom,Hospitality,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2025-09-27,2027-09-27
+CUST11057,Individual,United States,Construction,0,0,0,1,1,1,1,0,80.0,20,Low,0,Approved,2025-09-01,2027-09-01
+CUST11058,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2024-10-02,2026-10-02
+CUST11059,Individual,United States,Construction,0,0,1,1,1,1,1,1,100.0,30,Moderate,1,Approved,2025-02-04,2026-02-04
+CUST11060,Business,United Arab Emirates,Hospitality,0,0,1,0,1,1,1,1,80.0,59,Moderate,1,Approved,2026-04-06,2027-04-06
+CUST11061,Business,Canada,Manufacturing,0,0,0,1,0,0,0,1,40.0,33,Moderate,0,Remediation,2026-04-10,2027-04-10
+CUST11062,Business,Brazil,Hospitality,0,0,0,1,1,1,1,1,100.0,8,Low,0,Periodic Review,2026-05-21,2028-05-20
+CUST11063,Individual,United States,Consulting,0,0,0,0,1,1,1,1,80.0,24,Low,0,Approved,2026-05-31,2028-05-30
+CUST11064,Individual,Canada,Finance,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2025-11-19,2027-11-19
+CUST11065,Business,Mexico,Hospitality,0,0,0,0,1,1,1,1,80.0,22,Low,0,Periodic Review,2025-07-04,2027-07-04
+CUST11066,Individual,Canada,Hospitality,0,0,0,1,1,0,0,1,60.0,28,Low,0,Remediation,2026-05-05,2028-05-04
+CUST11067,Individual,Nigeria,Healthcare,0,0,0,1,1,1,0,1,80.0,38,Moderate,0,Periodic Review,2026-08-03,2027-08-03
+CUST11068,Individual,United States,Healthcare,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2025-04-08,2027-04-08
+CUST11069,Individual,United Kingdom,Consulting,0,0,0,1,1,1,1,1,100.0,15,Low,0,Periodic Review,2026-08-02,2028-08-01
+CUST11070,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2025-08-31,2027-08-31
+CUST11071,Individual,United States,Healthcare,0,0,0,0,1,1,1,1,80.0,24,Low,0,Approved,2026-04-16,2028-04-15
+CUST11072,Individual,United Kingdom,Hospitality,0,0,0,0,1,1,1,1,80.0,23,Low,0,Approved,2025-05-14,2027-05-14
+CUST11073,Individual,Mexico,Construction,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2025-02-15,2027-02-15
+CUST11074,Business,Russia,FinTech,0,0,0,1,1,0,1,1,80.0,35,Moderate,0,Approved,2025-08-05,2026-08-05
+CUST11075,Individual,Canada,Technology,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2025-06-23,2027-06-23
+CUST11076,Individual,United Arab Emirates,Finance,0,0,0,1,1,1,1,1,100.0,27,Low,0,Periodic Review,2026-01-10,2028-01-10
+CUST11077,Individual,United Kingdom,Consulting,1,0,0,1,1,1,1,1,100.0,36,Moderate,1,Periodic Review,2026-07-08,2027-07-08
+CUST11078,Individual,Mexico,Healthcare,0,0,0,1,1,1,1,1,100.0,15,Low,0,Periodic Review,2025-11-13,2027-11-13
+CUST11079,Business,United States,Retail,0,0,0,0,0,1,1,1,60.0,28,Low,0,Pending Documents,2025-10-24,2027-10-24
+CUST11080,Business,United States,Logistics,0,0,0,1,0,1,1,1,80.0,24,Low,0,Approved,2025-03-02,2027-03-02
+CUST11081,Individual,United States,Technology,0,0,0,1,1,1,1,1,100.0,16,Low,0,Periodic Review,2026-06-04,2028-06-03
+CUST11082,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,14,Low,0,Periodic Review,2026-02-01,2028-02-01
+CUST11083,Business,United States,Retail,0,1,0,1,1,1,0,1,80.0,49,Moderate,1,EDD Review,2025-10-18,2026-10-18
+CUST11084,Business,United States,Manufacturing,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2025-05-24,2027-05-24
+CUST11085,Individual,United States,Hospitality,0,0,0,1,1,1,1,0,80.0,20,Low,0,Periodic Review,2026-06-06,2028-06-05
+CUST11086,Individual,Russia,Technology,0,0,0,1,1,1,1,1,100.0,28,Low,0,Approved,2025-07-19,2027-07-19
+CUST11087,Individual,United States,Finance,0,0,0,0,1,1,1,1,80.0,19,Low,0,Approved,2026-01-04,2028-01-04
+CUST11088,Business,United Kingdom,Manufacturing,0,0,0,0,0,1,1,1,60.0,31,Moderate,0,Remediation,2024-10-01,2025-10-01
+CUST11089,Individual,United States,Education,1,0,0,1,1,1,1,1,100.0,37,Moderate,1,Approved,2026-07-06,2027-07-06
+CUST11090,Business,Canada,Manufacturing,0,0,0,1,1,1,1,1,100.0,9,Low,0,Periodic Review,2026-05-11,2028-05-10
+CUST11091,Individual,United States,Technology,0,0,1,1,1,0,0,1,60.0,42,Moderate,1,Remediation,2026-06-23,2027-06-23
+CUST11092,Individual,United States,Technology,0,0,0,0,1,1,1,1,80.0,21,Low,0,Approved,2024-10-09,2026-10-09
+CUST11093,Individual,United Kingdom,Hospitality,0,0,0,1,1,1,1,0,80.0,16,Low,0,Approved,2026-03-01,2028-02-29
+CUST11094,Individual,United States,Technology,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2024-09-28,2026-09-28
+CUST11095,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2025-11-29,2027-11-29
+CUST11096,Individual,United States,Retail,0,0,0,1,1,1,0,1,80.0,17,Low,0,Approved,2026-01-11,2028-01-11
+CUST11097,Individual,United States,Technology,0,0,0,1,1,1,1,0,80.0,15,Low,0,Periodic Review,2026-07-09,2028-07-08
+CUST11098,Business,United States,Retail,0,0,0,0,1,1,1,1,80.0,19,Low,0,Approved,2025-12-18,2027-12-18
+CUST11099,Individual,United States,Hospitality,1,0,0,1,1,1,1,1,100.0,33,Moderate,1,Approved,2026-06-03,2027-06-03
+CUST11100,Individual,China,Consulting,0,0,0,1,1,1,0,1,80.0,21,Low,0,Periodic Review,2024-11-07,2026-11-07
+CUST11101,Business,Canada,Consulting,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2025-06-23,2027-06-23
+CUST11102,Business,United Kingdom,Logistics,0,0,1,1,1,1,1,1,100.0,33,Moderate,1,Approved,2024-12-15,2025-12-15
+CUST11103,Business,United States,Hospitality,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2025-07-20,2027-07-20
+CUST11104,Business,Turkey,Consulting,0,0,0,0,1,1,1,1,80.0,36,Moderate,0,Approved,2025-12-06,2026-12-06
+CUST11105,Individual,United States,Hospitality,0,0,0,1,1,1,1,1,100.0,17,Low,0,Periodic Review,2024-11-01,2026-11-01
+CUST11106,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,17,Low,0,Periodic Review,2025-08-31,2027-08-31
+CUST11107,Business,Canada,Hospitality,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2025-09-15,2027-09-15
+CUST11108,Individual,United States,Technology,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2025-11-06,2027-11-06
+CUST11109,Individual,United States,Hospitality,0,0,0,1,1,1,0,1,80.0,14,Low,0,Approved,2026-03-26,2028-03-25
+CUST11110,Business,United Kingdom,Real Estate,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2025-05-02,2027-05-02
+CUST11111,Individual,India,Healthcare,0,0,1,1,1,1,1,1,100.0,30,Moderate,1,Approved,2025-03-24,2026-03-24
+CUST11112,Individual,United Kingdom,Hospitality,0,0,0,0,1,1,1,0,60.0,30,Moderate,0,Remediation,2025-09-11,2026-09-11
+CUST11113,Individual,Nigeria,Education,0,0,0,1,1,1,1,1,100.0,24,Low,0,Approved,2024-12-19,2026-12-19
+CUST11114,Individual,Iran,Construction,0,0,0,1,1,1,1,1,100.0,25,Low,0,Periodic Review,2025-07-27,2027-07-27
+CUST11115,Individual,United States,Technology,0,0,0,1,1,0,1,1,80.0,24,Low,0,Periodic Review,2025-07-23,2027-07-23
+CUST11116,Individual,United States,Technology,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2026-05-28,2028-05-27
+CUST11117,Business,United States,FinTech,1,0,0,1,1,1,1,1,100.0,32,Moderate,1,Approved,2024-09-24,2025-09-24
+CUST11118,Individual,United States,Finance,0,0,0,1,1,0,1,1,80.0,25,Low,0,Approved,2025-02-08,2027-02-08
+CUST11119,Individual,United States,Technology,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2025-08-05,2027-08-05
+CUST11120,Business,Brazil,Manufacturing,0,0,0,0,1,1,1,1,80.0,26,Low,0,Approved,2025-09-14,2027-09-14
+CUST11121,Business,Nigeria,Import/Export,0,0,0,1,1,1,1,0,80.0,30,Moderate,0,Approved,2024-11-04,2025-11-04
+CUST11122,Business,Canada,FinTech,0,0,0,1,1,1,0,0,60.0,20,Low,0,Remediation,2025-02-02,2027-02-02
+CUST11123,Business,United States,Manufacturing,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2024-10-31,2026-10-31
+CUST11124,Individual,China,Construction,0,0,0,0,1,1,1,0,60.0,32,Moderate,0,Remediation,2024-12-07,2025-12-07
+CUST11125,Individual,Russia,Retail,0,0,0,1,1,1,1,0,80.0,31,Moderate,0,Approved,2025-11-17,2026-11-17
+CUST11126,Individual,China,Retail,0,0,0,0,1,1,0,1,60.0,27,Low,0,Remediation,2025-03-27,2027-03-27
+CUST11127,Individual,United States,Education,0,0,0,1,1,1,0,1,80.0,19,Low,0,Approved,2024-09-05,2026-09-05
+CUST11128,Individual,Mexico,Finance,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2026-03-23,2028-03-22
+CUST11129,Individual,United States,Technology,0,0,1,1,1,1,1,1,100.0,30,Moderate,1,Approved,2024-12-23,2025-12-23
+CUST11130,Business,United States,Logistics,0,0,0,1,0,1,1,1,80.0,18,Low,0,Approved,2024-11-11,2026-11-11
+CUST11131,Individual,United States,Technology,0,0,0,1,1,1,1,1,100.0,10,Low,0,Periodic Review,2026-03-03,2028-03-02
+CUST11132,Individual,Canada,Retail,0,0,0,1,1,1,0,1,80.0,23,Low,0,Approved,2025-03-01,2027-03-01
+CUST11133,Individual,Mexico,Consulting,0,1,0,1,1,1,1,1,100.0,45,Moderate,1,Escalated,2026-06-11,2027-06-11
+CUST11134,Individual,United States,Hospitality,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2025-03-26,2027-03-26
+CUST11135,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,12,Low,0,Periodic Review,2026-08-28,2028-08-27
+CUST11136,Business,United States,Hospitality,0,0,0,1,1,1,1,1,100.0,11,Low,0,Periodic Review,2025-04-24,2027-04-24
+CUST11137,Individual,United States,Consulting,0,0,0,1,1,1,1,0,80.0,20,Low,0,Approved,2025-02-23,2027-02-23
+CUST11138,Individual,United States,Technology,0,0,0,1,1,1,0,1,80.0,19,Low,0,Approved,2026-07-12,2028-07-11
+CUST11139,Individual,United States,Technology,0,0,0,1,1,1,1,0,80.0,18,Low,0,Approved,2025-12-14,2027-12-14
+CUST11140,Business,United Arab Emirates,Manufacturing,0,0,1,1,0,1,0,1,60.0,57,Moderate,1,Pending Documents,2026-04-20,2027-04-20
+CUST11141,Individual,United States,Healthcare,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2025-01-10,2027-01-10
+CUST11142,Individual,United States,Hospitality,0,0,0,1,1,1,1,1,100.0,10,Low,0,Periodic Review,2025-09-04,2027-09-04
+CUST11143,Individual,United States,Retail,1,0,0,1,1,1,1,0,80.0,40,Moderate,1,Approved,2025-02-10,2026-02-10
+CUST11144,Individual,Turkey,Consulting,0,0,1,1,1,1,1,0,80.0,56,Moderate,1,Approved,2026-01-27,2027-01-27
+CUST11145,Business,Mexico,Logistics,0,0,0,1,0,1,1,1,80.0,22,Low,0,Periodic Review,2026-06-25,2028-06-24
+CUST11146,Business,Mexico,FinTech,0,0,0,1,0,1,1,1,80.0,18,Low,0,Periodic Review,2025-02-22,2027-02-22
+CUST11147,Individual,United States,Retail,0,0,0,0,1,1,1,1,80.0,18,Low,0,Approved,2026-04-11,2028-04-10
+CUST11148,Business,Canada,FinTech,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2025-09-20,2027-09-20
+CUST11149,Business,United States,Hospitality,0,0,0,1,1,0,1,1,80.0,22,Low,0,Approved,2025-02-24,2027-02-24
+CUST11150,Individual,Mexico,Finance,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2024-11-19,2026-11-19
+CUST11151,Business,Brazil,Import/Export,0,0,0,0,1,1,1,0,60.0,29,Low,0,Remediation,2025-01-24,2027-01-24
+CUST11152,Individual,Canada,Retail,0,0,1,1,1,1,0,0,60.0,40,Moderate,1,Remediation,2026-02-19,2027-02-19
+CUST11153,Individual,India,Finance,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2024-11-03,2026-11-03
+CUST11154,Individual,Nigeria,Consulting,0,0,0,1,1,1,1,1,100.0,30,Moderate,0,Approved,2025-12-29,2026-12-29
+CUST11155,Business,United States,Logistics,0,0,0,1,1,1,1,0,80.0,22,Low,0,Approved,2025-10-22,2027-10-22
+CUST11156,Individual,Brazil,Healthcare,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2025-08-13,2027-08-13
+CUST11157,Business,United States,FinTech,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2025-11-28,2027-11-28
+CUST11158,Business,United Kingdom,Manufacturing,0,0,0,0,1,1,1,1,80.0,22,Low,0,Approved,2026-06-21,2028-06-20
+CUST11159,Individual,United States,Healthcare,1,0,0,0,1,1,1,1,80.0,43,Moderate,1,Approved,2026-04-25,2027-04-25
+CUST11160,Business,United States,Retail,0,0,0,1,1,0,1,1,80.0,23,Low,0,Approved,2025-09-08,2027-09-08
+CUST11161,Individual,United States,Hospitality,1,0,0,0,1,1,1,1,80.0,40,Moderate,1,Approved,2024-10-03,2025-10-03
+CUST11162,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2025-03-25,2027-03-25
+CUST11163,Business,United Kingdom,Retail,0,0,0,1,1,1,1,0,80.0,13,Low,0,Approved,2026-01-24,2028-01-24
+CUST11164,Individual,Canada,Finance,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2026-08-26,2028-08-25
+CUST11165,Business,United States,FinTech,1,0,0,1,1,1,1,0,80.0,42,Moderate,1,Approved,2024-12-16,2025-12-16
+CUST11166,Business,United States,Real Estate,0,0,0,1,1,1,1,1,100.0,9,Low,0,Periodic Review,2026-01-16,2028-01-16
+CUST11167,Individual,United Kingdom,Construction,0,0,0,1,1,1,1,1,100.0,17,Low,0,Periodic Review,2026-08-15,2028-08-14
+CUST11168,Individual,United States,Technology,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2025-01-24,2027-01-24
+CUST11169,Individual,Nigeria,Technology,0,0,0,0,1,1,1,1,80.0,39,Moderate,0,Approved,2026-08-20,2027-08-20
+CUST11170,Individual,Mexico,Technology,0,0,0,0,1,1,0,1,60.0,29,Low,0,Remediation,2025-01-11,2027-01-11
+CUST11171,Business,India,Manufacturing,0,0,0,1,0,1,1,1,80.0,24,Low,0,Approved,2025-04-20,2027-04-20
+CUST11172,Individual,Nigeria,Finance,0,0,0,1,1,1,1,1,100.0,27,Low,0,Approved,2024-10-09,2026-10-09
+CUST11173,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2024-12-06,2026-12-06
+CUST11174,Individual,Mexico,Technology,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2024-09-15,2026-09-15
+CUST11175,Individual,United States,Education,0,0,0,1,1,0,1,1,80.0,21,Low,0,Periodic Review,2025-04-17,2027-04-17
+CUST11176,Business,United States,Consulting,0,0,1,1,1,1,1,1,100.0,27,Low,1,Approved,2026-06-23,2028-06-22
+CUST11177,Individual,China,Consulting,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2026-05-16,2028-05-15
+CUST11178,Business,United States,Logistics,0,0,0,1,0,1,1,1,80.0,26,Low,0,Approved,2026-02-12,2028-02-12
+CUST11179,Individual,China,Consulting,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2026-07-11,2028-07-10
+CUST11180,Business,China,FinTech,0,0,0,1,1,1,1,0,80.0,21,Low,0,Approved,2025-03-01,2027-03-01
+CUST11181,Individual,India,Consulting,0,0,0,1,1,1,0,0,60.0,24,Low,0,Remediation,2024-12-11,2026-12-11
+CUST11182,Individual,Brazil,Consulting,0,0,0,1,1,1,1,0,80.0,15,Low,0,Approved,2025-12-16,2027-12-16
+CUST11183,Business,United States,Consulting,0,0,0,1,0,1,1,1,80.0,21,Low,0,Approved,2025-05-07,2027-05-07
+CUST11184,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2025-12-11,2027-12-11
+CUST11185,Business,Canada,Logistics,0,0,1,1,1,1,1,1,100.0,33,Moderate,1,Approved,2025-11-02,2026-11-02
+CUST11186,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2025-02-02,2027-02-02
+CUST11187,Individual,Canada,Consulting,0,0,0,1,1,0,1,1,80.0,25,Low,0,Periodic Review,2025-02-24,2027-02-24
+CUST11188,Individual,Nigeria,Finance,0,0,0,1,1,1,1,1,100.0,26,Low,0,Approved,2025-02-23,2027-02-23
+CUST11189,Individual,Mexico,Finance,0,0,0,0,1,1,1,1,80.0,26,Low,0,Approved,2026-04-29,2028-04-28
+CUST11190,Individual,United States,Healthcare,0,0,0,1,1,1,1,1,100.0,10,Low,0,Periodic Review,2025-12-05,2027-12-05
+CUST11191,Individual,United States,Technology,1,0,0,0,1,1,1,1,80.0,47,Moderate,1,Approved,2025-05-09,2026-05-09
+CUST11192,Individual,United States,Retail,0,0,0,1,1,1,1,0,80.0,22,Low,0,Approved,2026-04-22,2028-04-21
+CUST11193,Individual,United States,Hospitality,0,0,0,1,1,1,0,1,80.0,22,Low,0,Approved,2026-08-30,2028-08-29
+CUST11194,Individual,Brazil,Retail,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2026-05-09,2028-05-08
+CUST11195,Business,United States,Hospitality,0,0,0,1,1,1,0,1,80.0,17,Low,0,Approved,2025-05-08,2027-05-08
+CUST11196,Business,United States,FinTech,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2026-08-31,2028-08-30
+CUST11197,Business,United States,Logistics,0,0,0,1,1,1,1,1,100.0,16,Low,0,Periodic Review,2025-10-05,2027-10-05
+CUST11198,Business,Mexico,Hospitality,0,0,1,1,1,1,1,1,100.0,28,Low,1,Approved,2025-02-01,2027-02-01
+CUST11199,Individual,Mexico,Construction,0,0,1,1,1,1,1,1,100.0,28,Low,1,Approved,2024-12-03,2026-12-03

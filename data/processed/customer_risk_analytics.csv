@@ -1,0 +1,1201 @@
+customer_id,customer_type,country,occupation_industry,pep_flag,sanctions_hit,adverse_media_flag,source_of_wealth_verified,ubo_complete,id_verified,address_verified,tax_verified,kyc_complete_pct,risk_score,risk_level,edd_required,customer_status,last_review_date,next_review_date,primary_risk_driver
+CUST10000,Individual,United Arab Emirates,Finance,0,0,0,1,1,0,1,1,80.0,40,Moderate,0,Approved,2026-04-03,2027-04-03,High-Risk Geography
+CUST10001,Business,United States,FinTech,0,0,0,0,1,1,1,0,60.0,23,Low,0,Pending Documents,2026-06-19,2028-06-18,Source of Wealth
+CUST10002,Business,United States,Logistics,0,0,0,1,1,1,0,1,80.0,17,Low,0,Approved,2026-07-06,2028-07-05,KYC Documentation
+CUST10003,Individual,United States,Finance,0,0,0,0,1,0,1,1,60.0,33,Moderate,0,Pending Documents,2025-10-01,2026-10-01,Source of Wealth
+CUST10004,Individual,United Kingdom,Construction,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2025-12-23,2027-12-23,Standard Risk
+CUST10005,Individual,United Arab Emirates,Finance,0,0,1,1,1,1,0,1,80.0,54,Moderate,1,Approved,2025-12-21,2026-12-21,Adverse Media
+CUST10006,Individual,Mexico,Technology,0,0,0,1,1,1,1,1,100.0,17,Low,0,Periodic Review,2025-08-12,2027-08-12,Standard Risk
+CUST10007,Business,United States,Manufacturing,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2025-06-02,2027-06-02,Standard Risk
+CUST10008,Individual,United States,Construction,0,0,0,1,1,1,1,1,100.0,10,Low,0,Periodic Review,2025-12-16,2027-12-16,Standard Risk
+CUST10009,Individual,Iran,Consulting,1,0,0,1,1,1,1,1,100.0,49,Moderate,1,Approved,2025-05-24,2026-05-24,PEP
+CUST10010,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2026-07-29,2028-07-28,Standard Risk
+CUST10011,Business,United States,Manufacturing,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2025-04-24,2027-04-24,Standard Risk
+CUST10012,Business,United States,Real Estate,0,0,1,1,1,1,1,1,100.0,29,Low,1,Approved,2025-10-10,2027-10-10,Adverse Media
+CUST10013,Individual,China,Consulting,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2026-01-06,2028-01-06,Standard Risk
+CUST10014,Individual,Nigeria,Retail,0,0,0,0,1,1,1,1,80.0,42,Moderate,0,Periodic Review,2024-10-10,2025-10-10,High-Risk Geography
+CUST10015,Individual,United States,Consulting,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2024-12-24,2026-12-24,Standard Risk
+CUST10016,Individual,United States,Retail,0,0,0,1,1,1,1,0,80.0,21,Low,0,Periodic Review,2025-03-09,2027-03-09,KYC Documentation
+CUST10017,Individual,Mexico,Construction,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2025-05-23,2027-05-23,Standard Risk
+CUST10018,Individual,Mexico,Technology,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2025-11-01,2027-11-01,Standard Risk
+CUST10019,Individual,United States,Hospitality,0,0,0,1,1,1,1,0,80.0,14,Low,0,Approved,2026-05-07,2028-05-06,KYC Documentation
+CUST10020,Individual,Russia,Retail,0,0,0,1,1,1,1,1,100.0,25,Low,0,Periodic Review,2026-02-06,2028-02-06,High-Risk Geography
+CUST10021,Individual,United States,Technology,0,0,0,1,1,1,0,1,80.0,17,Low,0,Approved,2024-10-04,2026-10-04,KYC Documentation
+CUST10022,Individual,United States,Education,0,0,0,0,1,1,1,1,80.0,26,Low,0,Periodic Review,2025-05-08,2027-05-08,Source of Wealth
+CUST10023,Individual,Turkey,Healthcare,0,0,0,1,1,1,1,1,100.0,26,Low,0,Approved,2024-11-20,2026-11-20,High-Risk Geography
+CUST10024,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,13,Low,0,Periodic Review,2025-07-25,2027-07-25,Standard Risk
+CUST10025,Business,Mexico,Logistics,0,0,0,1,1,1,1,0,80.0,14,Low,0,Approved,2024-10-25,2026-10-25,KYC Documentation
+CUST10026,Individual,United States,Consulting,0,0,0,1,1,1,0,1,80.0,14,Low,0,Approved,2025-01-22,2027-01-22,KYC Documentation
+CUST10027,Individual,United States,Consulting,0,0,0,0,1,1,1,1,80.0,22,Low,0,Approved,2026-01-11,2028-01-11,Source of Wealth
+CUST10028,Individual,Iran,Finance,0,0,0,1,1,0,1,1,80.0,41,Moderate,0,Approved,2025-11-21,2026-11-21,High-Risk Geography
+CUST10029,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2025-05-09,2027-05-09,Standard Risk
+CUST10030,Individual,Brazil,Finance,0,0,0,0,1,1,1,1,80.0,27,Low,0,Periodic Review,2026-08-23,2028-08-22,Source of Wealth
+CUST10031,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,9,Low,0,Periodic Review,2024-09-16,2026-09-16,Standard Risk
+CUST10032,Individual,United States,Retail,0,0,0,0,1,1,1,1,80.0,27,Low,0,Approved,2025-08-18,2027-08-18,Source of Wealth
+CUST10033,Business,United States,Retail,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2025-01-06,2027-01-06,Standard Risk
+CUST10034,Business,Mexico,Consulting,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2025-08-16,2027-08-16,Standard Risk
+CUST10035,Business,United States,Logistics,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2024-11-08,2026-11-08,Standard Risk
+CUST10036,Individual,India,Construction,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2025-09-06,2027-09-06,Standard Risk
+CUST10037,Individual,United States,Finance,0,0,0,1,1,0,1,1,80.0,21,Low,0,Approved,2026-03-09,2028-03-08,KYC Documentation
+CUST10038,Individual,Russia,Consulting,0,0,0,1,1,1,1,1,100.0,31,Moderate,0,Approved,2025-05-04,2026-05-04,High-Risk Geography
+CUST10039,Individual,United States,Finance,0,0,0,1,1,0,1,1,80.0,20,Low,0,Approved,2025-07-23,2027-07-23,KYC Documentation
+CUST10040,Individual,India,Healthcare,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2026-07-30,2028-07-29,Standard Risk
+CUST10041,Individual,United Arab Emirates,Finance,0,0,0,1,1,1,1,1,100.0,25,Low,0,Approved,2025-05-24,2027-05-24,High-Risk Geography
+CUST10042,Individual,United Arab Emirates,Healthcare,0,0,0,0,1,1,1,1,80.0,40,Moderate,0,Approved,2024-10-05,2025-10-05,High-Risk Geography
+CUST10043,Business,India,FinTech,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2026-03-28,2028-03-27,Standard Risk
+CUST10044,Individual,United Arab Emirates,Finance,0,0,0,1,1,1,1,1,100.0,29,Low,0,Approved,2025-02-13,2027-02-13,High-Risk Geography
+CUST10045,Individual,Canada,Education,0,0,0,0,1,1,1,0,60.0,27,Low,0,Pending Documents,2026-02-11,2028-02-11,Source of Wealth
+CUST10046,Individual,United States,Hospitality,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2026-03-10,2028-03-09,Standard Risk
+CUST10047,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2025-12-31,2027-12-31,Standard Risk
+CUST10048,Individual,Turkey,Construction,0,0,0,1,1,1,1,1,100.0,25,Low,0,Approved,2025-12-06,2027-12-06,High-Risk Geography
+CUST10049,Individual,Canada,Healthcare,1,0,1,1,1,1,0,1,80.0,62,High,1,Approved,2025-06-12,2025-12-09,PEP
+CUST10050,Business,China,Manufacturing,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2026-06-19,2028-06-18,Standard Risk
+CUST10051,Business,United Kingdom,Manufacturing,0,0,1,1,0,1,1,1,80.0,36,Moderate,1,Approved,2026-05-28,2027-05-28,Adverse Media
+CUST10052,Business,United States,Retail,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2026-03-12,2028-03-11,Standard Risk
+CUST10053,Business,United States,FinTech,0,0,0,1,1,1,1,1,100.0,15,Low,0,Periodic Review,2025-07-22,2027-07-22,Standard Risk
+CUST10054,Individual,Mexico,Healthcare,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2026-03-30,2028-03-29,Standard Risk
+CUST10055,Business,United States,Retail,0,0,0,1,0,1,1,1,80.0,17,Low,0,Periodic Review,2026-03-02,2028-03-01,KYC Documentation
+CUST10056,Individual,United States,Education,0,0,0,0,1,1,1,1,80.0,21,Low,0,Periodic Review,2025-10-13,2027-10-13,Source of Wealth
+CUST10057,Individual,United Kingdom,Finance,0,0,0,0,1,1,1,1,80.0,19,Low,0,Approved,2025-11-16,2027-11-16,Source of Wealth
+CUST10058,Individual,United States,Hospitality,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2025-12-17,2027-12-17,Standard Risk
+CUST10059,Individual,Canada,Construction,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2025-01-22,2027-01-22,Standard Risk
+CUST10060,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2026-03-11,2028-03-10,Standard Risk
+CUST10061,Individual,China,Healthcare,0,0,0,1,1,1,1,1,100.0,8,Low,0,Periodic Review,2025-10-06,2027-10-06,Standard Risk
+CUST10062,Business,United States,Real Estate,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2026-01-13,2028-01-13,Standard Risk
+CUST10063,Individual,United States,Technology,0,0,0,0,1,0,1,1,60.0,35,Moderate,0,Remediation,2026-03-24,2027-03-24,Source of Wealth
+CUST10064,Individual,United States,Technology,0,0,0,1,1,1,0,1,80.0,18,Low,0,Periodic Review,2026-02-27,2028-02-27,KYC Documentation
+CUST10065,Individual,United States,Education,0,0,0,0,1,1,1,1,80.0,24,Low,0,Periodic Review,2026-04-11,2028-04-10,Source of Wealth
+CUST10066,Individual,United States,Education,0,0,0,1,1,0,0,1,60.0,29,Low,0,Remediation,2025-11-23,2027-11-23,KYC Documentation
+CUST10067,Business,United States,Retail,0,0,0,1,1,1,1,1,100.0,8,Low,0,Periodic Review,2024-11-30,2026-11-30,Standard Risk
+CUST10068,Individual,Canada,Hospitality,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2024-10-23,2026-10-23,Standard Risk
+CUST10069,Business,United States,Hospitality,0,0,0,1,0,1,1,1,80.0,23,Low,0,Approved,2026-08-05,2028-08-04,KYC Documentation
+CUST10070,Business,Nigeria,Import/Export,0,0,1,1,1,1,0,1,80.0,51,Moderate,1,Approved,2025-12-29,2026-12-29,Adverse Media
+CUST10071,Individual,India,Technology,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2025-05-02,2027-05-02,Standard Risk
+CUST10072,Individual,United Arab Emirates,Education,0,0,0,1,1,1,1,1,100.0,31,Moderate,0,Approved,2024-11-23,2025-11-23,High-Risk Geography
+CUST10073,Business,United States,FinTech,0,0,0,0,0,1,1,1,60.0,33,Moderate,0,Remediation,2026-02-11,2027-02-11,Source of Wealth
+CUST10074,Individual,United Kingdom,Consulting,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2026-08-11,2028-08-10,Standard Risk
+CUST10075,Business,United States,Hospitality,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2025-01-18,2027-01-18,Standard Risk
+CUST10076,Business,United States,Import/Export,0,0,0,1,0,1,1,1,80.0,22,Low,0,Approved,2024-10-31,2026-10-31,KYC Documentation
+CUST10077,Individual,Iran,Education,0,0,0,0,1,0,1,1,60.0,50,Moderate,0,Pending Documents,2026-05-30,2027-05-30,High-Risk Geography
+CUST10078,Individual,United States,Education,0,0,0,1,1,1,1,0,80.0,18,Low,0,Approved,2026-08-24,2028-08-23,KYC Documentation
+CUST10079,Individual,United Kingdom,Technology,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2025-05-17,2027-05-17,Standard Risk
+CUST10080,Business,Canada,FinTech,0,0,0,1,0,1,1,1,80.0,24,Low,0,Periodic Review,2025-09-27,2027-09-27,KYC Documentation
+CUST10081,Individual,Nigeria,Education,0,0,1,0,1,0,0,1,40.0,71,High,1,Pending Documents,2025-12-16,2026-06-14,Adverse Media
+CUST10082,Individual,United Kingdom,Healthcare,0,0,0,0,1,1,1,0,60.0,31,Moderate,0,Remediation,2026-07-08,2027-07-08,Source of Wealth
+CUST10083,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2025-03-02,2027-03-02,Standard Risk
+CUST10084,Individual,United States,Construction,0,0,0,1,1,1,1,0,80.0,15,Low,0,Periodic Review,2026-08-26,2028-08-25,KYC Documentation
+CUST10085,Individual,United Kingdom,Education,0,0,0,1,1,1,1,1,100.0,10,Low,0,Periodic Review,2025-08-20,2027-08-20,Standard Risk
+CUST10086,Business,United States,Consulting,0,0,0,1,0,1,0,1,60.0,30,Moderate,0,Remediation,2025-02-24,2026-02-24,KYC Documentation
+CUST10087,Individual,United States,Hospitality,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2026-07-13,2028-07-12,Standard Risk
+CUST10088,Business,United States,Logistics,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2026-05-12,2028-05-11,Standard Risk
+CUST10089,Individual,United States,Finance,0,0,0,1,1,1,0,1,80.0,17,Low,0,Approved,2026-04-08,2028-04-07,KYC Documentation
+CUST10090,Individual,United States,Healthcare,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2026-01-14,2028-01-14,Standard Risk
+CUST10091,Individual,United States,Healthcare,0,0,0,0,1,1,0,1,60.0,26,Low,0,Remediation,2024-09-08,2026-09-08,Source of Wealth
+CUST10092,Business,Canada,FinTech,0,0,0,0,1,1,1,1,80.0,20,Low,0,Approved,2025-04-22,2027-04-22,Source of Wealth
+CUST10093,Individual,Mexico,Education,0,0,0,1,1,1,1,1,100.0,10,Low,0,Periodic Review,2025-10-30,2027-10-30,Standard Risk
+CUST10094,Business,China,Real Estate,0,0,0,1,0,1,1,1,80.0,26,Low,0,Approved,2025-03-08,2027-03-08,KYC Documentation
+CUST10095,Individual,United States,Healthcare,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2025-05-28,2027-05-28,Standard Risk
+CUST10096,Individual,United States,Technology,1,0,0,0,1,1,0,1,60.0,53,Moderate,1,Pending Documents,2024-12-12,2025-12-12,PEP
+CUST10097,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2026-01-18,2028-01-18,Standard Risk
+CUST10098,Individual,Mexico,Construction,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2026-07-04,2028-07-03,Standard Risk
+CUST10099,Individual,Nigeria,Hospitality,0,0,0,1,1,1,1,1,100.0,33,Moderate,0,Approved,2026-06-17,2027-06-17,High-Risk Geography
+CUST10100,Individual,United States,Retail,0,0,0,0,1,1,1,1,80.0,20,Low,0,Approved,2025-06-30,2027-06-30,Source of Wealth
+CUST10101,Individual,Turkey,Education,0,0,0,1,1,1,1,1,100.0,30,Moderate,0,Periodic Review,2024-09-03,2025-09-03,High-Risk Geography
+CUST10102,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2026-04-22,2028-04-21,Standard Risk
+CUST10103,Individual,United Kingdom,Finance,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2025-04-21,2027-04-21,Standard Risk
+CUST10104,Business,Nigeria,Hospitality,0,0,0,0,0,1,1,1,60.0,46,Moderate,0,Pending Documents,2025-01-16,2026-01-16,High-Risk Geography
+CUST10105,Individual,India,Retail,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2025-10-31,2027-10-31,Standard Risk
+CUST10106,Individual,Nigeria,Finance,0,0,0,1,1,0,1,1,80.0,38,Moderate,0,Approved,2026-06-26,2027-06-26,High-Risk Geography
+CUST10107,Business,China,Hospitality,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2026-01-14,2028-01-14,Standard Risk
+CUST10108,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2025-10-03,2027-10-03,Standard Risk
+CUST10109,Individual,China,Hospitality,1,0,1,0,1,1,1,1,80.0,61,High,1,Periodic Review,2025-11-28,2026-05-27,PEP
+CUST10110,Individual,United States,Consulting,0,0,1,1,1,1,0,0,60.0,41,Moderate,1,Remediation,2025-01-25,2026-01-25,Adverse Media
+CUST10111,Individual,Brazil,Education,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2024-09-10,2026-09-10,Standard Risk
+CUST10112,Business,United Kingdom,Real Estate,0,0,1,1,1,1,1,1,100.0,33,Moderate,1,Approved,2026-04-10,2027-04-10,Adverse Media
+CUST10113,Business,China,Manufacturing,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2025-12-24,2027-12-24,Standard Risk
+CUST10114,Individual,United States,Hospitality,1,0,0,0,1,1,1,1,80.0,42,Moderate,1,Approved,2024-10-10,2025-10-10,PEP
+CUST10115,Business,Mexico,Real Estate,0,0,0,1,1,1,0,0,60.0,19,Low,0,Pending Documents,2026-06-13,2028-06-12,KYC Documentation
+CUST10116,Business,United Kingdom,Logistics,0,0,0,0,1,1,1,1,80.0,23,Low,0,Approved,2026-07-06,2028-07-05,Source of Wealth
+CUST10117,Individual,Nigeria,Retail,0,0,1,1,1,1,1,1,100.0,43,Moderate,1,Approved,2025-08-31,2026-08-31,Adverse Media
+CUST10118,Business,United States,Consulting,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2025-10-28,2027-10-28,Standard Risk
+CUST10119,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2026-03-11,2028-03-10,Standard Risk
+CUST10120,Business,United States,Real Estate,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2025-05-27,2027-05-27,Standard Risk
+CUST10121,Business,United States,FinTech,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2024-10-23,2026-10-23,Standard Risk
+CUST10122,Individual,India,Retail,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2025-01-13,2027-01-13,Standard Risk
+CUST10123,Individual,United States,Healthcare,0,0,1,1,1,1,0,1,80.0,41,Moderate,1,Periodic Review,2025-04-26,2026-04-26,Adverse Media
+CUST10124,Individual,Russia,Consulting,0,0,0,0,1,1,1,1,80.0,43,Moderate,0,Approved,2025-02-18,2026-02-18,High-Risk Geography
+CUST10125,Individual,United States,Construction,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2024-12-01,2026-12-01,Standard Risk
+CUST10126,Business,United States,Retail,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2024-10-20,2026-10-20,Standard Risk
+CUST10127,Business,China,Real Estate,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2025-08-23,2027-08-23,Standard Risk
+CUST10128,Individual,Mexico,Healthcare,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2025-09-17,2027-09-17,Standard Risk
+CUST10129,Individual,United Kingdom,Finance,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2026-06-26,2028-06-25,Standard Risk
+CUST10130,Individual,United Kingdom,Education,0,0,0,1,1,1,1,1,100.0,15,Low,0,Periodic Review,2025-10-06,2027-10-06,Standard Risk
+CUST10131,Individual,Nigeria,Hospitality,1,0,0,1,1,1,1,1,100.0,55,Moderate,1,Approved,2026-02-19,2027-02-19,PEP
+CUST10132,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,12,Low,0,Periodic Review,2026-03-30,2028-03-29,Standard Risk
+CUST10133,Individual,Iran,Consulting,0,0,0,1,1,1,1,0,80.0,38,Moderate,0,Approved,2026-03-25,2027-03-25,High-Risk Geography
+CUST10134,Business,Russia,Real Estate,0,0,0,1,1,1,1,0,80.0,37,Moderate,0,Approved,2024-10-05,2025-10-05,High-Risk Geography
+CUST10135,Individual,Mexico,Education,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2025-12-09,2027-12-09,Standard Risk
+CUST10136,Individual,United States,Technology,0,0,0,0,1,1,1,1,80.0,25,Low,0,Approved,2026-03-17,2028-03-16,Source of Wealth
+CUST10137,Individual,Mexico,Education,0,0,1,1,1,0,1,1,80.0,41,Moderate,1,Approved,2026-04-09,2027-04-09,Adverse Media
+CUST10138,Individual,United States,Retail,0,0,0,1,1,1,0,0,60.0,24,Low,0,Remediation,2026-02-27,2028-02-27,KYC Documentation
+CUST10139,Business,United States,FinTech,0,0,0,1,1,1,0,1,80.0,14,Low,0,Approved,2025-07-05,2027-07-05,KYC Documentation
+CUST10140,Business,United States,FinTech,0,0,0,1,1,0,1,1,80.0,23,Low,0,Approved,2025-06-01,2027-06-01,KYC Documentation
+CUST10141,Individual,United States,Hospitality,0,0,0,1,1,0,1,1,80.0,21,Low,0,Approved,2025-09-21,2027-09-21,KYC Documentation
+CUST10142,Individual,India,Consulting,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2025-02-24,2027-02-24,Standard Risk
+CUST10143,Individual,Nigeria,Finance,0,0,0,1,1,1,1,1,100.0,25,Low,0,Approved,2025-04-03,2027-04-03,High-Risk Geography
+CUST10144,Individual,United Arab Emirates,Education,0,0,0,1,1,1,1,1,100.0,27,Low,0,Approved,2024-09-26,2026-09-26,High-Risk Geography
+CUST10145,Individual,United States,Healthcare,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2026-05-20,2028-05-19,Standard Risk
+CUST10146,Individual,United States,Finance,0,0,0,1,1,1,0,0,60.0,23,Low,0,Remediation,2025-12-28,2027-12-28,KYC Documentation
+CUST10147,Individual,United States,Construction,0,0,0,1,1,1,1,0,80.0,17,Low,0,Approved,2026-08-09,2028-08-08,KYC Documentation
+CUST10148,Individual,Iran,Education,0,0,0,1,1,0,1,1,80.0,37,Moderate,0,Periodic Review,2025-03-25,2026-03-25,High-Risk Geography
+CUST10149,Individual,United States,Hospitality,0,0,1,1,1,1,1,1,100.0,26,Low,1,Approved,2026-04-10,2028-04-09,Adverse Media
+CUST10150,Business,India,Logistics,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2024-10-06,2026-10-06,Standard Risk
+CUST10151,Individual,Canada,Construction,0,0,0,0,1,1,1,1,80.0,25,Low,0,Periodic Review,2026-02-20,2028-02-20,Source of Wealth
+CUST10152,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2025-05-24,2027-05-24,Standard Risk
+CUST10153,Individual,Nigeria,Construction,0,0,0,1,1,1,0,1,80.0,31,Moderate,0,Approved,2025-08-22,2026-08-22,High-Risk Geography
+CUST10154,Business,United Kingdom,Import/Export,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2024-10-24,2026-10-24,Standard Risk
+CUST10155,Individual,India,Hospitality,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2024-10-09,2026-10-09,Standard Risk
+CUST10156,Individual,Brazil,Retail,0,0,0,1,1,1,1,0,80.0,21,Low,0,Approved,2024-12-11,2026-12-11,KYC Documentation
+CUST10157,Business,United States,Logistics,0,0,0,1,1,1,1,0,80.0,14,Low,0,Approved,2025-12-09,2027-12-09,KYC Documentation
+CUST10158,Individual,United States,Technology,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2025-08-19,2027-08-19,Standard Risk
+CUST10159,Business,Canada,Real Estate,0,0,0,1,1,1,1,1,100.0,17,Low,0,Periodic Review,2025-02-28,2027-02-28,Standard Risk
+CUST10160,Individual,Brazil,Retail,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2025-02-22,2027-02-22,Standard Risk
+CUST10161,Individual,United States,Technology,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2026-06-19,2028-06-18,Standard Risk
+CUST10162,Individual,Canada,Construction,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2025-06-20,2027-06-20,Standard Risk
+CUST10163,Individual,Mexico,Healthcare,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2026-01-18,2028-01-18,Standard Risk
+CUST10164,Individual,Nigeria,Retail,0,0,0,1,1,1,1,1,100.0,27,Low,0,Periodic Review,2025-10-28,2027-10-28,High-Risk Geography
+CUST10165,Business,United States,Hospitality,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2025-09-18,2027-09-18,Standard Risk
+CUST10166,Individual,Nigeria,Technology,0,0,0,1,1,1,1,1,100.0,26,Low,0,Periodic Review,2025-05-13,2027-05-13,High-Risk Geography
+CUST10167,Individual,Brazil,Finance,0,0,1,1,1,1,1,1,100.0,31,Moderate,1,Periodic Review,2025-10-21,2026-10-21,Adverse Media
+CUST10168,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2025-03-25,2027-03-25,Standard Risk
+CUST10169,Individual,United States,Healthcare,0,0,0,1,1,1,1,1,100.0,16,Low,0,Periodic Review,2025-07-03,2027-07-03,Standard Risk
+CUST10170,Individual,Russia,Consulting,0,0,0,1,1,1,1,1,100.0,26,Low,0,Approved,2025-03-26,2027-03-26,High-Risk Geography
+CUST10171,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2025-02-16,2027-02-16,Standard Risk
+CUST10172,Individual,India,Retail,0,0,0,0,1,1,1,0,60.0,30,Moderate,0,Remediation,2025-12-26,2026-12-26,Source of Wealth
+CUST10173,Individual,United Kingdom,Retail,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2024-12-09,2026-12-09,Standard Risk
+CUST10174,Individual,United States,Consulting,0,0,0,0,1,1,1,1,80.0,25,Low,0,Approved,2025-02-09,2027-02-09,Source of Wealth
+CUST10175,Individual,India,Construction,0,0,0,0,1,1,1,1,80.0,24,Low,0,Approved,2026-03-03,2028-03-02,Source of Wealth
+CUST10176,Individual,United States,Hospitality,0,0,0,1,1,1,1,0,80.0,15,Low,0,Periodic Review,2026-05-18,2028-05-17,KYC Documentation
+CUST10177,Individual,United Kingdom,Hospitality,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2026-02-22,2028-02-22,Standard Risk
+CUST10178,Business,United States,FinTech,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2026-04-17,2028-04-16,Standard Risk
+CUST10179,Individual,Canada,Retail,0,0,0,0,1,1,1,0,60.0,23,Low,0,Remediation,2024-10-01,2026-10-01,Source of Wealth
+CUST10180,Individual,United States,Construction,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2026-05-04,2028-05-03,Standard Risk
+CUST10181,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2026-06-21,2028-06-20,Standard Risk
+CUST10182,Business,Russia,FinTech,0,0,0,1,1,1,1,1,100.0,31,Moderate,0,Periodic Review,2026-04-23,2027-04-23,High-Risk Geography
+CUST10183,Business,United States,Import/Export,0,0,1,1,1,1,1,1,100.0,34,Moderate,1,Approved,2025-06-01,2026-06-01,Adverse Media
+CUST10184,Individual,Mexico,Consulting,0,0,0,1,1,1,1,0,80.0,22,Low,0,Periodic Review,2025-05-10,2027-05-10,KYC Documentation
+CUST10185,Individual,United States,Hospitality,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2026-07-11,2028-07-10,Standard Risk
+CUST10186,Business,United Arab Emirates,Logistics,0,0,0,0,1,1,0,1,60.0,44,Moderate,0,Pending Documents,2025-02-04,2026-02-04,High-Risk Geography
+CUST10187,Individual,United States,Finance,0,0,0,1,1,1,0,1,80.0,15,Low,0,Approved,2026-05-05,2028-05-04,KYC Documentation
+CUST10188,Individual,Russia,Finance,0,0,0,1,1,1,1,1,100.0,32,Moderate,0,Approved,2025-12-11,2026-12-11,High-Risk Geography
+CUST10189,Individual,United States,Consulting,1,0,0,1,1,0,1,1,80.0,45,Moderate,1,Approved,2026-01-05,2027-01-05,PEP
+CUST10190,Individual,United States,Technology,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2025-09-15,2027-09-15,Standard Risk
+CUST10191,Business,United States,Consulting,0,0,0,0,0,1,1,1,60.0,35,Moderate,0,Pending Documents,2025-12-20,2026-12-20,Source of Wealth
+CUST10192,Business,United States,Hospitality,0,0,0,1,1,0,1,1,80.0,26,Low,0,Approved,2024-10-16,2026-10-16,KYC Documentation
+CUST10193,Individual,United Kingdom,Technology,0,0,1,1,1,1,1,1,100.0,33,Moderate,1,Approved,2025-10-27,2026-10-27,Adverse Media
+CUST10194,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2025-01-02,2027-01-02,Standard Risk
+CUST10195,Individual,China,Education,0,0,0,0,1,1,1,1,80.0,25,Low,0,Approved,2025-04-24,2027-04-24,Source of Wealth
+CUST10196,Business,United States,Import/Export,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2026-07-06,2028-07-05,Standard Risk
+CUST10197,Business,United States,Real Estate,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2025-07-25,2027-07-25,Standard Risk
+CUST10198,Business,Canada,Consulting,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2026-06-26,2028-06-25,Standard Risk
+CUST10199,Business,Nigeria,Import/Export,0,0,0,1,1,1,1,1,100.0,24,Low,0,Approved,2026-07-17,2028-07-16,High-Risk Geography
+CUST10200,Individual,United States,Finance,0,0,0,0,1,1,1,1,80.0,21,Low,0,Approved,2025-01-03,2027-01-03,Source of Wealth
+CUST10201,Individual,United States,Hospitality,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2024-11-20,2026-11-20,Standard Risk
+CUST10202,Individual,United States,Hospitality,0,0,1,1,1,1,1,1,100.0,27,Low,1,Approved,2025-08-28,2027-08-28,Adverse Media
+CUST10203,Business,Nigeria,Logistics,1,0,0,1,0,1,1,1,80.0,59,Moderate,1,Periodic Review,2025-01-04,2026-01-04,PEP
+CUST10204,Individual,Mexico,Retail,0,0,0,1,1,1,0,0,60.0,22,Low,0,Remediation,2026-01-12,2028-01-12,KYC Documentation
+CUST10205,Individual,United States,Hospitality,1,0,1,1,1,1,1,0,80.0,53,Moderate,1,Approved,2025-07-26,2026-07-26,PEP
+CUST10206,Individual,India,Education,0,0,0,1,1,1,1,1,100.0,16,Low,0,Periodic Review,2025-02-17,2027-02-17,Standard Risk
+CUST10207,Individual,China,Finance,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2026-08-09,2028-08-08,Standard Risk
+CUST10208,Individual,Canada,Consulting,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2025-02-04,2027-02-04,Standard Risk
+CUST10209,Individual,India,Hospitality,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2025-12-08,2027-12-08,Standard Risk
+CUST10210,Individual,United States,Technology,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2026-05-06,2028-05-05,Standard Risk
+CUST10211,Individual,United States,Consulting,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2025-01-09,2027-01-09,Standard Risk
+CUST10212,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,9,Low,0,Periodic Review,2025-01-08,2027-01-08,Standard Risk
+CUST10213,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,17,Low,0,Periodic Review,2026-07-08,2028-07-07,Standard Risk
+CUST10214,Individual,United Kingdom,Technology,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2026-04-01,2028-03-31,Standard Risk
+CUST10215,Individual,Turkey,Technology,0,0,0,1,1,1,1,1,100.0,25,Low,0,Approved,2026-01-05,2028-01-05,High-Risk Geography
+CUST10216,Individual,United States,Technology,0,0,0,1,1,1,1,1,100.0,9,Low,0,Periodic Review,2025-12-10,2027-12-10,Standard Risk
+CUST10217,Business,United States,Retail,0,0,0,1,0,1,1,1,80.0,20,Low,0,Approved,2025-12-07,2027-12-07,KYC Documentation
+CUST10218,Individual,United States,Consulting,0,0,0,0,1,1,1,0,60.0,26,Low,0,Remediation,2026-05-11,2028-05-10,Source of Wealth
+CUST10219,Business,Turkey,Real Estate,0,0,0,1,0,1,1,1,80.0,40,Moderate,0,Approved,2026-03-19,2027-03-19,High-Risk Geography
+CUST10220,Individual,United States,Finance,0,0,0,1,1,1,1,0,80.0,18,Low,0,Approved,2024-11-02,2026-11-02,KYC Documentation
+CUST10221,Individual,United Kingdom,Hospitality,0,0,0,1,1,1,0,0,60.0,28,Low,0,Remediation,2026-08-24,2028-08-23,KYC Documentation
+CUST10222,Individual,United States,Construction,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2024-09-17,2026-09-17,Standard Risk
+CUST10223,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2026-01-27,2028-01-27,Standard Risk
+CUST10224,Individual,Iran,Finance,0,0,0,1,1,1,1,1,100.0,33,Moderate,0,Approved,2025-06-27,2026-06-27,High-Risk Geography
+CUST10225,Individual,Russia,Education,0,0,0,1,1,1,1,1,100.0,27,Low,0,Approved,2025-11-13,2027-11-13,High-Risk Geography
+CUST10226,Business,United States,Hospitality,0,0,0,0,1,1,1,1,80.0,19,Low,0,Approved,2026-07-13,2028-07-12,Source of Wealth
+CUST10227,Individual,Russia,Hospitality,0,0,1,1,1,1,1,0,80.0,55,Moderate,1,Approved,2026-05-17,2027-05-17,Adverse Media
+CUST10228,Business,Mexico,FinTech,0,0,0,1,1,1,1,1,100.0,9,Low,0,Periodic Review,2026-08-23,2028-08-22,Standard Risk
+CUST10229,Individual,India,Education,0,0,0,1,1,1,0,1,80.0,14,Low,0,Periodic Review,2024-10-01,2026-10-01,KYC Documentation
+CUST10230,Business,United States,Manufacturing,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2025-06-02,2027-06-02,Standard Risk
+CUST10231,Individual,United Kingdom,Hospitality,0,0,1,1,1,1,0,1,80.0,41,Moderate,1,Approved,2025-10-13,2026-10-13,Adverse Media
+CUST10232,Individual,United Kingdom,Consulting,0,0,0,1,1,1,1,0,80.0,21,Low,0,Approved,2025-10-27,2027-10-27,KYC Documentation
+CUST10233,Individual,Mexico,Healthcare,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2024-12-18,2026-12-18,Standard Risk
+CUST10234,Individual,United States,Consulting,0,0,0,0,1,1,1,1,80.0,24,Low,0,Approved,2026-04-09,2028-04-08,Source of Wealth
+CUST10235,Business,United States,Hospitality,0,0,0,1,1,0,1,1,80.0,19,Low,0,Approved,2025-07-16,2027-07-16,KYC Documentation
+CUST10236,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2026-05-10,2028-05-09,Standard Risk
+CUST10237,Individual,Nigeria,Construction,0,0,0,1,1,1,1,1,100.0,28,Low,0,Approved,2025-02-03,2027-02-03,High-Risk Geography
+CUST10238,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2025-07-29,2027-07-29,Standard Risk
+CUST10239,Individual,Mexico,Finance,0,0,0,0,1,1,1,1,80.0,19,Low,0,Approved,2025-11-30,2027-11-30,Source of Wealth
+CUST10240,Business,Russia,Logistics,0,0,1,1,1,1,1,0,80.0,48,Moderate,1,Periodic Review,2026-04-30,2027-04-30,Adverse Media
+CUST10241,Business,United States,Real Estate,0,0,0,0,1,1,1,0,60.0,32,Moderate,0,Remediation,2026-06-07,2027-06-07,Source of Wealth
+CUST10242,Business,Mexico,Hospitality,0,0,0,0,1,1,1,1,80.0,27,Low,0,Approved,2025-01-27,2027-01-27,Source of Wealth
+CUST10243,Individual,United States,Consulting,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2026-07-16,2028-07-15,Standard Risk
+CUST10244,Individual,India,Construction,0,0,0,1,1,1,1,0,80.0,13,Low,0,Periodic Review,2024-09-20,2026-09-20,KYC Documentation
+CUST10245,Business,United States,Real Estate,0,0,0,1,1,1,1,0,80.0,16,Low,0,Approved,2026-02-12,2028-02-12,KYC Documentation
+CUST10246,Individual,Nigeria,Consulting,1,0,0,1,1,1,0,0,60.0,66,High,1,Remediation,2025-11-29,2026-05-28,PEP
+CUST10247,Business,India,Import/Export,0,0,0,1,0,1,1,0,60.0,26,Low,0,Remediation,2025-03-01,2027-03-01,KYC Documentation
+CUST10248,Business,Turkey,Real Estate,0,0,0,1,1,1,1,1,100.0,25,Low,0,Approved,2024-09-16,2026-09-16,High-Risk Geography
+CUST10249,Business,Mexico,Consulting,0,0,0,0,1,1,1,1,80.0,19,Low,0,Approved,2026-04-24,2028-04-23,Source of Wealth
+CUST10250,Individual,United Kingdom,Consulting,0,0,0,1,1,1,0,1,80.0,20,Low,0,Approved,2025-06-10,2027-06-10,KYC Documentation
+CUST10251,Individual,Canada,Finance,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2025-08-08,2027-08-08,Standard Risk
+CUST10252,Business,India,Real Estate,0,0,0,1,1,0,1,1,80.0,23,Low,0,Approved,2025-02-02,2027-02-02,KYC Documentation
+CUST10253,Individual,Canada,Construction,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2025-12-12,2027-12-12,Standard Risk
+CUST10254,Individual,United States,Technology,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2024-12-08,2026-12-08,Standard Risk
+CUST10255,Individual,Turkey,Construction,0,0,0,1,1,1,1,1,100.0,32,Moderate,0,Approved,2025-11-27,2026-11-27,High-Risk Geography
+CUST10256,Business,Mexico,Hospitality,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2024-09-17,2026-09-17,Standard Risk
+CUST10257,Individual,Mexico,Finance,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2026-07-17,2028-07-16,Standard Risk
+CUST10258,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2026-03-17,2028-03-16,Standard Risk
+CUST10259,Individual,Mexico,Healthcare,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2025-06-13,2027-06-13,Standard Risk
+CUST10260,Individual,United States,Consulting,0,0,0,1,1,1,1,1,100.0,14,Low,0,Periodic Review,2024-12-18,2026-12-18,Standard Risk
+CUST10261,Business,Mexico,Manufacturing,0,0,0,1,1,1,0,1,80.0,22,Low,0,Approved,2026-07-17,2028-07-16,KYC Documentation
+CUST10262,Individual,United States,Technology,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2024-09-07,2026-09-07,Standard Risk
+CUST10263,Individual,Mexico,Consulting,0,0,1,1,1,1,1,0,80.0,34,Moderate,1,Approved,2025-03-10,2026-03-10,Adverse Media
+CUST10264,Business,Iran,Real Estate,0,0,0,1,1,1,0,1,80.0,33,Moderate,0,Approved,2026-06-06,2027-06-06,High-Risk Geography
+CUST10265,Business,United States,Manufacturing,0,0,0,1,1,0,0,1,60.0,30,Moderate,0,Remediation,2025-08-12,2026-08-12,KYC Documentation
+CUST10266,Individual,Russia,Hospitality,0,0,1,1,1,1,0,0,60.0,53,Moderate,1,Remediation,2024-11-01,2025-11-01,Adverse Media
+CUST10267,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2025-12-10,2027-12-10,Standard Risk
+CUST10268,Individual,India,Technology,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2026-08-10,2028-08-09,Standard Risk
+CUST10269,Individual,China,Retail,0,0,0,1,1,1,1,0,80.0,14,Low,0,Approved,2024-09-28,2026-09-28,KYC Documentation
+CUST10270,Business,Canada,Import/Export,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2025-06-08,2027-06-08,Standard Risk
+CUST10271,Business,Nigeria,Consulting,0,0,1,0,0,1,1,0,40.0,72,High,1,Remediation,2026-01-12,2026-07-11,Adverse Media
+CUST10272,Business,India,FinTech,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2026-02-27,2028-02-27,Standard Risk
+CUST10273,Business,United States,Manufacturing,0,0,0,1,1,1,0,1,80.0,16,Low,0,Approved,2025-10-10,2027-10-10,KYC Documentation
+CUST10274,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2026-03-02,2028-03-01,Standard Risk
+CUST10275,Individual,Mexico,Education,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2025-07-31,2027-07-31,Standard Risk
+CUST10276,Business,China,Consulting,0,0,0,1,0,0,1,1,60.0,36,Moderate,0,Remediation,2025-05-08,2026-05-08,KYC Documentation
+CUST10277,Individual,United Arab Emirates,Consulting,0,0,0,0,1,1,1,1,80.0,37,Moderate,0,Approved,2025-07-25,2026-07-25,High-Risk Geography
+CUST10278,Individual,China,Education,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2025-05-26,2027-05-26,Standard Risk
+CUST10279,Business,United States,Consulting,0,0,0,1,0,1,1,1,80.0,17,Low,0,Approved,2025-07-11,2027-07-11,KYC Documentation
+CUST10280,Business,China,Import/Export,0,0,0,1,0,1,1,1,80.0,17,Low,0,Approved,2026-02-11,2028-02-11,KYC Documentation
+CUST10281,Individual,United States,Technology,0,0,0,0,1,1,1,1,80.0,22,Low,0,Approved,2026-06-28,2028-06-27,Source of Wealth
+CUST10282,Individual,United Kingdom,Hospitality,1,0,0,1,1,1,1,1,100.0,35,Moderate,1,Approved,2025-02-23,2026-02-23,PEP
+CUST10283,Individual,United States,Technology,0,0,0,1,1,1,1,1,100.0,12,Low,0,Periodic Review,2026-08-15,2028-08-14,Standard Risk
+CUST10284,Individual,United States,Retail,0,0,0,1,1,0,1,1,80.0,19,Low,0,Approved,2026-03-02,2028-03-01,KYC Documentation
+CUST10285,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,16,Low,0,Periodic Review,2025-08-06,2027-08-06,Standard Risk
+CUST10286,Individual,United States,Healthcare,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2026-07-19,2028-07-18,Standard Risk
+CUST10287,Individual,Nigeria,Hospitality,0,0,0,1,1,1,1,1,100.0,28,Low,0,Approved,2024-10-01,2026-10-01,High-Risk Geography
+CUST10288,Individual,United States,Consulting,0,0,1,1,1,1,1,0,80.0,40,Moderate,1,Periodic Review,2025-05-07,2026-05-07,Adverse Media
+CUST10289,Individual,United States,Hospitality,0,0,0,1,1,1,1,0,80.0,21,Low,0,Periodic Review,2025-12-12,2027-12-12,KYC Documentation
+CUST10290,Individual,United States,Technology,0,0,0,0,1,1,1,1,80.0,20,Low,0,Periodic Review,2026-03-11,2028-03-10,Source of Wealth
+CUST10291,Individual,United States,Healthcare,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2025-06-17,2027-06-17,Standard Risk
+CUST10292,Business,United States,Consulting,0,0,1,1,1,1,0,1,80.0,36,Moderate,1,Approved,2025-02-12,2026-02-12,Adverse Media
+CUST10293,Individual,United States,Construction,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2026-01-24,2028-01-24,Standard Risk
+CUST10294,Individual,Canada,Consulting,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2025-02-20,2027-02-20,Standard Risk
+CUST10295,Individual,Mexico,Retail,0,0,0,0,1,1,1,1,80.0,19,Low,0,Approved,2025-08-03,2027-08-03,Source of Wealth
+CUST10296,Business,Canada,Hospitality,0,0,0,0,1,1,1,1,80.0,22,Low,0,Periodic Review,2026-02-18,2028-02-18,Source of Wealth
+CUST10297,Individual,United States,Hospitality,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2025-07-19,2027-07-19,Standard Risk
+CUST10298,Individual,United States,Construction,0,0,0,1,1,1,1,0,80.0,14,Low,0,Approved,2025-05-18,2027-05-18,KYC Documentation
+CUST10299,Individual,India,Finance,0,0,0,1,1,0,1,1,80.0,27,Low,0,Approved,2025-09-19,2027-09-19,KYC Documentation
+CUST10300,Individual,United Kingdom,Finance,0,0,0,1,1,0,1,1,80.0,26,Low,0,Approved,2025-05-27,2027-05-27,KYC Documentation
+CUST10301,Individual,United States,Consulting,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2026-07-02,2028-07-01,Standard Risk
+CUST10302,Individual,United States,Finance,0,0,0,0,1,1,1,1,80.0,23,Low,0,Periodic Review,2026-03-19,2028-03-18,Source of Wealth
+CUST10303,Individual,United States,Construction,0,0,0,0,1,1,1,1,80.0,25,Low,0,Approved,2024-10-29,2026-10-29,Source of Wealth
+CUST10304,Business,United States,Retail,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2026-04-03,2028-04-02,Standard Risk
+CUST10305,Business,United States,Consulting,0,0,0,1,1,1,1,1,100.0,15,Low,0,Periodic Review,2026-05-13,2028-05-12,Standard Risk
+CUST10306,Individual,Canada,Education,0,0,0,1,1,1,1,1,100.0,12,Low,0,Periodic Review,2025-05-01,2027-05-01,Standard Risk
+CUST10307,Individual,United Kingdom,Consulting,0,0,0,1,1,0,1,1,80.0,22,Low,0,Approved,2025-03-01,2027-03-01,KYC Documentation
+CUST10308,Business,Canada,Retail,0,0,0,1,0,1,1,1,80.0,22,Low,0,Periodic Review,2026-08-29,2028-08-28,KYC Documentation
+CUST10309,Individual,United Arab Emirates,Education,0,0,0,1,1,0,1,1,80.0,34,Moderate,0,Approved,2025-05-06,2026-05-06,High-Risk Geography
+CUST10310,Individual,China,Education,0,0,0,1,1,1,1,1,100.0,15,Low,0,Periodic Review,2026-08-19,2028-08-18,Standard Risk
+CUST10311,Individual,Nigeria,Finance,0,0,0,1,1,1,1,1,100.0,25,Low,0,Approved,2026-03-23,2028-03-22,High-Risk Geography
+CUST10312,Individual,Russia,Finance,0,0,0,0,1,1,0,1,60.0,45,Moderate,0,Pending Documents,2025-09-22,2026-09-22,High-Risk Geography
+CUST10313,Business,United States,Manufacturing,1,0,0,0,1,1,1,1,80.0,48,Moderate,1,Approved,2025-06-09,2026-06-09,PEP
+CUST10314,Business,United States,Retail,1,0,0,1,1,1,1,1,100.0,32,Moderate,1,Approved,2025-10-04,2026-10-04,PEP
+CUST10315,Individual,United States,Healthcare,0,0,1,1,1,1,1,1,100.0,27,Low,1,Approved,2025-12-11,2027-12-11,Adverse Media
+CUST10316,Individual,Mexico,Consulting,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2026-06-10,2028-06-09,Standard Risk
+CUST10317,Individual,Brazil,Technology,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2025-10-02,2027-10-02,Standard Risk
+CUST10318,Individual,United States,Hospitality,0,0,0,1,1,0,1,0,60.0,31,Moderate,0,Remediation,2025-08-17,2026-08-17,KYC Documentation
+CUST10319,Individual,Turkey,Healthcare,0,0,0,0,1,1,1,1,80.0,39,Moderate,0,Approved,2026-01-25,2027-01-25,High-Risk Geography
+CUST10320,Individual,United States,Healthcare,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2024-11-12,2026-11-12,Standard Risk
+CUST10321,Individual,Turkey,Retail,0,0,0,1,1,1,1,1,100.0,31,Moderate,0,Approved,2025-06-04,2026-06-04,High-Risk Geography
+CUST10322,Individual,United States,Consulting,0,0,0,1,1,1,1,1,100.0,14,Low,0,Periodic Review,2024-10-28,2026-10-28,Standard Risk
+CUST10323,Individual,United States,Construction,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2026-06-04,2028-06-03,Standard Risk
+CUST10324,Business,United Kingdom,Retail,1,0,0,1,1,1,0,1,80.0,37,Moderate,1,Approved,2025-10-03,2026-10-03,PEP
+CUST10325,Business,United States,Consulting,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2025-10-26,2027-10-26,Standard Risk
+CUST10326,Individual,United States,Healthcare,0,0,1,1,1,1,1,1,100.0,35,Moderate,1,Approved,2024-09-04,2025-09-04,Adverse Media
+CUST10327,Individual,United States,Healthcare,0,0,0,1,1,1,1,0,80.0,17,Low,0,Periodic Review,2025-07-08,2027-07-08,KYC Documentation
+CUST10328,Individual,China,Education,0,0,0,1,1,1,1,1,100.0,14,Low,0,Periodic Review,2024-12-31,2026-12-31,Standard Risk
+CUST10329,Individual,United Kingdom,Consulting,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2024-09-06,2026-09-06,Standard Risk
+CUST10330,Individual,United States,Hospitality,0,0,0,0,1,1,1,1,80.0,19,Low,0,Approved,2025-09-12,2027-09-12,Source of Wealth
+CUST10331,Business,Canada,Hospitality,0,0,0,0,1,1,1,1,80.0,24,Low,0,Approved,2026-05-24,2028-05-23,Source of Wealth
+CUST10332,Individual,Nigeria,Retail,0,0,0,1,1,1,1,1,100.0,29,Low,0,Approved,2026-04-09,2028-04-08,High-Risk Geography
+CUST10333,Individual,United States,Healthcare,0,0,0,1,1,0,1,1,80.0,24,Low,0,Approved,2026-08-22,2028-08-21,KYC Documentation
+CUST10334,Individual,United States,Hospitality,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2026-07-19,2028-07-18,Standard Risk
+CUST10335,Individual,United States,Finance,0,0,0,1,1,1,1,0,80.0,16,Low,0,Approved,2025-08-11,2027-08-11,KYC Documentation
+CUST10336,Business,United States,Manufacturing,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2025-04-24,2027-04-24,Standard Risk
+CUST10337,Individual,Mexico,Hospitality,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2025-04-26,2027-04-26,Standard Risk
+CUST10338,Individual,United States,Construction,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2026-03-16,2028-03-15,Standard Risk
+CUST10339,Individual,United Kingdom,Consulting,0,0,0,1,1,1,1,1,100.0,10,Low,0,Periodic Review,2024-11-28,2026-11-28,Standard Risk
+CUST10340,Individual,Nigeria,Construction,0,0,0,1,1,1,1,1,100.0,26,Low,0,Approved,2025-03-19,2027-03-19,High-Risk Geography
+CUST10341,Individual,United States,Hospitality,0,0,0,0,1,0,1,1,60.0,32,Moderate,0,Pending Documents,2025-09-30,2026-09-30,Source of Wealth
+CUST10342,Individual,Canada,Finance,0,0,0,1,1,0,1,1,80.0,20,Low,0,Approved,2025-04-06,2027-04-06,KYC Documentation
+CUST10343,Individual,United States,Construction,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2026-04-24,2028-04-23,Standard Risk
+CUST10344,Individual,Russia,Education,0,0,0,1,1,1,0,1,80.0,37,Moderate,0,Approved,2025-03-11,2026-03-11,High-Risk Geography
+CUST10345,Individual,United Kingdom,Hospitality,0,0,0,0,1,1,1,1,80.0,18,Low,0,Approved,2025-04-05,2027-04-05,Source of Wealth
+CUST10346,Individual,China,Education,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2025-12-25,2027-12-25,Standard Risk
+CUST10347,Individual,United Kingdom,Hospitality,0,0,1,1,1,1,1,1,100.0,27,Low,1,Approved,2026-04-16,2028-04-15,Adverse Media
+CUST10348,Individual,United States,Technology,0,0,0,1,1,1,1,0,80.0,16,Low,0,Periodic Review,2025-11-30,2027-11-30,KYC Documentation
+CUST10349,Individual,Mexico,Technology,0,0,0,1,1,1,1,1,100.0,16,Low,0,Periodic Review,2025-05-25,2027-05-25,Standard Risk
+CUST10350,Individual,Russia,Technology,0,0,0,1,1,1,0,1,80.0,31,Moderate,0,Approved,2026-04-13,2027-04-13,High-Risk Geography
+CUST10351,Business,Canada,Retail,0,0,0,1,0,1,1,1,80.0,25,Low,0,Periodic Review,2025-12-19,2027-12-19,KYC Documentation
+CUST10352,Individual,China,Education,1,0,0,1,1,1,1,1,100.0,36,Moderate,1,Approved,2025-06-02,2026-06-02,PEP
+CUST10353,Individual,Brazil,Education,0,0,0,1,1,1,1,1,100.0,17,Low,0,Periodic Review,2025-06-24,2027-06-24,Standard Risk
+CUST10354,Individual,United States,Education,0,0,1,1,1,1,1,1,100.0,33,Moderate,1,Approved,2025-01-02,2026-01-02,Adverse Media
+CUST10355,Individual,United States,Finance,0,0,1,1,1,1,1,1,100.0,26,Low,1,Approved,2026-03-12,2028-03-11,Adverse Media
+CUST10356,Individual,Canada,Education,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2025-05-16,2027-05-16,Standard Risk
+CUST10357,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,16,Low,0,Periodic Review,2025-07-05,2027-07-05,Standard Risk
+CUST10358,Business,India,Retail,0,0,1,1,1,1,1,1,100.0,29,Low,1,Approved,2025-06-19,2027-06-19,Adverse Media
+CUST10359,Individual,Brazil,Technology,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2026-07-06,2028-07-05,Standard Risk
+CUST10360,Individual,United States,Construction,0,0,0,1,1,1,1,1,100.0,13,Low,0,Periodic Review,2025-04-21,2027-04-21,Standard Risk
+CUST10361,Individual,United States,Hospitality,0,0,0,1,1,1,1,1,100.0,9,Low,0,Periodic Review,2024-12-26,2026-12-26,Standard Risk
+CUST10362,Individual,China,Technology,0,0,0,0,1,1,1,1,80.0,20,Low,0,Approved,2026-03-16,2028-03-15,Source of Wealth
+CUST10363,Individual,United States,Hospitality,0,0,0,1,1,1,1,0,80.0,20,Low,0,Approved,2025-01-27,2027-01-27,KYC Documentation
+CUST10364,Business,China,Retail,0,0,0,1,0,1,1,1,80.0,19,Low,0,Approved,2025-02-17,2027-02-17,KYC Documentation
+CUST10365,Individual,United States,Consulting,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2025-06-30,2027-06-30,Standard Risk
+CUST10366,Business,Mexico,Retail,0,0,0,1,1,1,0,1,80.0,19,Low,0,Approved,2025-07-09,2027-07-09,KYC Documentation
+CUST10367,Business,United States,Real Estate,0,0,0,0,0,1,1,1,60.0,29,Low,0,Remediation,2025-09-19,2027-09-19,Source of Wealth
+CUST10368,Individual,Canada,Healthcare,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2025-04-02,2027-04-02,Standard Risk
+CUST10369,Individual,United States,Retail,0,0,0,0,1,1,0,1,60.0,26,Low,0,Remediation,2025-06-03,2027-06-03,Source of Wealth
+CUST10370,Individual,Canada,Consulting,1,0,0,1,1,0,1,0,60.0,50,Moderate,1,Remediation,2024-09-17,2025-09-17,PEP
+CUST10371,Individual,United States,Construction,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2026-02-11,2028-02-11,Standard Risk
+CUST10372,Individual,Nigeria,Retail,0,0,1,0,1,1,1,1,80.0,60,High,1,Approved,2026-03-06,2026-09-02,Adverse Media
+CUST10373,Individual,India,Retail,0,0,1,1,1,0,1,1,80.0,42,Moderate,1,Approved,2026-07-06,2027-07-06,Adverse Media
+CUST10374,Individual,United States,Consulting,0,0,0,0,1,1,1,1,80.0,22,Low,0,Approved,2024-10-03,2026-10-03,Source of Wealth
+CUST10375,Individual,United States,Healthcare,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2025-01-05,2027-01-05,Standard Risk
+CUST10376,Business,United States,Retail,0,0,0,1,1,1,1,0,80.0,21,Low,0,Approved,2025-04-18,2027-04-18,KYC Documentation
+CUST10377,Individual,Mexico,Healthcare,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2026-05-12,2028-05-11,Standard Risk
+CUST10378,Business,Canada,FinTech,0,0,1,1,1,1,1,1,100.0,32,Moderate,1,Approved,2026-04-06,2027-04-06,Adverse Media
+CUST10379,Individual,United Kingdom,Construction,0,0,0,1,1,1,0,1,80.0,22,Low,0,Approved,2024-09-16,2026-09-16,KYC Documentation
+CUST10380,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2025-08-19,2027-08-19,Standard Risk
+CUST10381,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2025-09-18,2027-09-18,Standard Risk
+CUST10382,Individual,Canada,Consulting,0,0,0,0,1,1,1,1,80.0,18,Low,0,Periodic Review,2025-09-08,2027-09-08,Source of Wealth
+CUST10383,Business,United Kingdom,Manufacturing,0,0,0,0,1,1,1,1,80.0,23,Low,0,Approved,2026-07-07,2028-07-06,Source of Wealth
+CUST10384,Business,Iran,Hospitality,0,0,0,1,1,1,1,1,100.0,25,Low,0,Approved,2025-10-20,2027-10-20,High-Risk Geography
+CUST10385,Business,United States,Logistics,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2026-02-28,2028-02-28,Standard Risk
+CUST10386,Individual,Nigeria,Hospitality,0,0,0,1,1,1,0,1,80.0,34,Moderate,0,Periodic Review,2026-07-09,2027-07-09,High-Risk Geography
+CUST10387,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2026-07-26,2028-07-25,Standard Risk
+CUST10388,Business,United States,Import/Export,0,0,0,1,0,0,1,1,60.0,28,Low,0,Remediation,2024-09-08,2026-09-08,KYC Documentation
+CUST10389,Business,Nigeria,FinTech,0,0,0,0,1,1,1,1,80.0,41,Moderate,0,Approved,2025-12-05,2026-12-05,High-Risk Geography
+CUST10390,Business,Nigeria,Import/Export,0,0,0,1,1,1,1,1,100.0,30,Moderate,0,Approved,2025-04-11,2026-04-11,High-Risk Geography
+CUST10391,Individual,Iran,Consulting,0,0,0,1,1,1,1,1,100.0,32,Moderate,0,Approved,2026-01-16,2027-01-16,High-Risk Geography
+CUST10392,Individual,United States,Healthcare,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2025-06-30,2027-06-30,Standard Risk
+CUST10393,Business,United States,Hospitality,0,0,0,1,1,1,1,1,100.0,11,Low,0,Periodic Review,2024-09-08,2026-09-08,Standard Risk
+CUST10394,Individual,Nigeria,Hospitality,0,0,1,0,1,1,1,1,80.0,53,Moderate,1,Periodic Review,2026-08-31,2027-08-31,Adverse Media
+CUST10395,Business,Canada,FinTech,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2026-08-09,2028-08-08,Standard Risk
+CUST10396,Business,United States,Logistics,0,0,0,1,0,1,1,1,80.0,18,Low,0,Periodic Review,2025-04-16,2027-04-16,KYC Documentation
+CUST10397,Individual,United States,Healthcare,0,0,0,0,1,1,1,1,80.0,23,Low,0,Approved,2025-06-10,2027-06-10,Source of Wealth
+CUST10398,Business,United States,FinTech,0,0,0,1,0,1,1,1,80.0,23,Low,0,Approved,2025-04-23,2027-04-23,KYC Documentation
+CUST10399,Business,Brazil,Consulting,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2025-07-03,2027-07-03,Standard Risk
+CUST10400,Individual,United States,Healthcare,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2024-10-01,2026-10-01,Standard Risk
+CUST10401,Business,United States,Logistics,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2026-08-14,2028-08-13,Standard Risk
+CUST10402,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2025-06-13,2027-06-13,Standard Risk
+CUST10403,Business,United States,Manufacturing,0,0,0,1,1,1,1,1,100.0,11,Low,0,Periodic Review,2025-02-17,2027-02-17,Standard Risk
+CUST10404,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2025-02-19,2027-02-19,Standard Risk
+CUST10405,Business,United Kingdom,FinTech,0,0,0,1,1,1,1,0,80.0,19,Low,0,Approved,2024-12-13,2026-12-13,KYC Documentation
+CUST10406,Individual,United States,Hospitality,0,0,0,1,1,0,1,0,60.0,31,Moderate,0,Remediation,2026-07-24,2027-07-24,KYC Documentation
+CUST10407,Individual,China,Technology,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2024-09-02,2026-09-02,Standard Risk
+CUST10408,Business,United States,Import/Export,0,0,0,1,0,1,0,1,60.0,30,Moderate,0,Remediation,2026-02-03,2027-02-03,KYC Documentation
+CUST10409,Individual,United Kingdom,Technology,0,0,1,1,1,1,1,1,100.0,28,Low,1,Approved,2026-02-02,2028-02-02,Adverse Media
+CUST10410,Individual,Brazil,Healthcare,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2025-02-13,2027-02-13,Standard Risk
+CUST10411,Business,Mexico,Retail,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2025-11-24,2027-11-24,Standard Risk
+CUST10412,Business,United Kingdom,Manufacturing,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2026-04-21,2028-04-20,Standard Risk
+CUST10413,Individual,United States,Healthcare,0,0,0,1,1,1,0,1,80.0,16,Low,0,Approved,2025-06-09,2027-06-09,KYC Documentation
+CUST10414,Individual,United States,Consulting,0,0,0,1,1,1,1,1,100.0,17,Low,0,Periodic Review,2025-12-11,2027-12-11,Standard Risk
+CUST10415,Individual,Mexico,Construction,0,0,0,1,1,0,1,0,60.0,28,Low,0,Pending Documents,2026-05-13,2028-05-12,KYC Documentation
+CUST10416,Individual,Iran,Construction,0,0,0,1,1,0,1,0,60.0,48,Moderate,0,Remediation,2025-02-23,2026-02-23,High-Risk Geography
+CUST10417,Individual,Mexico,Technology,0,0,1,1,1,1,1,1,100.0,34,Moderate,1,Approved,2026-01-06,2027-01-06,Adverse Media
+CUST10418,Individual,United Kingdom,Hospitality,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2025-06-01,2027-06-01,Standard Risk
+CUST10419,Business,Nigeria,FinTech,0,0,0,1,1,1,1,1,100.0,27,Low,0,Approved,2025-04-03,2027-04-03,High-Risk Geography
+CUST10420,Business,United States,Logistics,0,0,1,1,0,1,0,1,60.0,43,Moderate,1,Remediation,2026-03-12,2027-03-12,Adverse Media
+CUST10421,Business,United States,Manufacturing,0,0,0,1,1,0,1,1,80.0,27,Low,0,Approved,2026-02-20,2028-02-20,KYC Documentation
+CUST10422,Individual,Canada,Technology,0,0,0,0,1,1,1,1,80.0,21,Low,0,Approved,2025-04-04,2027-04-04,Source of Wealth
+CUST10423,Individual,Russia,Construction,0,0,0,1,1,0,1,1,80.0,36,Moderate,0,Approved,2025-02-10,2026-02-10,High-Risk Geography
+CUST10424,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2025-07-19,2027-07-19,Standard Risk
+CUST10425,Individual,Nigeria,Retail,0,0,0,1,1,1,1,1,100.0,32,Moderate,0,Approved,2024-10-13,2025-10-13,High-Risk Geography
+CUST10426,Individual,United States,Technology,0,0,1,1,1,1,1,1,100.0,29,Low,1,Periodic Review,2024-12-12,2026-12-12,Adverse Media
+CUST10427,Business,United Kingdom,Retail,0,0,0,1,1,1,1,1,100.0,16,Low,0,Periodic Review,2026-06-09,2028-06-08,Standard Risk
+CUST10428,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2024-10-30,2026-10-30,Standard Risk
+CUST10429,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2026-06-13,2028-06-12,Standard Risk
+CUST10430,Individual,United Arab Emirates,Finance,0,0,0,1,1,0,1,1,80.0,40,Moderate,0,Periodic Review,2025-01-31,2026-01-31,High-Risk Geography
+CUST10431,Business,United States,Logistics,0,0,1,1,1,1,1,0,80.0,35,Moderate,1,Approved,2026-02-04,2027-02-04,Adverse Media
+CUST10432,Individual,Mexico,Technology,0,0,0,1,1,1,1,1,100.0,8,Low,0,Periodic Review,2025-03-28,2027-03-28,Standard Risk
+CUST10433,Individual,China,Finance,1,0,0,1,1,1,1,1,100.0,31,Moderate,1,Approved,2026-02-14,2027-02-14,PEP
+CUST10434,Individual,Turkey,Finance,0,0,0,1,1,1,1,1,100.0,28,Low,0,Periodic Review,2025-02-07,2027-02-07,High-Risk Geography
+CUST10435,Individual,United States,Technology,1,0,0,0,1,1,1,1,80.0,45,Moderate,1,Periodic Review,2026-01-10,2027-01-10,PEP
+CUST10436,Individual,United States,Finance,1,0,0,1,1,1,1,1,100.0,36,Moderate,1,Approved,2025-12-31,2026-12-31,PEP
+CUST10437,Business,United States,Logistics,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2025-08-04,2027-08-04,Standard Risk
+CUST10438,Individual,Iran,Retail,0,0,0,0,1,1,1,1,80.0,43,Moderate,0,Approved,2025-02-12,2026-02-12,High-Risk Geography
+CUST10439,Individual,Turkey,Retail,0,0,0,0,1,1,1,1,80.0,42,Moderate,0,Approved,2025-06-12,2026-06-12,High-Risk Geography
+CUST10440,Individual,United Kingdom,Retail,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2025-08-04,2027-08-04,Standard Risk
+CUST10441,Business,India,Consulting,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2026-08-23,2028-08-22,Standard Risk
+CUST10442,Individual,United Kingdom,Hospitality,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2024-12-27,2026-12-27,Standard Risk
+CUST10443,Individual,Canada,Finance,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2024-09-16,2026-09-16,Standard Risk
+CUST10444,Business,United States,FinTech,0,0,0,1,0,1,1,1,80.0,17,Low,0,Periodic Review,2026-04-01,2028-03-31,KYC Documentation
+CUST10445,Business,United Arab Emirates,Consulting,0,0,0,1,1,1,1,0,80.0,37,Moderate,0,Approved,2026-05-14,2027-05-14,High-Risk Geography
+CUST10446,Business,United States,FinTech,0,0,1,1,1,1,1,1,100.0,35,Moderate,1,Approved,2025-12-09,2026-12-09,Adverse Media
+CUST10447,Business,China,Consulting,0,0,0,1,1,0,1,1,80.0,21,Low,0,Approved,2025-08-24,2027-08-24,KYC Documentation
+CUST10448,Individual,China,Consulting,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2026-04-02,2028-04-01,Standard Risk
+CUST10449,Individual,Nigeria,Consulting,0,0,0,1,1,1,1,1,100.0,30,Moderate,0,Approved,2025-01-14,2026-01-14,High-Risk Geography
+CUST10450,Business,United States,Import/Export,0,0,0,0,1,1,1,1,80.0,18,Low,0,Periodic Review,2025-07-13,2027-07-13,Source of Wealth
+CUST10451,Individual,United States,Finance,0,0,1,0,1,1,1,1,80.0,38,Moderate,1,Approved,2024-11-24,2025-11-24,Adverse Media
+CUST10452,Individual,United States,Education,0,0,0,0,1,1,1,0,60.0,25,Low,0,Remediation,2025-10-10,2027-10-10,Source of Wealth
+CUST10453,Business,United States,Import/Export,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2024-10-29,2026-10-29,Standard Risk
+CUST10454,Individual,United States,Healthcare,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2025-02-27,2027-02-27,Standard Risk
+CUST10455,Individual,Turkey,Hospitality,0,0,0,1,1,1,1,1,100.0,28,Low,0,Periodic Review,2026-03-09,2028-03-08,High-Risk Geography
+CUST10456,Individual,United Kingdom,Healthcare,0,0,0,1,1,1,0,1,80.0,14,Low,0,Approved,2025-03-25,2027-03-25,KYC Documentation
+CUST10457,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2025-10-21,2027-10-21,Standard Risk
+CUST10458,Individual,United States,Technology,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2026-06-26,2028-06-25,Standard Risk
+CUST10459,Individual,United States,Retail,1,0,0,1,1,1,1,1,100.0,35,Moderate,1,Periodic Review,2025-02-25,2026-02-25,PEP
+CUST10460,Individual,Canada,Finance,0,0,0,0,1,1,1,1,80.0,26,Low,0,Approved,2026-03-01,2028-02-29,Source of Wealth
+CUST10461,Individual,United Kingdom,Technology,0,0,0,1,1,0,1,1,80.0,24,Low,0,Periodic Review,2026-07-28,2028-07-27,KYC Documentation
+CUST10462,Business,Brazil,Retail,0,0,1,1,1,1,1,1,100.0,30,Moderate,1,Approved,2025-04-14,2026-04-14,Adverse Media
+CUST10463,Individual,United Kingdom,Hospitality,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2026-06-17,2028-06-16,Standard Risk
+CUST10464,Business,Iran,Consulting,0,0,0,1,0,1,1,1,80.0,40,Moderate,0,Approved,2025-05-17,2026-05-17,High-Risk Geography
+CUST10465,Individual,India,Hospitality,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2025-01-27,2027-01-27,Standard Risk
+CUST10466,Individual,United States,Hospitality,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2025-03-27,2027-03-27,Standard Risk
+CUST10467,Business,Turkey,Manufacturing,1,0,0,1,1,1,1,1,100.0,54,Moderate,1,Approved,2025-11-22,2026-11-22,PEP
+CUST10468,Individual,United States,Education,0,0,1,1,1,1,1,1,100.0,30,Moderate,1,Approved,2025-03-14,2026-03-14,Adverse Media
+CUST10469,Business,China,Manufacturing,0,0,0,1,1,1,1,1,100.0,13,Low,0,Periodic Review,2025-12-01,2027-12-01,Standard Risk
+CUST10470,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2025-03-11,2027-03-11,Standard Risk
+CUST10471,Business,India,Consulting,0,0,0,1,0,1,0,1,60.0,32,Moderate,0,Pending Documents,2026-07-09,2027-07-09,KYC Documentation
+CUST10472,Individual,India,Technology,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2026-07-08,2028-07-07,Standard Risk
+CUST10473,Business,China,Consulting,0,0,1,1,0,1,1,1,80.0,41,Moderate,1,Approved,2025-11-28,2026-11-28,Adverse Media
+CUST10474,Individual,China,Retail,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2025-06-15,2027-06-15,Standard Risk
+CUST10475,Business,United States,Hospitality,0,0,1,1,0,1,1,1,80.0,36,Moderate,1,Approved,2025-07-10,2026-07-10,Adverse Media
+CUST10476,Individual,United States,Technology,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2024-12-08,2026-12-08,Standard Risk
+CUST10477,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2026-01-19,2028-01-19,Standard Risk
+CUST10478,Business,United States,Logistics,0,0,0,0,1,0,1,1,60.0,31,Moderate,0,Remediation,2025-02-08,2026-02-08,Source of Wealth
+CUST10479,Individual,Nigeria,Technology,0,0,0,0,1,1,1,0,60.0,44,Moderate,0,Pending Documents,2025-12-20,2026-12-20,High-Risk Geography
+CUST10480,Individual,United States,Construction,0,1,0,1,1,1,1,1,100.0,52,Moderate,1,EDD Review,2026-03-09,2027-03-09,Sanctions
+CUST10481,Individual,Russia,Technology,0,0,0,1,1,1,1,1,100.0,26,Low,0,Approved,2025-02-12,2027-02-12,High-Risk Geography
+CUST10482,Individual,Mexico,Education,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2026-04-08,2028-04-07,Standard Risk
+CUST10483,Individual,China,Retail,0,0,0,1,1,1,0,0,60.0,21,Low,0,Remediation,2024-11-06,2026-11-06,KYC Documentation
+CUST10484,Individual,United States,Finance,0,0,0,0,1,0,1,1,60.0,34,Moderate,0,Remediation,2025-08-12,2026-08-12,Source of Wealth
+CUST10485,Business,India,Real Estate,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2025-12-13,2027-12-13,Standard Risk
+CUST10486,Individual,Turkey,Retail,0,0,1,1,1,1,1,1,100.0,44,Moderate,1,Periodic Review,2025-03-19,2026-03-19,Adverse Media
+CUST10487,Individual,United Kingdom,Education,0,0,0,1,1,1,1,0,80.0,14,Low,0,Periodic Review,2025-08-26,2027-08-26,KYC Documentation
+CUST10488,Business,Canada,Manufacturing,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2024-10-18,2026-10-18,Standard Risk
+CUST10489,Business,United Arab Emirates,Import/Export,0,0,0,1,0,1,1,1,80.0,36,Moderate,0,Approved,2026-02-16,2027-02-16,High-Risk Geography
+CUST10490,Individual,United States,Education,0,0,0,0,1,1,1,1,80.0,25,Low,0,Approved,2025-01-24,2027-01-24,Source of Wealth
+CUST10491,Individual,United Kingdom,Construction,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2025-01-12,2027-01-12,Standard Risk
+CUST10492,Individual,United States,Consulting,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2025-11-21,2027-11-21,Standard Risk
+CUST10493,Individual,United States,Hospitality,0,0,0,1,1,1,1,1,100.0,9,Low,0,Periodic Review,2025-11-03,2027-11-03,Standard Risk
+CUST10494,Individual,United States,Retail,0,0,1,1,1,1,0,0,60.0,38,Moderate,1,Remediation,2026-04-22,2027-04-22,Adverse Media
+CUST10495,Individual,United States,Consulting,0,0,0,1,1,1,0,1,80.0,15,Low,0,Approved,2026-05-04,2028-05-03,KYC Documentation
+CUST10496,Individual,United States,Technology,0,0,0,1,1,1,1,1,100.0,8,Low,0,Periodic Review,2024-09-03,2026-09-03,Standard Risk
+CUST10497,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2026-04-18,2028-04-17,Standard Risk
+CUST10498,Business,Russia,Import/Export,0,0,0,1,0,1,1,1,80.0,34,Moderate,0,Approved,2024-12-12,2025-12-12,High-Risk Geography
+CUST10499,Business,United Kingdom,Logistics,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2025-02-05,2027-02-05,Standard Risk
+CUST10500,Individual,Russia,Healthcare,0,0,0,1,1,1,1,1,100.0,32,Moderate,0,Approved,2025-03-21,2026-03-21,High-Risk Geography
+CUST10501,Individual,United States,Consulting,0,0,0,1,1,1,1,0,80.0,19,Low,0,Approved,2026-07-29,2028-07-28,KYC Documentation
+CUST10502,Individual,United States,Construction,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2025-03-18,2027-03-18,Standard Risk
+CUST10503,Business,United Kingdom,Hospitality,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2026-02-05,2028-02-05,Standard Risk
+CUST10504,Individual,United States,Retail,0,0,0,0,1,1,0,1,60.0,30,Moderate,0,Pending Documents,2024-10-27,2025-10-27,Source of Wealth
+CUST10505,Individual,United States,Technology,0,0,0,0,1,1,0,1,60.0,24,Low,0,Remediation,2025-11-06,2027-11-06,Source of Wealth
+CUST10506,Business,Mexico,Hospitality,1,0,0,1,1,1,1,1,100.0,38,Moderate,1,Approved,2025-03-28,2026-03-28,PEP
+CUST10507,Business,United States,Logistics,0,0,1,1,1,1,1,1,100.0,29,Low,1,Approved,2026-05-30,2028-05-29,Adverse Media
+CUST10508,Business,Canada,Logistics,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2025-07-14,2027-07-14,Standard Risk
+CUST10509,Business,Mexico,Manufacturing,0,0,0,1,1,1,0,1,80.0,19,Low,0,Approved,2025-08-26,2027-08-26,KYC Documentation
+CUST10510,Individual,United States,Healthcare,0,0,0,0,1,1,1,1,80.0,20,Low,0,Periodic Review,2025-07-19,2027-07-19,Source of Wealth
+CUST10511,Individual,United States,Education,0,0,0,1,1,0,1,1,80.0,21,Low,0,Periodic Review,2025-08-14,2027-08-14,KYC Documentation
+CUST10512,Business,China,Import/Export,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2025-06-17,2027-06-17,Standard Risk
+CUST10513,Business,United States,FinTech,0,0,0,1,1,1,1,1,100.0,10,Low,0,Periodic Review,2025-06-11,2027-06-11,Standard Risk
+CUST10514,Individual,United States,Hospitality,0,0,0,0,1,1,1,1,80.0,23,Low,0,Approved,2024-12-21,2026-12-21,Source of Wealth
+CUST10515,Individual,Iran,Healthcare,0,0,0,1,1,1,1,1,100.0,24,Low,0,Approved,2024-12-23,2026-12-23,High-Risk Geography
+CUST10516,Individual,United States,Consulting,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2026-06-22,2028-06-21,Standard Risk
+CUST10517,Business,Nigeria,Import/Export,0,0,0,1,1,1,1,1,100.0,31,Moderate,0,Periodic Review,2026-06-09,2027-06-09,High-Risk Geography
+CUST10518,Business,Iran,FinTech,0,0,1,1,1,1,1,1,100.0,50,Moderate,1,Approved,2026-02-04,2027-02-04,Adverse Media
+CUST10519,Individual,United States,Construction,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2025-12-16,2027-12-16,Standard Risk
+CUST10520,Individual,United States,Finance,0,0,0,1,1,0,1,0,60.0,23,Low,0,Pending Documents,2026-01-05,2028-01-05,KYC Documentation
+CUST10521,Individual,United States,Construction,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2025-11-03,2027-11-03,Standard Risk
+CUST10522,Business,United States,FinTech,0,0,0,0,1,1,1,1,80.0,18,Low,0,Approved,2026-01-12,2028-01-12,Source of Wealth
+CUST10523,Business,United States,Manufacturing,0,1,0,1,1,1,0,1,80.0,53,Moderate,1,EDD Review,2025-11-23,2026-11-23,Sanctions
+CUST10524,Business,Nigeria,Logistics,0,0,0,1,0,1,1,0,60.0,40,Moderate,0,Pending Documents,2025-08-03,2026-08-03,High-Risk Geography
+CUST10525,Individual,United States,Retail,0,0,1,0,1,1,1,1,80.0,37,Moderate,1,Approved,2025-07-10,2026-07-10,Adverse Media
+CUST10526,Individual,United Kingdom,Education,0,0,0,0,1,1,1,0,60.0,25,Low,0,Remediation,2026-02-07,2028-02-07,Source of Wealth
+CUST10527,Individual,Iran,Hospitality,0,0,0,1,1,1,1,0,80.0,37,Moderate,0,Periodic Review,2025-12-11,2026-12-11,High-Risk Geography
+CUST10528,Individual,China,Education,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2025-10-25,2027-10-25,Standard Risk
+CUST10529,Business,Canada,Real Estate,0,0,0,1,1,1,0,1,80.0,16,Low,0,Approved,2024-10-04,2026-10-04,KYC Documentation
+CUST10530,Business,United States,FinTech,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2024-12-14,2026-12-14,Standard Risk
+CUST10531,Business,Canada,Real Estate,0,0,0,0,1,1,1,1,80.0,22,Low,0,Approved,2026-06-14,2028-06-13,Source of Wealth
+CUST10532,Business,United Kingdom,Logistics,0,0,1,0,0,1,1,0,40.0,50,Moderate,1,Pending Documents,2025-09-24,2026-09-24,Adverse Media
+CUST10533,Individual,United States,Consulting,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2025-02-16,2027-02-16,Standard Risk
+CUST10534,Business,United States,Manufacturing,0,0,0,0,1,0,1,1,60.0,35,Moderate,0,Remediation,2026-05-29,2027-05-29,Source of Wealth
+CUST10535,Business,Brazil,Logistics,0,0,0,1,1,0,1,1,80.0,18,Low,0,Periodic Review,2025-09-15,2027-09-15,KYC Documentation
+CUST10536,Business,United States,Logistics,0,0,0,1,0,1,1,1,80.0,21,Low,0,Approved,2026-07-01,2028-06-30,KYC Documentation
+CUST10537,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2026-04-12,2028-04-11,Standard Risk
+CUST10538,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2026-05-13,2028-05-12,Standard Risk
+CUST10539,Individual,United States,Construction,0,0,0,0,1,1,1,0,60.0,29,Low,0,Remediation,2024-12-24,2026-12-24,Source of Wealth
+CUST10540,Business,China,Retail,0,0,0,1,1,0,1,0,60.0,31,Moderate,0,Remediation,2025-03-23,2026-03-23,KYC Documentation
+CUST10541,Individual,Nigeria,Retail,0,0,0,1,1,1,1,1,100.0,24,Low,0,Periodic Review,2024-10-30,2026-10-30,High-Risk Geography
+CUST10542,Individual,United Arab Emirates,Education,0,0,1,1,1,1,1,1,100.0,51,Moderate,1,Approved,2026-03-28,2027-03-28,Adverse Media
+CUST10543,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2025-03-11,2027-03-11,Standard Risk
+CUST10544,Individual,United States,Consulting,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2025-01-12,2027-01-12,Standard Risk
+CUST10545,Individual,United Kingdom,Construction,0,0,0,1,1,1,1,0,80.0,22,Low,0,Approved,2026-08-23,2028-08-22,KYC Documentation
+CUST10546,Individual,United States,Construction,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2025-11-29,2027-11-29,Standard Risk
+CUST10547,Individual,United States,Technology,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2026-01-17,2028-01-17,Standard Risk
+CUST10548,Individual,United Arab Emirates,Retail,0,0,0,1,1,1,1,1,100.0,31,Moderate,0,Approved,2026-02-27,2027-02-27,High-Risk Geography
+CUST10549,Business,United States,Logistics,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2025-01-18,2027-01-18,Standard Risk
+CUST10550,Individual,United Kingdom,Retail,0,0,0,0,1,1,1,1,80.0,25,Low,0,Approved,2026-01-28,2028-01-28,Source of Wealth
+CUST10551,Business,United States,Consulting,0,1,0,1,1,1,0,1,80.0,56,Moderate,1,Escalated,2025-06-25,2026-06-25,Sanctions
+CUST10552,Individual,United States,Finance,0,0,0,0,1,1,1,1,80.0,25,Low,0,Periodic Review,2025-02-09,2027-02-09,Source of Wealth
+CUST10553,Individual,United States,Education,0,0,0,1,1,0,1,1,80.0,25,Low,0,Approved,2024-11-14,2026-11-14,KYC Documentation
+CUST10554,Business,Russia,Real Estate,0,0,0,1,1,1,1,1,100.0,29,Low,0,Approved,2025-09-10,2027-09-10,High-Risk Geography
+CUST10555,Individual,China,Technology,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2025-08-05,2027-08-05,Standard Risk
+CUST10556,Individual,Russia,Construction,0,0,0,1,1,1,1,1,100.0,26,Low,0,Approved,2025-01-30,2027-01-30,High-Risk Geography
+CUST10557,Individual,United Kingdom,Construction,0,0,0,1,1,1,1,1,100.0,13,Low,0,Periodic Review,2025-11-30,2027-11-30,Standard Risk
+CUST10558,Business,United States,FinTech,1,0,0,1,1,1,1,1,100.0,34,Moderate,1,Approved,2025-04-25,2026-04-25,PEP
+CUST10559,Individual,United Kingdom,Education,0,0,1,1,1,1,1,1,100.0,33,Moderate,1,Approved,2024-12-23,2025-12-23,Adverse Media
+CUST10560,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,11,Low,0,Periodic Review,2025-06-07,2027-06-07,Standard Risk
+CUST10561,Individual,India,Hospitality,0,0,0,0,1,1,1,1,80.0,21,Low,0,Approved,2025-07-08,2027-07-08,Source of Wealth
+CUST10562,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2024-10-01,2026-10-01,Standard Risk
+CUST10563,Individual,United Kingdom,Healthcare,0,0,0,1,1,1,1,1,100.0,17,Low,0,Periodic Review,2026-03-21,2028-03-20,Standard Risk
+CUST10564,Individual,United States,Construction,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2025-02-15,2027-02-15,Standard Risk
+CUST10565,Individual,United States,Education,0,1,0,1,1,1,1,1,100.0,48,Moderate,1,EDD Review,2024-12-02,2025-12-02,Sanctions
+CUST10566,Individual,Nigeria,Education,0,0,0,1,1,1,1,1,100.0,27,Low,0,Approved,2025-01-17,2027-01-17,High-Risk Geography
+CUST10567,Individual,United States,Construction,0,0,0,1,1,1,1,0,80.0,14,Low,0,Approved,2026-03-02,2028-03-01,KYC Documentation
+CUST10568,Business,United States,Real Estate,0,0,0,0,1,1,1,1,80.0,19,Low,0,Approved,2025-10-26,2027-10-26,Source of Wealth
+CUST10569,Individual,United States,Healthcare,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2026-08-15,2028-08-14,Standard Risk
+CUST10570,Individual,United States,Construction,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2025-06-12,2027-06-12,Standard Risk
+CUST10571,Business,China,Consulting,1,0,0,1,1,1,1,1,100.0,30,Moderate,1,Approved,2026-03-15,2027-03-15,PEP
+CUST10572,Individual,Brazil,Retail,0,0,0,1,1,1,1,0,80.0,20,Low,0,Approved,2025-11-25,2027-11-25,KYC Documentation
+CUST10573,Individual,Russia,Construction,0,0,0,1,1,1,1,1,100.0,28,Low,0,Approved,2025-09-26,2027-09-26,High-Risk Geography
+CUST10574,Business,China,Hospitality,0,0,0,1,1,1,1,1,100.0,17,Low,0,Periodic Review,2024-09-05,2026-09-05,Standard Risk
+CUST10575,Business,United States,Import/Export,1,0,0,0,1,0,1,1,60.0,50,Moderate,1,Remediation,2024-09-21,2025-09-21,PEP
+CUST10576,Individual,Mexico,Technology,0,0,1,1,1,1,1,0,80.0,39,Moderate,1,Approved,2025-03-31,2026-03-31,Adverse Media
+CUST10577,Business,United States,Hospitality,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2026-08-21,2028-08-20,Standard Risk
+CUST10578,Individual,United States,Hospitality,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2025-03-26,2027-03-26,Standard Risk
+CUST10579,Individual,India,Construction,0,0,0,1,1,1,1,0,80.0,20,Low,0,Approved,2024-12-18,2026-12-18,KYC Documentation
+CUST10580,Individual,United States,Technology,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2026-04-21,2028-04-20,Standard Risk
+CUST10581,Business,Brazil,Hospitality,0,0,1,0,1,1,1,1,80.0,42,Moderate,1,Approved,2024-11-30,2025-11-30,Adverse Media
+CUST10582,Individual,United States,Construction,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2026-04-06,2028-04-05,Standard Risk
+CUST10583,Individual,Mexico,Retail,0,0,0,0,1,1,1,1,80.0,18,Low,0,Approved,2025-02-12,2027-02-12,Source of Wealth
+CUST10584,Individual,Mexico,Consulting,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2026-06-14,2028-06-13,Standard Risk
+CUST10585,Individual,Brazil,Education,0,0,0,1,1,1,1,1,100.0,11,Low,0,Periodic Review,2025-09-20,2027-09-20,Standard Risk
+CUST10586,Individual,Mexico,Finance,0,0,0,1,1,1,0,1,80.0,23,Low,0,Approved,2024-12-31,2026-12-31,KYC Documentation
+CUST10587,Individual,Canada,Technology,0,0,0,1,1,1,1,1,100.0,17,Low,0,Periodic Review,2025-12-26,2027-12-26,Standard Risk
+CUST10588,Individual,United States,Retail,0,0,0,0,1,1,1,1,80.0,27,Low,0,Periodic Review,2024-12-01,2026-12-01,Source of Wealth
+CUST10589,Individual,United Kingdom,Healthcare,0,0,0,1,1,1,1,1,100.0,9,Low,0,Periodic Review,2025-03-08,2027-03-08,Standard Risk
+CUST10590,Individual,United States,Retail,0,0,0,1,1,1,0,1,80.0,23,Low,0,Periodic Review,2026-08-08,2028-08-07,KYC Documentation
+CUST10591,Individual,Nigeria,Healthcare,0,0,0,1,1,1,1,1,100.0,30,Moderate,0,Periodic Review,2025-05-18,2026-05-18,High-Risk Geography
+CUST10592,Individual,United Kingdom,Construction,0,0,0,1,1,0,1,1,80.0,26,Low,0,Approved,2026-02-12,2028-02-12,KYC Documentation
+CUST10593,Individual,Mexico,Technology,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2026-04-23,2028-04-22,Standard Risk
+CUST10594,Business,United States,Logistics,0,0,0,1,1,1,1,0,80.0,20,Low,0,Approved,2024-12-06,2026-12-06,KYC Documentation
+CUST10595,Individual,United States,Hospitality,0,0,0,0,1,1,1,0,60.0,27,Low,0,Pending Documents,2025-09-10,2027-09-10,Source of Wealth
+CUST10596,Individual,Nigeria,Retail,0,0,0,1,1,1,1,1,100.0,30,Moderate,0,Approved,2026-04-04,2027-04-04,High-Risk Geography
+CUST10597,Individual,United States,Consulting,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2025-03-24,2027-03-24,Standard Risk
+CUST10598,Individual,United States,Hospitality,0,0,1,1,1,1,1,1,100.0,34,Moderate,1,Approved,2025-11-01,2026-11-01,Adverse Media
+CUST10599,Individual,United States,Technology,0,0,0,1,1,1,1,1,100.0,10,Low,0,Periodic Review,2025-03-09,2027-03-09,Standard Risk
+CUST10600,Individual,Russia,Consulting,0,0,0,0,1,1,1,1,80.0,34,Moderate,0,Approved,2026-07-13,2027-07-13,High-Risk Geography
+CUST10601,Individual,Nigeria,Retail,0,0,0,0,1,1,1,1,80.0,35,Moderate,0,Approved,2025-05-25,2026-05-25,High-Risk Geography
+CUST10602,Individual,United States,Healthcare,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2026-01-04,2028-01-04,Standard Risk
+CUST10603,Individual,United States,Retail,1,0,0,1,1,1,1,1,100.0,39,Moderate,1,Approved,2025-05-07,2026-05-07,PEP
+CUST10604,Individual,United States,Finance,0,0,0,0,1,1,1,1,80.0,27,Low,0,Approved,2025-06-03,2027-06-03,Source of Wealth
+CUST10605,Individual,United Arab Emirates,Construction,0,0,0,0,1,1,1,1,80.0,42,Moderate,0,Approved,2025-11-22,2026-11-22,High-Risk Geography
+CUST10606,Individual,Mexico,Education,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2025-10-01,2027-10-01,Standard Risk
+CUST10607,Individual,United States,Healthcare,0,0,0,1,1,1,1,1,100.0,17,Low,0,Periodic Review,2025-09-14,2027-09-14,Standard Risk
+CUST10608,Individual,United States,Finance,0,0,1,1,1,0,1,1,80.0,37,Moderate,1,Approved,2024-11-02,2025-11-02,Adverse Media
+CUST10609,Individual,United States,Hospitality,0,0,0,0,1,1,1,1,80.0,18,Low,0,Approved,2024-11-21,2026-11-21,Source of Wealth
+CUST10610,Individual,Mexico,Construction,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2025-10-09,2027-10-09,Standard Risk
+CUST10611,Business,United Arab Emirates,Consulting,0,0,0,0,1,1,1,0,60.0,41,Moderate,0,Remediation,2025-09-30,2026-09-30,High-Risk Geography
+CUST10612,Individual,United States,Healthcare,0,0,0,0,1,1,0,1,60.0,30,Moderate,0,Remediation,2024-11-04,2025-11-04,Source of Wealth
+CUST10613,Individual,United States,Education,0,0,0,1,1,1,0,1,80.0,15,Low,0,Approved,2026-06-12,2028-06-11,KYC Documentation
+CUST10614,Business,United States,Real Estate,0,0,0,1,1,1,1,1,100.0,12,Low,0,Periodic Review,2026-06-06,2028-06-05,Standard Risk
+CUST10615,Business,Russia,Manufacturing,0,0,0,1,0,1,1,1,80.0,34,Moderate,0,Approved,2025-12-17,2026-12-17,High-Risk Geography
+CUST10616,Individual,United States,Consulting,0,0,0,1,1,1,1,0,80.0,19,Low,0,Approved,2026-02-28,2028-02-28,KYC Documentation
+CUST10617,Individual,United Arab Emirates,Consulting,0,0,0,1,1,1,1,1,100.0,33,Moderate,0,Periodic Review,2024-10-09,2025-10-09,High-Risk Geography
+CUST10618,Business,Canada,Real Estate,0,0,0,1,0,1,1,1,80.0,24,Low,0,Periodic Review,2024-10-03,2026-10-03,KYC Documentation
+CUST10619,Business,United States,Retail,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2026-05-01,2028-04-30,Standard Risk
+CUST10620,Individual,United States,Technology,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2026-05-28,2028-05-27,Standard Risk
+CUST10621,Individual,United States,Hospitality,0,0,0,1,1,1,1,1,100.0,17,Low,0,Periodic Review,2025-01-04,2027-01-04,Standard Risk
+CUST10622,Individual,Canada,Healthcare,0,0,0,1,1,1,1,1,100.0,16,Low,0,Periodic Review,2025-04-04,2027-04-04,Standard Risk
+CUST10623,Individual,United Arab Emirates,Hospitality,0,0,0,1,1,1,1,1,100.0,24,Low,0,Periodic Review,2025-06-15,2027-06-15,High-Risk Geography
+CUST10624,Individual,Mexico,Retail,0,0,0,1,1,0,1,1,80.0,18,Low,0,Approved,2025-04-05,2027-04-05,KYC Documentation
+CUST10625,Individual,United Kingdom,Technology,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2025-08-26,2027-08-26,Standard Risk
+CUST10626,Individual,United States,Construction,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2025-10-31,2027-10-31,Standard Risk
+CUST10627,Business,Russia,Consulting,0,0,0,1,0,1,1,1,80.0,38,Moderate,0,Approved,2025-09-09,2026-09-09,High-Risk Geography
+CUST10628,Individual,China,Consulting,0,0,0,1,1,1,0,1,80.0,14,Low,0,Periodic Review,2026-04-06,2028-04-05,KYC Documentation
+CUST10629,Individual,United States,Consulting,0,0,0,0,1,1,1,1,80.0,22,Low,0,Periodic Review,2025-11-20,2027-11-20,Source of Wealth
+CUST10630,Individual,Russia,Finance,0,0,0,1,1,1,1,1,100.0,28,Low,0,Approved,2024-11-13,2026-11-13,High-Risk Geography
+CUST10631,Business,Canada,Hospitality,0,0,0,1,1,1,1,0,80.0,16,Low,0,Approved,2025-12-13,2027-12-13,KYC Documentation
+CUST10632,Individual,Canada,Retail,0,0,0,1,1,1,1,0,80.0,17,Low,0,Approved,2025-02-04,2027-02-04,KYC Documentation
+CUST10633,Individual,United Arab Emirates,Education,0,0,0,1,1,1,1,1,100.0,24,Low,0,Approved,2025-04-28,2027-04-28,High-Risk Geography
+CUST10634,Individual,China,Hospitality,0,0,0,0,1,1,1,1,80.0,23,Low,0,Approved,2026-08-01,2028-07-31,Source of Wealth
+CUST10635,Individual,Mexico,Retail,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2024-09-29,2026-09-29,Standard Risk
+CUST10636,Individual,United States,Hospitality,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2025-12-07,2027-12-07,Standard Risk
+CUST10637,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2026-08-20,2028-08-19,Standard Risk
+CUST10638,Individual,Turkey,Technology,0,0,0,1,1,1,1,1,100.0,30,Moderate,0,Approved,2026-02-22,2027-02-22,High-Risk Geography
+CUST10639,Individual,United States,Consulting,0,0,0,1,1,1,1,1,100.0,13,Low,0,Periodic Review,2025-07-28,2027-07-28,Standard Risk
+CUST10640,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2025-03-13,2027-03-13,Standard Risk
+CUST10641,Individual,United States,Consulting,0,0,0,1,1,1,1,1,100.0,15,Low,0,Periodic Review,2026-06-02,2028-06-01,Standard Risk
+CUST10642,Individual,United States,Technology,0,0,0,0,1,1,1,1,80.0,21,Low,0,Approved,2025-01-09,2027-01-09,Source of Wealth
+CUST10643,Individual,Canada,Hospitality,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2025-04-18,2027-04-18,Standard Risk
+CUST10644,Individual,Turkey,Technology,0,0,0,1,1,1,1,1,100.0,24,Low,0,Approved,2025-11-04,2027-11-04,High-Risk Geography
+CUST10645,Business,United States,FinTech,0,0,0,1,0,1,1,1,80.0,22,Low,0,Approved,2026-05-13,2028-05-12,KYC Documentation
+CUST10646,Individual,United States,Consulting,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2026-06-13,2028-06-12,Standard Risk
+CUST10647,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2024-11-18,2026-11-18,Standard Risk
+CUST10648,Business,Brazil,Logistics,0,0,0,0,1,1,0,1,60.0,25,Low,0,Remediation,2025-06-25,2027-06-25,Source of Wealth
+CUST10649,Individual,Mexico,Finance,1,0,0,0,1,0,1,1,60.0,51,Moderate,1,Remediation,2025-07-11,2026-07-11,PEP
+CUST10650,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2026-01-30,2028-01-30,Standard Risk
+CUST10651,Individual,China,Consulting,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2025-06-11,2027-06-11,Standard Risk
+CUST10652,Individual,India,Finance,0,0,0,1,1,0,0,1,60.0,28,Low,0,Pending Documents,2026-08-14,2028-08-13,KYC Documentation
+CUST10653,Business,India,Hospitality,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2026-07-09,2028-07-08,Standard Risk
+CUST10654,Individual,Brazil,Technology,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2024-12-31,2026-12-31,Standard Risk
+CUST10655,Individual,United States,Education,0,0,0,1,1,0,1,1,80.0,21,Low,0,Approved,2026-01-04,2028-01-04,KYC Documentation
+CUST10656,Individual,United Arab Emirates,Healthcare,1,0,0,1,1,1,1,1,100.0,50,Moderate,1,Periodic Review,2025-07-10,2026-07-10,PEP
+CUST10657,Individual,United States,Healthcare,0,0,0,1,1,1,1,0,80.0,17,Low,0,Approved,2025-05-03,2027-05-03,KYC Documentation
+CUST10658,Individual,India,Retail,0,0,0,0,1,1,1,1,80.0,26,Low,0,Periodic Review,2025-06-14,2027-06-14,Source of Wealth
+CUST10659,Individual,Nigeria,Education,0,0,0,1,1,1,1,1,100.0,31,Moderate,0,Approved,2025-02-12,2026-02-12,High-Risk Geography
+CUST10660,Individual,United Arab Emirates,Hospitality,0,0,0,0,1,1,1,1,80.0,42,Moderate,0,Approved,2025-01-10,2026-01-10,High-Risk Geography
+CUST10661,Business,Mexico,Retail,0,0,0,1,1,1,0,1,80.0,16,Low,0,Approved,2026-05-01,2028-04-30,KYC Documentation
+CUST10662,Individual,United States,Hospitality,0,0,0,0,1,1,1,1,80.0,20,Low,0,Approved,2025-07-08,2027-07-08,Source of Wealth
+CUST10663,Individual,United Kingdom,Retail,0,0,0,1,1,1,1,1,100.0,8,Low,0,Periodic Review,2025-02-12,2027-02-12,Standard Risk
+CUST10664,Individual,Iran,Healthcare,0,0,0,1,1,1,1,1,100.0,33,Moderate,0,Approved,2026-01-28,2027-01-28,High-Risk Geography
+CUST10665,Individual,Turkey,Retail,0,0,0,1,1,0,0,1,60.0,45,Moderate,0,Pending Documents,2025-07-08,2026-07-08,High-Risk Geography
+CUST10666,Individual,United States,Healthcare,0,0,0,1,1,1,1,1,100.0,11,Low,0,Periodic Review,2024-09-22,2026-09-22,Standard Risk
+CUST10667,Individual,United States,Consulting,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2025-02-27,2027-02-27,Standard Risk
+CUST10668,Individual,United States,Technology,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2026-01-16,2028-01-16,Standard Risk
+CUST10669,Individual,Nigeria,Hospitality,0,0,0,0,1,1,1,0,60.0,40,Moderate,0,Remediation,2026-01-07,2027-01-07,High-Risk Geography
+CUST10670,Individual,China,Education,0,0,0,1,1,1,0,0,60.0,25,Low,0,Pending Documents,2024-11-26,2026-11-26,KYC Documentation
+CUST10671,Business,United States,Import/Export,1,0,0,0,1,1,1,0,60.0,49,Moderate,1,Remediation,2025-10-06,2026-10-06,PEP
+CUST10672,Individual,United Kingdom,Consulting,0,0,0,1,1,1,1,1,100.0,8,Low,0,Periodic Review,2025-05-20,2027-05-20,Standard Risk
+CUST10673,Individual,India,Retail,0,0,0,1,1,1,1,0,80.0,19,Low,0,Approved,2024-10-21,2026-10-21,KYC Documentation
+CUST10674,Individual,Nigeria,Healthcare,0,0,0,1,1,1,1,1,100.0,30,Moderate,0,Approved,2025-05-02,2026-05-02,High-Risk Geography
+CUST10675,Business,United Kingdom,Manufacturing,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2025-03-01,2027-03-01,Standard Risk
+CUST10676,Individual,Canada,Hospitality,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2025-01-30,2027-01-30,Standard Risk
+CUST10677,Individual,United Kingdom,Consulting,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2024-12-17,2026-12-17,Standard Risk
+CUST10678,Business,United States,Hospitality,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2025-07-13,2027-07-13,Standard Risk
+CUST10679,Business,Canada,Import/Export,0,0,0,0,1,1,1,1,80.0,19,Low,0,Periodic Review,2026-01-25,2028-01-25,Source of Wealth
+CUST10680,Business,Mexico,Retail,0,0,0,0,1,1,1,1,80.0,19,Low,0,Approved,2024-09-10,2026-09-10,Source of Wealth
+CUST10681,Individual,India,Technology,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2025-08-16,2027-08-16,Standard Risk
+CUST10682,Individual,Mexico,Finance,0,0,0,1,1,1,1,1,100.0,10,Low,0,Periodic Review,2026-06-06,2028-06-05,Standard Risk
+CUST10683,Individual,United Arab Emirates,Healthcare,0,0,0,1,1,1,1,1,100.0,29,Low,0,Approved,2025-05-28,2027-05-28,High-Risk Geography
+CUST10684,Business,United States,Consulting,0,0,0,0,1,1,1,1,80.0,18,Low,0,Approved,2025-07-17,2027-07-17,Source of Wealth
+CUST10685,Individual,United States,Hospitality,0,1,0,1,1,1,1,1,100.0,44,Moderate,1,EDD Review,2024-10-10,2025-10-10,Sanctions
+CUST10686,Individual,United States,Healthcare,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2025-03-25,2027-03-25,Standard Risk
+CUST10687,Individual,United States,Technology,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2025-06-11,2027-06-11,Standard Risk
+CUST10688,Business,Nigeria,Import/Export,0,0,0,1,1,1,1,1,100.0,24,Low,0,Periodic Review,2025-11-05,2027-11-05,High-Risk Geography
+CUST10689,Individual,Iran,Technology,0,0,0,1,1,1,1,1,100.0,26,Low,0,Approved,2025-07-20,2027-07-20,High-Risk Geography
+CUST10690,Individual,United States,Healthcare,0,0,0,0,1,1,1,1,80.0,27,Low,0,Approved,2024-12-03,2026-12-03,Source of Wealth
+CUST10691,Individual,United States,Finance,0,0,0,1,1,0,1,1,80.0,24,Low,0,Approved,2025-08-22,2027-08-22,KYC Documentation
+CUST10692,Individual,China,Education,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2026-01-11,2028-01-11,Standard Risk
+CUST10693,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2024-12-02,2026-12-02,Standard Risk
+CUST10694,Individual,United Kingdom,Finance,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2024-11-20,2026-11-20,Standard Risk
+CUST10695,Individual,Nigeria,Education,0,0,0,1,1,1,1,1,100.0,32,Moderate,0,Approved,2026-07-14,2027-07-14,High-Risk Geography
+CUST10696,Individual,Canada,Education,0,0,0,1,1,1,0,1,80.0,15,Low,0,Periodic Review,2026-02-27,2028-02-27,KYC Documentation
+CUST10697,Individual,United States,Consulting,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2026-02-08,2028-02-08,Standard Risk
+CUST10698,Individual,United States,Consulting,0,0,0,1,1,0,1,1,80.0,26,Low,0,Approved,2026-06-15,2028-06-14,KYC Documentation
+CUST10699,Individual,China,Retail,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2025-05-08,2027-05-08,Standard Risk
+CUST10700,Individual,United Kingdom,Hospitality,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2025-08-11,2027-08-11,Standard Risk
+CUST10701,Individual,United States,Hospitality,0,0,0,1,1,1,1,1,100.0,13,Low,0,Periodic Review,2026-02-19,2028-02-19,Standard Risk
+CUST10702,Individual,United Arab Emirates,Retail,0,0,0,1,1,1,1,1,100.0,28,Low,0,Approved,2026-05-21,2028-05-20,High-Risk Geography
+CUST10703,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2024-12-23,2026-12-23,Standard Risk
+CUST10704,Individual,United Arab Emirates,Finance,0,0,0,0,1,1,1,1,80.0,41,Moderate,0,Approved,2025-08-21,2026-08-21,High-Risk Geography
+CUST10705,Business,United States,Import/Export,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2025-11-18,2027-11-18,Standard Risk
+CUST10706,Individual,Russia,Technology,0,0,1,0,1,1,1,1,80.0,58,Moderate,1,Approved,2025-05-07,2026-05-07,Adverse Media
+CUST10707,Business,United States,Real Estate,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2024-09-08,2026-09-08,Standard Risk
+CUST10708,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,11,Low,0,Periodic Review,2025-12-25,2027-12-25,Standard Risk
+CUST10709,Individual,United States,Construction,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2026-02-12,2028-02-12,Standard Risk
+CUST10710,Business,United States,FinTech,0,0,0,1,1,1,0,1,80.0,23,Low,0,Approved,2025-03-14,2027-03-14,KYC Documentation
+CUST10711,Individual,India,Construction,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2025-05-28,2027-05-28,Standard Risk
+CUST10712,Individual,Iran,Retail,0,0,0,1,1,1,1,1,100.0,24,Low,0,Approved,2025-11-05,2027-11-05,High-Risk Geography
+CUST10713,Individual,United States,Technology,0,0,0,0,1,0,1,1,60.0,29,Low,0,Remediation,2025-05-11,2027-05-11,Source of Wealth
+CUST10714,Individual,United States,Hospitality,1,0,0,0,1,1,1,1,80.0,40,Moderate,1,Approved,2026-06-10,2027-06-10,PEP
+CUST10715,Business,Nigeria,Real Estate,0,0,0,1,1,1,1,0,80.0,36,Moderate,0,Approved,2025-05-31,2026-05-31,High-Risk Geography
+CUST10716,Business,Brazil,Import/Export,0,0,0,1,1,1,1,0,80.0,16,Low,0,Periodic Review,2024-10-10,2026-10-10,KYC Documentation
+CUST10717,Business,Canada,Manufacturing,0,0,0,0,1,1,1,1,80.0,20,Low,0,Approved,2025-11-07,2027-11-07,Source of Wealth
+CUST10718,Individual,United States,Healthcare,0,0,0,0,1,1,1,1,80.0,18,Low,0,Periodic Review,2025-09-02,2027-09-02,Source of Wealth
+CUST10719,Business,United States,Consulting,0,0,0,1,1,1,1,0,80.0,14,Low,0,Approved,2024-09-13,2026-09-13,KYC Documentation
+CUST10720,Business,Nigeria,Hospitality,0,0,0,1,1,1,1,1,100.0,26,Low,0,Approved,2026-07-23,2028-07-22,High-Risk Geography
+CUST10721,Individual,United States,Healthcare,0,0,0,1,1,1,0,0,60.0,21,Low,0,Pending Documents,2024-12-15,2026-12-15,KYC Documentation
+CUST10722,Individual,Canada,Education,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2025-09-26,2027-09-26,Standard Risk
+CUST10723,Business,United States,Consulting,0,0,0,0,1,0,0,1,40.0,43,Moderate,0,Remediation,2025-04-03,2026-04-03,Source of Wealth
+CUST10724,Individual,China,Retail,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2026-05-16,2028-05-15,Standard Risk
+CUST10725,Business,United States,FinTech,1,0,0,1,1,1,1,1,100.0,35,Moderate,1,Approved,2025-10-20,2026-10-20,PEP
+CUST10726,Individual,Canada,Finance,0,0,0,1,1,1,1,1,100.0,9,Low,0,Periodic Review,2026-05-10,2028-05-09,Standard Risk
+CUST10727,Business,United Kingdom,Real Estate,1,0,0,1,1,1,1,1,100.0,31,Moderate,1,Approved,2026-03-18,2027-03-18,PEP
+CUST10728,Individual,Mexico,Construction,0,0,1,1,1,1,1,1,100.0,32,Moderate,1,Approved,2025-12-14,2026-12-14,Adverse Media
+CUST10729,Individual,United States,Technology,0,0,0,1,1,1,1,1,100.0,8,Low,0,Periodic Review,2024-12-22,2026-12-22,Standard Risk
+CUST10730,Individual,Canada,Healthcare,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2026-01-20,2028-01-20,Standard Risk
+CUST10731,Business,Canada,Logistics,0,0,0,1,1,1,0,1,80.0,20,Low,0,Approved,2025-12-13,2027-12-13,KYC Documentation
+CUST10732,Individual,Canada,Finance,0,0,1,1,1,1,1,1,100.0,34,Moderate,1,Approved,2025-12-24,2026-12-24,Adverse Media
+CUST10733,Individual,Canada,Healthcare,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2025-03-24,2027-03-24,Standard Risk
+CUST10734,Individual,Mexico,Hospitality,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2024-09-21,2026-09-21,Standard Risk
+CUST10735,Business,China,Hospitality,0,0,0,0,1,1,1,1,80.0,22,Low,0,Approved,2026-04-28,2028-04-27,Source of Wealth
+CUST10736,Individual,United States,Education,0,0,1,1,1,1,1,1,100.0,26,Low,1,Periodic Review,2026-02-07,2028-02-07,Adverse Media
+CUST10737,Business,China,Logistics,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2026-04-14,2028-04-13,Standard Risk
+CUST10738,Individual,United Kingdom,Education,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2026-07-01,2028-06-30,Standard Risk
+CUST10739,Individual,United States,Construction,0,0,1,1,1,1,1,1,100.0,29,Low,1,Approved,2025-11-22,2027-11-22,Adverse Media
+CUST10740,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2026-07-09,2028-07-08,Standard Risk
+CUST10741,Individual,United States,Construction,0,0,0,1,1,1,1,1,100.0,9,Low,0,Periodic Review,2025-09-20,2027-09-20,Standard Risk
+CUST10742,Business,China,Retail,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2025-03-26,2027-03-26,Standard Risk
+CUST10743,Individual,Nigeria,Construction,0,0,0,1,1,1,1,1,100.0,25,Low,0,Approved,2026-04-18,2028-04-17,High-Risk Geography
+CUST10744,Individual,China,Construction,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2025-10-06,2027-10-06,Standard Risk
+CUST10745,Business,United Kingdom,Import/Export,0,0,1,0,1,1,1,1,80.0,41,Moderate,1,Approved,2026-04-10,2027-04-10,Adverse Media
+CUST10746,Individual,United States,Healthcare,0,0,0,1,1,1,1,0,80.0,14,Low,0,Approved,2025-06-22,2027-06-22,KYC Documentation
+CUST10747,Individual,United States,Construction,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2025-11-23,2027-11-23,Standard Risk
+CUST10748,Business,United States,Manufacturing,0,0,1,1,1,1,1,1,100.0,27,Low,1,Approved,2026-04-18,2028-04-17,Adverse Media
+CUST10749,Individual,United States,Construction,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2025-04-30,2027-04-30,Standard Risk
+CUST10750,Individual,United States,Education,0,0,0,1,1,1,1,0,80.0,17,Low,0,Approved,2024-09-10,2026-09-10,KYC Documentation
+CUST10751,Business,United States,Hospitality,0,0,0,0,1,1,1,1,80.0,26,Low,0,Approved,2025-07-27,2027-07-27,Source of Wealth
+CUST10752,Individual,Canada,Construction,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2025-06-09,2027-06-09,Standard Risk
+CUST10753,Individual,Nigeria,Finance,1,0,0,0,1,1,1,0,60.0,69,High,1,Pending Documents,2024-12-05,2025-06-03,PEP
+CUST10754,Individual,Iran,Construction,0,0,0,1,1,1,1,1,100.0,33,Moderate,0,Approved,2024-12-12,2025-12-12,High-Risk Geography
+CUST10755,Business,Turkey,Hospitality,0,0,0,1,0,1,1,1,80.0,37,Moderate,0,Periodic Review,2024-11-01,2025-11-01,High-Risk Geography
+CUST10756,Individual,Mexico,Education,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2025-12-05,2027-12-05,Standard Risk
+CUST10757,Individual,United States,Consulting,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2026-08-15,2028-08-14,Standard Risk
+CUST10758,Business,Mexico,Logistics,0,0,1,0,1,1,1,1,80.0,43,Moderate,1,Approved,2025-12-06,2026-12-06,Adverse Media
+CUST10759,Business,China,Retail,0,0,0,0,1,1,1,1,80.0,20,Low,0,Approved,2025-05-07,2027-05-07,Source of Wealth
+CUST10760,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2026-01-25,2028-01-25,Standard Risk
+CUST10761,Individual,United States,Retail,0,1,0,1,1,1,1,1,100.0,45,Moderate,1,Escalated,2025-10-17,2026-10-17,Sanctions
+CUST10762,Individual,India,Technology,0,0,0,0,1,1,1,1,80.0,26,Low,0,Approved,2026-01-06,2028-01-06,Source of Wealth
+CUST10763,Business,United States,Hospitality,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2025-03-05,2027-03-05,Standard Risk
+CUST10764,Individual,Canada,Consulting,0,0,0,1,1,0,1,1,80.0,27,Low,0,Approved,2025-11-20,2027-11-20,KYC Documentation
+CUST10765,Individual,Canada,Finance,0,0,0,0,1,1,1,1,80.0,21,Low,0,Approved,2026-07-26,2028-07-25,Source of Wealth
+CUST10766,Business,United States,Manufacturing,0,0,1,1,1,1,0,1,80.0,41,Moderate,1,Approved,2026-05-21,2027-05-21,Adverse Media
+CUST10767,Business,United States,Consulting,0,0,0,0,0,1,1,1,60.0,29,Low,0,Remediation,2024-09-08,2026-09-08,Source of Wealth
+CUST10768,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2025-06-28,2027-06-28,Standard Risk
+CUST10769,Business,United States,Logistics,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2024-11-16,2026-11-16,Standard Risk
+CUST10770,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2026-01-05,2028-01-05,Standard Risk
+CUST10771,Business,India,Hospitality,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2024-11-25,2026-11-25,Standard Risk
+CUST10772,Individual,United States,Construction,0,0,0,1,1,1,0,1,80.0,18,Low,0,Approved,2026-04-29,2028-04-28,KYC Documentation
+CUST10773,Individual,United Kingdom,Technology,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2025-02-13,2027-02-13,Standard Risk
+CUST10774,Business,United States,Logistics,0,0,0,1,1,1,1,1,100.0,9,Low,0,Periodic Review,2025-01-09,2027-01-09,Standard Risk
+CUST10775,Individual,Turkey,Retail,0,0,0,0,1,1,1,1,80.0,36,Moderate,0,Approved,2024-12-30,2025-12-30,High-Risk Geography
+CUST10776,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,13,Low,0,Periodic Review,2025-01-02,2027-01-02,Standard Risk
+CUST10777,Business,United States,Consulting,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2026-02-25,2028-02-25,Standard Risk
+CUST10778,Business,India,Import/Export,0,0,1,1,1,1,1,1,100.0,29,Low,1,Periodic Review,2025-12-19,2027-12-19,Adverse Media
+CUST10779,Individual,India,Consulting,0,0,0,1,1,1,1,1,100.0,8,Low,0,Periodic Review,2025-01-24,2027-01-24,Standard Risk
+CUST10780,Individual,United States,Consulting,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2025-03-20,2027-03-20,Standard Risk
+CUST10781,Individual,China,Finance,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2024-10-25,2026-10-25,Standard Risk
+CUST10782,Individual,United States,Healthcare,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2025-08-05,2027-08-05,Standard Risk
+CUST10783,Individual,United Kingdom,Construction,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2024-11-12,2026-11-12,Standard Risk
+CUST10784,Individual,United States,Technology,0,0,0,1,1,1,1,1,100.0,8,Low,0,Periodic Review,2025-05-21,2027-05-21,Standard Risk
+CUST10785,Business,United States,Hospitality,0,0,0,1,1,1,1,1,100.0,17,Low,0,Periodic Review,2025-12-22,2027-12-22,Standard Risk
+CUST10786,Individual,Nigeria,Finance,1,0,1,1,1,1,1,0,80.0,75,High,1,Approved,2024-10-29,2025-04-27,PEP
+CUST10787,Individual,United Kingdom,Education,0,0,0,1,1,1,0,1,80.0,22,Low,0,Periodic Review,2025-02-17,2027-02-17,KYC Documentation
+CUST10788,Individual,United States,Technology,0,0,0,1,1,1,1,1,100.0,10,Low,0,Periodic Review,2026-03-09,2028-03-08,Standard Risk
+CUST10789,Business,Nigeria,Manufacturing,0,0,0,1,1,1,1,1,100.0,31,Moderate,0,Approved,2025-05-23,2026-05-23,High-Risk Geography
+CUST10790,Individual,United Arab Emirates,Finance,0,0,0,1,1,1,1,1,100.0,32,Moderate,0,Approved,2025-02-01,2026-02-01,High-Risk Geography
+CUST10791,Individual,United States,Hospitality,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2025-11-16,2027-11-16,Standard Risk
+CUST10792,Individual,Canada,Hospitality,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2026-07-13,2028-07-12,Standard Risk
+CUST10793,Individual,United States,Construction,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2026-08-28,2028-08-27,Standard Risk
+CUST10794,Individual,United Arab Emirates,Construction,0,0,0,0,1,0,1,1,60.0,45,Moderate,0,Remediation,2024-12-09,2025-12-09,High-Risk Geography
+CUST10795,Business,Mexico,Hospitality,0,0,0,1,0,1,1,1,80.0,23,Low,0,Approved,2025-04-19,2027-04-19,KYC Documentation
+CUST10796,Business,Russia,Real Estate,0,0,1,1,1,1,1,1,100.0,44,Moderate,1,Approved,2024-10-25,2025-10-25,Adverse Media
+CUST10797,Individual,United States,Construction,0,0,0,1,1,1,1,1,100.0,14,Low,0,Periodic Review,2026-01-21,2028-01-21,Standard Risk
+CUST10798,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2024-11-02,2026-11-02,Standard Risk
+CUST10799,Business,United States,Logistics,0,0,0,0,1,1,1,1,80.0,27,Low,0,Approved,2025-12-13,2027-12-13,Source of Wealth
+CUST10800,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2024-10-16,2026-10-16,Standard Risk
+CUST10801,Individual,United States,Education,0,0,0,1,1,1,1,0,80.0,17,Low,0,Approved,2025-03-15,2027-03-15,KYC Documentation
+CUST10802,Individual,Brazil,Finance,0,0,0,0,1,1,1,1,80.0,20,Low,0,Approved,2025-08-21,2027-08-21,Source of Wealth
+CUST10803,Individual,United States,Education,0,0,0,1,1,1,1,0,80.0,21,Low,0,Approved,2026-07-02,2028-07-01,KYC Documentation
+CUST10804,Individual,United States,Healthcare,1,0,0,1,1,1,1,1,100.0,36,Moderate,1,Approved,2025-09-10,2026-09-10,PEP
+CUST10805,Business,United Arab Emirates,Retail,0,0,0,1,0,1,1,1,80.0,37,Moderate,0,Periodic Review,2024-11-24,2025-11-24,High-Risk Geography
+CUST10806,Business,United States,Real Estate,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2026-08-08,2028-08-07,Standard Risk
+CUST10807,Business,United Arab Emirates,Logistics,0,0,0,1,1,1,1,1,100.0,33,Moderate,0,Approved,2025-11-12,2026-11-12,High-Risk Geography
+CUST10808,Individual,United States,Education,0,0,0,1,1,1,0,1,80.0,22,Low,0,Approved,2025-02-21,2027-02-21,KYC Documentation
+CUST10809,Individual,United Kingdom,Consulting,0,0,0,0,1,1,1,1,80.0,22,Low,0,Periodic Review,2024-10-10,2026-10-10,Source of Wealth
+CUST10810,Business,United States,Hospitality,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2025-09-10,2027-09-10,Standard Risk
+CUST10811,Business,United States,Logistics,0,0,0,1,1,1,1,1,100.0,16,Low,0,Periodic Review,2025-02-03,2027-02-03,Standard Risk
+CUST10812,Individual,Brazil,Hospitality,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2026-08-03,2028-08-02,Standard Risk
+CUST10813,Business,United States,Real Estate,0,0,0,1,1,1,1,0,80.0,16,Low,0,Periodic Review,2025-09-09,2027-09-09,KYC Documentation
+CUST10814,Business,United Kingdom,Logistics,0,0,0,1,0,1,0,0,40.0,28,Low,0,Pending Documents,2025-09-01,2027-09-01,KYC Documentation
+CUST10815,Individual,United States,Healthcare,0,0,0,1,1,1,1,0,80.0,20,Low,0,Approved,2025-01-01,2027-01-01,KYC Documentation
+CUST10816,Individual,United States,Consulting,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2025-07-19,2027-07-19,Standard Risk
+CUST10817,Individual,Brazil,Construction,0,0,1,1,1,1,0,1,80.0,33,Moderate,1,Periodic Review,2025-12-09,2026-12-09,Adverse Media
+CUST10818,Individual,United States,Consulting,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2025-11-14,2027-11-14,Standard Risk
+CUST10819,Individual,Mexico,Retail,0,0,0,1,1,1,1,1,100.0,10,Low,0,Periodic Review,2025-02-11,2027-02-11,Standard Risk
+CUST10820,Business,Russia,Logistics,0,0,0,1,0,1,1,1,80.0,37,Moderate,0,Approved,2026-04-01,2027-04-01,High-Risk Geography
+CUST10821,Individual,Canada,Construction,1,0,0,1,1,1,1,1,100.0,37,Moderate,1,Approved,2026-01-25,2027-01-25,PEP
+CUST10822,Individual,Turkey,Technology,0,0,1,1,1,1,0,1,80.0,57,Moderate,1,Approved,2026-03-12,2027-03-12,Adverse Media
+CUST10823,Individual,United States,Finance,0,0,1,1,1,1,0,1,80.0,39,Moderate,1,Approved,2025-01-01,2026-01-01,Adverse Media
+CUST10824,Individual,United States,Hospitality,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2024-12-05,2026-12-05,Standard Risk
+CUST10825,Business,United States,Real Estate,0,0,0,1,1,1,0,1,80.0,21,Low,0,Approved,2026-08-20,2028-08-19,KYC Documentation
+CUST10826,Individual,Nigeria,Finance,0,0,0,1,1,1,1,1,100.0,28,Low,0,Approved,2025-04-03,2027-04-03,High-Risk Geography
+CUST10827,Individual,Iran,Retail,0,0,0,1,1,1,1,0,80.0,38,Moderate,0,Periodic Review,2025-09-04,2026-09-04,High-Risk Geography
+CUST10828,Business,United States,Real Estate,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2025-01-30,2027-01-30,Standard Risk
+CUST10829,Individual,Mexico,Healthcare,0,0,0,1,1,1,1,0,80.0,18,Low,0,Approved,2024-11-13,2026-11-13,KYC Documentation
+CUST10830,Individual,United States,Construction,0,0,1,1,1,1,1,1,100.0,33,Moderate,1,Periodic Review,2025-05-12,2026-05-12,Adverse Media
+CUST10831,Individual,Canada,Education,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2025-02-01,2027-02-01,Standard Risk
+CUST10832,Individual,United States,Construction,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2026-06-11,2028-06-10,Standard Risk
+CUST10833,Individual,Russia,Retail,0,0,1,0,1,1,1,1,80.0,57,Moderate,1,Approved,2024-12-23,2025-12-23,Adverse Media
+CUST10834,Individual,Canada,Technology,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2024-10-08,2026-10-08,Standard Risk
+CUST10835,Individual,United States,Education,0,0,0,0,1,1,1,1,80.0,21,Low,0,Approved,2025-09-26,2027-09-26,Source of Wealth
+CUST10836,Business,United States,Real Estate,0,0,0,1,0,1,1,1,80.0,17,Low,0,Approved,2025-06-17,2027-06-17,KYC Documentation
+CUST10837,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,17,Low,0,Periodic Review,2024-12-23,2026-12-23,Standard Risk
+CUST10838,Individual,United States,Education,1,0,0,1,1,1,1,1,100.0,37,Moderate,1,Approved,2026-01-18,2027-01-18,PEP
+CUST10839,Individual,United States,Retail,0,0,1,1,1,1,1,1,100.0,31,Moderate,1,Approved,2025-08-26,2026-08-26,Adverse Media
+CUST10840,Individual,India,Consulting,0,0,1,1,1,1,1,1,100.0,28,Low,1,Approved,2026-08-04,2028-08-03,Adverse Media
+CUST10841,Individual,Canada,Retail,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2026-08-16,2028-08-15,Standard Risk
+CUST10842,Individual,United Kingdom,Healthcare,0,0,0,0,1,1,1,1,80.0,23,Low,0,Approved,2025-11-28,2027-11-28,Source of Wealth
+CUST10843,Business,United States,FinTech,0,0,0,1,1,1,1,1,100.0,14,Low,0,Periodic Review,2025-10-03,2027-10-03,Standard Risk
+CUST10844,Individual,India,Finance,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2025-05-06,2027-05-06,Standard Risk
+CUST10845,Individual,Nigeria,Education,1,0,0,0,1,1,1,1,80.0,60,High,1,Periodic Review,2025-02-12,2025-08-11,PEP
+CUST10846,Individual,United States,Consulting,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2025-11-17,2027-11-17,Standard Risk
+CUST10847,Business,Nigeria,Manufacturing,0,0,0,0,1,1,1,1,80.0,39,Moderate,0,Approved,2026-05-10,2027-05-10,High-Risk Geography
+CUST10848,Individual,United Kingdom,Retail,0,0,0,1,1,1,0,0,60.0,19,Low,0,Remediation,2026-07-25,2028-07-24,KYC Documentation
+CUST10849,Individual,United States,Consulting,0,0,0,0,1,1,1,1,80.0,23,Low,0,Approved,2025-06-04,2027-06-04,Source of Wealth
+CUST10850,Individual,United States,Healthcare,0,0,0,0,1,1,1,1,80.0,26,Low,0,Approved,2026-03-19,2028-03-18,Source of Wealth
+CUST10851,Business,United Kingdom,Import/Export,0,0,1,1,1,1,1,1,100.0,35,Moderate,1,Periodic Review,2024-10-07,2025-10-07,Adverse Media
+CUST10852,Individual,United States,Consulting,0,0,0,1,1,1,0,1,80.0,17,Low,0,Approved,2026-02-08,2028-02-08,KYC Documentation
+CUST10853,Business,Turkey,Real Estate,0,0,0,1,1,1,1,1,100.0,33,Moderate,0,Approved,2025-12-30,2026-12-30,High-Risk Geography
+CUST10854,Individual,India,Finance,0,0,0,1,1,1,1,1,100.0,8,Low,0,Periodic Review,2025-10-03,2027-10-03,Standard Risk
+CUST10855,Individual,Mexico,Construction,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2025-08-01,2027-08-01,Standard Risk
+CUST10856,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2025-04-12,2027-04-12,Standard Risk
+CUST10857,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2026-05-03,2028-05-02,Standard Risk
+CUST10858,Individual,Mexico,Technology,0,0,0,1,1,0,1,1,80.0,18,Low,0,Approved,2025-12-16,2027-12-16,KYC Documentation
+CUST10859,Individual,United Kingdom,Education,0,0,0,1,1,1,1,1,100.0,10,Low,0,Periodic Review,2024-09-09,2026-09-09,Standard Risk
+CUST10860,Business,United States,FinTech,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2025-07-18,2027-07-18,Standard Risk
+CUST10861,Individual,United Kingdom,Retail,0,0,0,1,1,1,1,1,100.0,17,Low,0,Periodic Review,2025-10-26,2027-10-26,Standard Risk
+CUST10862,Individual,China,Education,1,0,1,1,1,1,1,1,100.0,49,Moderate,1,Approved,2024-09-25,2025-09-25,PEP
+CUST10863,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2026-06-25,2028-06-24,Standard Risk
+CUST10864,Individual,United States,Healthcare,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2026-05-10,2028-05-09,Standard Risk
+CUST10865,Individual,China,Retail,0,0,0,0,1,1,1,1,80.0,22,Low,0,Periodic Review,2026-01-24,2028-01-24,Source of Wealth
+CUST10866,Individual,United States,Technology,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2026-01-24,2028-01-24,Standard Risk
+CUST10867,Individual,United States,Construction,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2025-05-16,2027-05-16,Standard Risk
+CUST10868,Business,United States,Import/Export,0,0,0,1,0,1,1,1,80.0,24,Low,0,Approved,2025-08-11,2027-08-11,KYC Documentation
+CUST10869,Business,United States,Logistics,0,0,1,1,1,1,0,1,80.0,34,Moderate,1,Approved,2025-11-07,2026-11-07,Adverse Media
+CUST10870,Individual,United Arab Emirates,Finance,0,0,0,1,1,1,1,1,100.0,25,Low,0,Approved,2025-01-03,2027-01-03,High-Risk Geography
+CUST10871,Individual,United Kingdom,Healthcare,1,0,0,1,1,1,1,1,100.0,38,Moderate,1,Approved,2025-12-22,2026-12-22,PEP
+CUST10872,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,10,Low,0,Periodic Review,2025-07-23,2027-07-23,Standard Risk
+CUST10873,Individual,India,Technology,0,0,0,1,1,1,1,0,80.0,20,Low,0,Approved,2025-04-27,2027-04-27,KYC Documentation
+CUST10874,Individual,India,Consulting,0,0,0,1,1,1,0,1,80.0,15,Low,0,Approved,2025-09-09,2027-09-09,KYC Documentation
+CUST10875,Individual,India,Technology,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2025-06-30,2027-06-30,Standard Risk
+CUST10876,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2026-01-29,2028-01-29,Standard Risk
+CUST10877,Individual,United States,Hospitality,0,0,0,1,1,0,1,1,80.0,23,Low,0,Periodic Review,2025-08-17,2027-08-17,KYC Documentation
+CUST10878,Individual,Iran,Technology,0,0,0,1,1,1,1,1,100.0,30,Moderate,0,Approved,2026-01-30,2027-01-30,High-Risk Geography
+CUST10879,Individual,United Arab Emirates,Finance,0,0,0,1,1,1,1,1,100.0,27,Low,0,Approved,2026-05-26,2028-05-25,High-Risk Geography
+CUST10880,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2025-03-22,2027-03-22,Standard Risk
+CUST10881,Individual,United States,Retail,0,0,0,0,1,1,1,1,80.0,20,Low,0,Periodic Review,2024-11-04,2026-11-04,Source of Wealth
+CUST10882,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,16,Low,0,Periodic Review,2025-03-22,2027-03-22,Standard Risk
+CUST10883,Individual,Brazil,Construction,0,0,0,0,1,1,1,1,80.0,22,Low,0,Approved,2024-09-21,2026-09-21,Source of Wealth
+CUST10884,Business,United Kingdom,Real Estate,0,0,1,1,1,0,1,0,60.0,46,Moderate,1,Pending Documents,2024-12-20,2025-12-20,Adverse Media
+CUST10885,Individual,United Kingdom,Finance,0,0,1,1,1,1,1,0,80.0,34,Moderate,1,Approved,2025-03-15,2026-03-15,Adverse Media
+CUST10886,Individual,United States,Technology,0,0,0,1,1,0,0,1,60.0,24,Low,0,Remediation,2025-02-24,2027-02-24,KYC Documentation
+CUST10887,Individual,Mexico,Hospitality,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2025-03-01,2027-03-01,Standard Risk
+CUST10888,Individual,China,Finance,0,0,0,0,1,1,1,1,80.0,22,Low,0,Approved,2025-10-08,2027-10-08,Source of Wealth
+CUST10889,Individual,United States,Healthcare,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2026-03-20,2028-03-19,Standard Risk
+CUST10890,Business,United Arab Emirates,Retail,0,0,0,1,1,1,1,1,100.0,29,Low,0,Approved,2026-05-08,2028-05-07,High-Risk Geography
+CUST10891,Business,Russia,Consulting,0,0,0,1,1,0,1,1,80.0,35,Moderate,0,Approved,2026-04-04,2027-04-04,High-Risk Geography
+CUST10892,Business,United States,FinTech,0,0,1,1,1,1,1,1,100.0,26,Low,1,Approved,2025-04-01,2027-04-01,Adverse Media
+CUST10893,Individual,United Kingdom,Education,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2026-07-31,2028-07-30,Standard Risk
+CUST10894,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2024-11-13,2026-11-13,Standard Risk
+CUST10895,Individual,China,Education,0,0,0,1,1,1,1,0,80.0,18,Low,0,Approved,2025-11-12,2027-11-12,KYC Documentation
+CUST10896,Individual,Canada,Retail,0,0,0,0,1,1,1,1,80.0,22,Low,0,Approved,2024-10-12,2026-10-12,Source of Wealth
+CUST10897,Business,Mexico,Consulting,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2026-03-08,2028-03-07,Standard Risk
+CUST10898,Individual,China,Finance,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2026-07-02,2028-07-01,Standard Risk
+CUST10899,Individual,United States,Healthcare,0,0,0,1,1,0,0,0,40.0,38,Moderate,0,Remediation,2025-01-20,2026-01-20,KYC Documentation
+CUST10900,Individual,Brazil,Retail,0,0,0,1,1,0,1,1,80.0,24,Low,0,Periodic Review,2025-07-12,2027-07-12,KYC Documentation
+CUST10901,Individual,United Kingdom,Technology,0,0,0,1,1,0,1,1,80.0,26,Low,0,Approved,2025-08-14,2027-08-14,KYC Documentation
+CUST10902,Individual,United States,Healthcare,0,0,0,1,1,1,1,0,80.0,19,Low,0,Approved,2025-01-11,2027-01-11,KYC Documentation
+CUST10903,Individual,Nigeria,Technology,0,0,0,0,1,1,1,1,80.0,35,Moderate,0,Approved,2024-09-28,2025-09-28,High-Risk Geography
+CUST10904,Individual,China,Healthcare,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2026-08-25,2028-08-24,Standard Risk
+CUST10905,Business,United States,Consulting,0,0,0,1,0,1,1,1,80.0,25,Low,0,Approved,2026-06-08,2028-06-07,KYC Documentation
+CUST10906,Business,India,Import/Export,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2025-07-30,2027-07-30,Standard Risk
+CUST10907,Individual,Brazil,Retail,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2025-08-04,2027-08-04,Standard Risk
+CUST10908,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2026-07-16,2028-07-15,Standard Risk
+CUST10909,Individual,Iran,Hospitality,0,0,0,1,1,1,1,1,100.0,31,Moderate,0,Approved,2025-09-25,2026-09-25,High-Risk Geography
+CUST10910,Individual,United States,Healthcare,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2025-04-21,2027-04-21,Standard Risk
+CUST10911,Individual,United States,Finance,0,0,1,1,1,1,1,1,100.0,29,Low,1,Approved,2025-01-03,2027-01-03,Adverse Media
+CUST10912,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2025-05-11,2027-05-11,Standard Risk
+CUST10913,Individual,Brazil,Technology,0,0,0,1,1,1,1,0,80.0,14,Low,0,Approved,2025-07-02,2027-07-02,KYC Documentation
+CUST10914,Individual,Mexico,Technology,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2025-07-02,2027-07-02,Standard Risk
+CUST10915,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2025-04-04,2027-04-04,Standard Risk
+CUST10916,Individual,United States,Healthcare,0,0,0,1,1,1,0,1,80.0,14,Low,0,Approved,2026-04-25,2028-04-24,KYC Documentation
+CUST10917,Business,Canada,FinTech,0,0,1,1,1,1,1,1,100.0,30,Moderate,1,Approved,2025-12-26,2026-12-26,Adverse Media
+CUST10918,Business,United States,FinTech,0,0,0,1,1,1,1,0,80.0,14,Low,0,Approved,2026-04-23,2028-04-22,KYC Documentation
+CUST10919,Individual,Brazil,Construction,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2024-10-12,2026-10-12,Standard Risk
+CUST10920,Business,China,Import/Export,0,0,1,1,1,1,1,1,100.0,33,Moderate,1,Periodic Review,2025-10-13,2026-10-13,Adverse Media
+CUST10921,Individual,United Kingdom,Consulting,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2025-03-07,2027-03-07,Standard Risk
+CUST10922,Business,Russia,Real Estate,0,0,0,0,1,1,1,1,80.0,40,Moderate,0,Periodic Review,2026-06-27,2027-06-27,High-Risk Geography
+CUST10923,Business,United States,FinTech,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2024-09-13,2026-09-13,Standard Risk
+CUST10924,Individual,Iran,Education,0,0,0,1,1,1,1,1,100.0,24,Low,0,Periodic Review,2026-05-23,2028-05-22,High-Risk Geography
+CUST10925,Individual,Mexico,Retail,0,0,0,0,1,1,1,1,80.0,20,Low,0,Approved,2026-08-01,2028-07-31,Source of Wealth
+CUST10926,Individual,Mexico,Education,0,0,0,0,1,1,1,1,80.0,18,Low,0,Periodic Review,2026-02-22,2028-02-22,Source of Wealth
+CUST10927,Individual,United States,Consulting,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2025-01-31,2027-01-31,Standard Risk
+CUST10928,Individual,Brazil,Finance,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2025-07-13,2027-07-13,Standard Risk
+CUST10929,Individual,United States,Consulting,0,0,0,1,1,0,1,1,80.0,18,Low,0,Approved,2024-09-17,2026-09-17,KYC Documentation
+CUST10930,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2025-04-19,2027-04-19,Standard Risk
+CUST10931,Business,United States,Consulting,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2025-01-14,2027-01-14,Standard Risk
+CUST10932,Business,United Kingdom,Consulting,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2026-07-17,2028-07-16,Standard Risk
+CUST10933,Individual,United Kingdom,Retail,0,0,0,1,1,0,1,1,80.0,26,Low,0,Approved,2026-06-04,2028-06-03,KYC Documentation
+CUST10934,Individual,Nigeria,Healthcare,0,0,1,1,1,1,1,1,100.0,46,Moderate,1,Approved,2024-10-03,2025-10-03,Adverse Media
+CUST10935,Individual,Brazil,Finance,0,0,0,0,1,1,1,1,80.0,26,Low,0,Approved,2025-08-22,2027-08-22,Source of Wealth
+CUST10936,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2024-09-30,2026-09-30,Standard Risk
+CUST10937,Business,Nigeria,Consulting,0,0,0,1,1,1,1,0,80.0,36,Moderate,0,Approved,2025-12-29,2026-12-29,High-Risk Geography
+CUST10938,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,14,Low,0,Periodic Review,2025-02-20,2027-02-20,Standard Risk
+CUST10939,Individual,India,Hospitality,0,0,0,1,1,1,1,1,100.0,8,Low,0,Periodic Review,2025-12-18,2027-12-18,Standard Risk
+CUST10940,Individual,China,Hospitality,0,0,0,0,1,1,1,1,80.0,21,Low,0,Periodic Review,2025-09-14,2027-09-14,Source of Wealth
+CUST10941,Individual,United Kingdom,Hospitality,0,0,0,1,1,1,1,1,100.0,16,Low,0,Periodic Review,2025-02-05,2027-02-05,Standard Risk
+CUST10942,Individual,Nigeria,Hospitality,0,0,0,1,1,1,1,0,80.0,38,Moderate,0,Approved,2026-05-19,2027-05-19,High-Risk Geography
+CUST10943,Business,United States,FinTech,0,1,0,1,1,1,1,1,100.0,50,Moderate,1,Restricted,2025-09-29,2026-09-29,Sanctions
+CUST10944,Individual,United States,Consulting,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2025-03-24,2027-03-24,Standard Risk
+CUST10945,Individual,China,Education,0,0,0,0,1,1,1,1,80.0,18,Low,0,Approved,2025-11-04,2027-11-04,Source of Wealth
+CUST10946,Individual,United States,Education,0,0,0,1,1,1,0,1,80.0,23,Low,0,Approved,2026-06-16,2028-06-15,KYC Documentation
+CUST10947,Business,United States,Manufacturing,0,0,0,1,1,1,0,1,80.0,17,Low,0,Approved,2025-04-08,2027-04-08,KYC Documentation
+CUST10948,Business,United Kingdom,Retail,0,1,0,1,1,1,1,1,100.0,45,Moderate,1,Escalated,2026-01-14,2027-01-14,Sanctions
+CUST10949,Individual,China,Hospitality,0,0,0,1,1,1,1,0,80.0,18,Low,0,Approved,2024-10-22,2026-10-22,KYC Documentation
+CUST10950,Individual,United States,Healthcare,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2025-01-31,2027-01-31,Standard Risk
+CUST10951,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2026-07-31,2028-07-30,Standard Risk
+CUST10952,Individual,Nigeria,Hospitality,0,0,0,0,1,1,1,1,80.0,35,Moderate,0,Approved,2025-01-01,2026-01-01,High-Risk Geography
+CUST10953,Business,China,Consulting,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2026-07-05,2028-07-04,Standard Risk
+CUST10954,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2026-05-20,2028-05-19,Standard Risk
+CUST10955,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2025-10-24,2027-10-24,Standard Risk
+CUST10956,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2024-11-24,2026-11-24,Standard Risk
+CUST10957,Individual,United States,Consulting,0,0,0,1,1,1,1,1,100.0,9,Low,0,Periodic Review,2024-09-02,2026-09-02,Standard Risk
+CUST10958,Individual,United States,Technology,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2026-06-26,2028-06-25,Standard Risk
+CUST10959,Business,United Arab Emirates,Logistics,1,0,1,1,1,1,1,1,100.0,66,High,1,Periodic Review,2024-10-11,2025-04-09,PEP
+CUST10960,Individual,Mexico,Finance,0,0,0,1,1,1,1,0,80.0,22,Low,0,Approved,2025-08-23,2027-08-23,KYC Documentation
+CUST10961,Individual,Canada,Consulting,0,0,0,0,1,1,1,0,60.0,32,Moderate,0,Remediation,2026-01-09,2027-01-09,Source of Wealth
+CUST10962,Individual,United States,Hospitality,0,0,1,1,1,1,1,1,100.0,31,Moderate,1,Approved,2024-11-27,2025-11-27,Adverse Media
+CUST10963,Individual,India,Construction,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2026-05-12,2028-05-11,Standard Risk
+CUST10964,Individual,United States,Retail,0,0,0,1,1,0,1,0,60.0,32,Moderate,0,Remediation,2025-08-08,2026-08-08,KYC Documentation
+CUST10965,Individual,Russia,Construction,0,0,0,1,1,1,1,1,100.0,26,Low,0,Approved,2025-07-20,2027-07-20,High-Risk Geography
+CUST10966,Individual,Mexico,Technology,0,0,0,0,1,1,1,1,80.0,25,Low,0,Approved,2026-07-09,2028-07-08,Source of Wealth
+CUST10967,Individual,United States,Finance,0,0,0,1,1,1,0,1,80.0,18,Low,0,Approved,2026-01-05,2028-01-05,KYC Documentation
+CUST10968,Individual,Mexico,Retail,0,0,0,1,1,1,0,1,80.0,21,Low,0,Approved,2025-11-10,2027-11-10,KYC Documentation
+CUST10969,Individual,United States,Healthcare,0,0,0,1,1,1,0,1,80.0,15,Low,0,Periodic Review,2026-05-12,2028-05-11,KYC Documentation
+CUST10970,Individual,Mexico,Hospitality,0,0,0,1,1,1,0,1,80.0,20,Low,0,Approved,2026-06-05,2028-06-04,KYC Documentation
+CUST10971,Business,United States,Retail,0,0,0,1,0,1,1,1,80.0,25,Low,0,Approved,2025-05-13,2027-05-13,KYC Documentation
+CUST10972,Business,United States,Hospitality,0,0,0,1,0,1,1,1,80.0,23,Low,0,Approved,2025-11-01,2027-11-01,KYC Documentation
+CUST10973,Individual,India,Technology,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2025-10-31,2027-10-31,Standard Risk
+CUST10974,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,14,Low,0,Periodic Review,2025-11-15,2027-11-15,Standard Risk
+CUST10975,Individual,India,Hospitality,0,0,0,1,1,1,1,1,100.0,15,Low,0,Periodic Review,2026-02-05,2028-02-05,Standard Risk
+CUST10976,Individual,United States,Consulting,0,0,0,1,1,1,1,0,80.0,13,Low,0,Approved,2025-01-27,2027-01-27,KYC Documentation
+CUST10977,Individual,Mexico,Finance,0,0,0,1,1,1,1,0,80.0,15,Low,0,Approved,2025-08-27,2027-08-27,KYC Documentation
+CUST10978,Individual,Nigeria,Consulting,1,0,0,0,1,1,1,1,80.0,60,High,1,Approved,2026-01-24,2026-07-23,PEP
+CUST10979,Individual,United Kingdom,Hospitality,0,0,0,0,1,1,1,1,80.0,23,Low,0,Approved,2026-01-13,2028-01-13,Source of Wealth
+CUST10980,Individual,United States,Education,0,0,0,0,1,1,1,1,80.0,20,Low,0,Approved,2025-09-17,2027-09-17,Source of Wealth
+CUST10981,Business,United States,FinTech,0,0,0,0,1,1,1,1,80.0,21,Low,0,Periodic Review,2025-12-20,2027-12-20,Source of Wealth
+CUST10982,Individual,United States,Healthcare,0,0,1,0,1,1,1,0,60.0,45,Moderate,1,Pending Documents,2025-06-06,2026-06-06,Adverse Media
+CUST10983,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2026-04-12,2028-04-11,Standard Risk
+CUST10984,Business,Mexico,Retail,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2026-06-24,2028-06-23,Standard Risk
+CUST10985,Individual,Turkey,Consulting,1,0,0,0,1,1,1,1,80.0,60,High,1,Periodic Review,2026-06-04,2026-12-01,PEP
+CUST10986,Individual,India,Healthcare,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2026-04-18,2028-04-17,Standard Risk
+CUST10987,Individual,United Arab Emirates,Retail,0,0,0,1,1,1,1,0,80.0,38,Moderate,0,Approved,2024-11-15,2025-11-15,High-Risk Geography
+CUST10988,Individual,China,Finance,0,1,0,1,1,1,1,1,100.0,51,Moderate,1,EDD Review,2024-10-02,2025-10-02,Sanctions
+CUST10989,Business,Mexico,Real Estate,0,0,0,1,1,1,1,0,80.0,22,Low,0,Approved,2025-03-27,2027-03-27,KYC Documentation
+CUST10990,Business,United States,Manufacturing,0,0,1,1,1,1,1,1,100.0,33,Moderate,1,Approved,2024-11-10,2025-11-10,Adverse Media
+CUST10991,Individual,Brazil,Technology,0,0,0,1,1,1,0,1,80.0,19,Low,0,Approved,2025-06-16,2027-06-16,KYC Documentation
+CUST10992,Individual,Mexico,Hospitality,0,0,0,1,1,1,1,0,80.0,22,Low,0,Approved,2026-07-25,2028-07-24,KYC Documentation
+CUST10993,Individual,Canada,Education,0,0,0,1,1,1,1,0,80.0,15,Low,0,Approved,2026-02-05,2028-02-05,KYC Documentation
+CUST10994,Individual,United States,Consulting,0,0,1,1,1,1,1,1,100.0,27,Low,1,Approved,2026-02-03,2028-02-03,Adverse Media
+CUST10995,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2025-04-06,2027-04-06,Standard Risk
+CUST10996,Business,United States,Hospitality,0,0,0,1,0,1,1,1,80.0,24,Low,0,Approved,2025-09-06,2027-09-06,KYC Documentation
+CUST10997,Individual,India,Education,0,0,1,1,1,1,1,1,100.0,35,Moderate,1,Approved,2025-02-01,2026-02-01,Adverse Media
+CUST10998,Business,United Kingdom,Logistics,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2026-08-31,2028-08-30,Standard Risk
+CUST10999,Individual,United States,Hospitality,0,0,0,0,1,1,1,0,60.0,28,Low,0,Remediation,2025-08-16,2027-08-16,Source of Wealth
+CUST11000,Individual,Russia,Construction,0,0,0,1,1,1,1,1,100.0,30,Moderate,0,Approved,2025-03-13,2026-03-13,High-Risk Geography
+CUST11001,Individual,United States,Education,0,0,0,1,1,1,1,0,80.0,21,Low,0,Periodic Review,2025-08-03,2027-08-03,KYC Documentation
+CUST11002,Business,United States,Manufacturing,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2026-07-13,2028-07-12,Standard Risk
+CUST11003,Business,United States,FinTech,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2025-08-01,2027-08-01,Standard Risk
+CUST11004,Business,Nigeria,Real Estate,0,0,0,1,0,1,1,0,60.0,42,Moderate,0,Pending Documents,2026-07-31,2027-07-31,High-Risk Geography
+CUST11005,Individual,Brazil,Education,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2025-03-05,2027-03-05,Standard Risk
+CUST11006,Individual,United States,Technology,0,0,0,0,1,1,1,1,80.0,18,Low,0,Approved,2024-09-19,2026-09-19,Source of Wealth
+CUST11007,Business,India,Logistics,0,0,0,0,1,1,0,1,60.0,29,Low,0,Remediation,2026-01-10,2028-01-10,Source of Wealth
+CUST11008,Individual,United States,Construction,1,0,0,1,1,1,0,1,80.0,44,Moderate,1,Approved,2026-08-06,2027-08-06,PEP
+CUST11009,Individual,Brazil,Construction,0,0,0,0,1,1,1,1,80.0,27,Low,0,Approved,2025-02-24,2027-02-24,Source of Wealth
+CUST11010,Individual,United Arab Emirates,Education,0,0,0,1,1,1,1,1,100.0,32,Moderate,0,Periodic Review,2025-06-24,2026-06-24,High-Risk Geography
+CUST11011,Business,China,Manufacturing,0,1,0,1,1,1,1,1,100.0,49,Moderate,1,EDD Review,2026-07-02,2027-07-02,Sanctions
+CUST11012,Business,United States,Manufacturing,0,0,0,0,1,1,1,1,80.0,24,Low,0,Approved,2025-02-25,2027-02-25,Source of Wealth
+CUST11013,Individual,Russia,Consulting,0,0,0,1,1,1,1,1,100.0,31,Moderate,0,Periodic Review,2025-06-17,2026-06-17,High-Risk Geography
+CUST11014,Individual,Nigeria,Hospitality,0,0,0,1,1,1,1,1,100.0,33,Moderate,0,Approved,2026-04-24,2027-04-24,High-Risk Geography
+CUST11015,Business,United States,Manufacturing,0,0,0,1,0,1,1,1,80.0,18,Low,0,Approved,2025-09-12,2027-09-12,KYC Documentation
+CUST11016,Individual,China,Construction,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2026-02-15,2028-02-15,Standard Risk
+CUST11017,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,12,Low,0,Periodic Review,2024-11-07,2026-11-07,Standard Risk
+CUST11018,Business,India,Consulting,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2024-09-15,2026-09-15,Standard Risk
+CUST11019,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2024-10-07,2026-10-07,Standard Risk
+CUST11020,Individual,Nigeria,Finance,0,0,0,1,1,1,1,1,100.0,26,Low,0,Approved,2025-08-26,2027-08-26,High-Risk Geography
+CUST11021,Individual,United Kingdom,Consulting,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2024-09-12,2026-09-12,Standard Risk
+CUST11022,Business,United States,Manufacturing,0,0,1,0,1,1,1,1,80.0,45,Moderate,1,Approved,2026-04-07,2027-04-07,Adverse Media
+CUST11023,Business,United States,Logistics,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2024-09-15,2026-09-15,Standard Risk
+CUST11024,Business,United States,Manufacturing,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2025-04-21,2027-04-21,Standard Risk
+CUST11025,Individual,United States,Retail,0,0,0,1,1,1,1,0,80.0,13,Low,0,Approved,2026-07-15,2028-07-14,KYC Documentation
+CUST11026,Business,United States,FinTech,0,0,0,1,1,1,1,0,80.0,15,Low,0,Approved,2024-11-19,2026-11-19,KYC Documentation
+CUST11027,Business,Canada,FinTech,0,0,1,0,1,1,1,1,80.0,36,Moderate,1,Approved,2026-03-13,2027-03-13,Adverse Media
+CUST11028,Individual,United States,Construction,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2024-12-27,2026-12-27,Standard Risk
+CUST11029,Business,United States,Import/Export,0,0,0,1,1,1,0,1,80.0,16,Low,0,Approved,2024-10-02,2026-10-02,KYC Documentation
+CUST11030,Individual,United Arab Emirates,Hospitality,0,1,0,1,1,1,1,1,100.0,63,High,1,Escalated,2025-10-21,2026-04-19,Sanctions
+CUST11031,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2025-08-21,2027-08-21,Standard Risk
+CUST11032,Individual,Brazil,Hospitality,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2025-03-17,2027-03-17,Standard Risk
+CUST11033,Individual,India,Technology,0,0,0,1,1,1,1,0,80.0,22,Low,0,Approved,2025-07-08,2027-07-08,KYC Documentation
+CUST11034,Individual,Mexico,Education,0,0,0,0,1,1,1,0,60.0,32,Moderate,0,Remediation,2025-08-01,2026-08-01,Source of Wealth
+CUST11035,Individual,Canada,Education,1,0,0,1,1,1,1,1,100.0,38,Moderate,1,Approved,2025-03-28,2026-03-28,PEP
+CUST11036,Individual,Brazil,Hospitality,0,0,0,1,1,1,1,1,100.0,8,Low,0,Periodic Review,2026-02-26,2028-02-26,Standard Risk
+CUST11037,Business,United States,Manufacturing,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2024-11-25,2026-11-25,Standard Risk
+CUST11038,Individual,United States,Healthcare,0,0,0,1,1,1,0,1,80.0,22,Low,0,Periodic Review,2026-07-30,2028-07-29,KYC Documentation
+CUST11039,Individual,United States,Construction,0,0,0,0,1,1,1,1,80.0,22,Low,0,Approved,2026-06-24,2028-06-23,Source of Wealth
+CUST11040,Individual,China,Construction,0,0,0,1,1,1,0,1,80.0,23,Low,0,Approved,2025-01-17,2027-01-17,KYC Documentation
+CUST11041,Business,United States,Real Estate,0,0,0,1,0,1,1,1,80.0,18,Low,0,Approved,2026-02-22,2028-02-22,KYC Documentation
+CUST11042,Individual,Canada,Technology,0,0,0,0,1,1,1,1,80.0,22,Low,0,Approved,2026-05-23,2028-05-22,Source of Wealth
+CUST11043,Individual,Iran,Consulting,0,0,0,1,1,1,1,1,100.0,24,Low,0,Approved,2025-05-04,2027-05-04,High-Risk Geography
+CUST11044,Business,India,Consulting,0,0,1,1,1,1,1,1,100.0,34,Moderate,1,Approved,2025-11-20,2026-11-20,Adverse Media
+CUST11045,Individual,United Kingdom,Finance,0,0,0,1,1,1,0,1,80.0,23,Low,0,Approved,2025-08-07,2027-08-07,KYC Documentation
+CUST11046,Individual,United States,Construction,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2025-02-13,2027-02-13,Standard Risk
+CUST11047,Individual,India,Technology,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2026-03-25,2028-03-24,Standard Risk
+CUST11048,Business,Canada,Retail,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2025-02-24,2027-02-24,Standard Risk
+CUST11049,Individual,United States,Consulting,0,0,0,1,1,1,1,1,100.0,16,Low,0,Periodic Review,2026-07-16,2028-07-15,Standard Risk
+CUST11050,Business,United States,Logistics,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2026-03-26,2028-03-25,Standard Risk
+CUST11051,Individual,Brazil,Hospitality,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2025-06-12,2027-06-12,Standard Risk
+CUST11052,Business,Mexico,Real Estate,0,0,1,0,0,1,1,1,60.0,50,Moderate,1,Remediation,2024-10-05,2025-10-05,Adverse Media
+CUST11053,Business,China,Logistics,0,0,0,1,0,1,1,1,80.0,20,Low,0,Periodic Review,2025-03-27,2027-03-27,KYC Documentation
+CUST11054,Business,India,Consulting,0,0,0,1,1,1,1,0,80.0,13,Low,0,Approved,2024-11-04,2026-11-04,KYC Documentation
+CUST11055,Individual,Canada,Consulting,0,0,0,1,1,1,1,1,100.0,14,Low,0,Periodic Review,2026-03-30,2028-03-29,Standard Risk
+CUST11056,Business,United Kingdom,Hospitality,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2025-09-27,2027-09-27,Standard Risk
+CUST11057,Individual,United States,Construction,0,0,0,1,1,1,1,0,80.0,20,Low,0,Approved,2025-09-01,2027-09-01,KYC Documentation
+CUST11058,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2024-10-02,2026-10-02,Standard Risk
+CUST11059,Individual,United States,Construction,0,0,1,1,1,1,1,1,100.0,30,Moderate,1,Approved,2025-02-04,2026-02-04,Adverse Media
+CUST11060,Business,United Arab Emirates,Hospitality,0,0,1,0,1,1,1,1,80.0,59,Moderate,1,Approved,2026-04-06,2027-04-06,Adverse Media
+CUST11061,Business,Canada,Manufacturing,0,0,0,1,0,0,0,1,40.0,33,Moderate,0,Remediation,2026-04-10,2027-04-10,KYC Documentation
+CUST11062,Business,Brazil,Hospitality,0,0,0,1,1,1,1,1,100.0,8,Low,0,Periodic Review,2026-05-21,2028-05-20,Standard Risk
+CUST11063,Individual,United States,Consulting,0,0,0,0,1,1,1,1,80.0,24,Low,0,Approved,2026-05-31,2028-05-30,Source of Wealth
+CUST11064,Individual,Canada,Finance,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2025-11-19,2027-11-19,Standard Risk
+CUST11065,Business,Mexico,Hospitality,0,0,0,0,1,1,1,1,80.0,22,Low,0,Periodic Review,2025-07-04,2027-07-04,Source of Wealth
+CUST11066,Individual,Canada,Hospitality,0,0,0,1,1,0,0,1,60.0,28,Low,0,Remediation,2026-05-05,2028-05-04,KYC Documentation
+CUST11067,Individual,Nigeria,Healthcare,0,0,0,1,1,1,0,1,80.0,38,Moderate,0,Periodic Review,2026-08-03,2027-08-03,High-Risk Geography
+CUST11068,Individual,United States,Healthcare,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2025-04-08,2027-04-08,Standard Risk
+CUST11069,Individual,United Kingdom,Consulting,0,0,0,1,1,1,1,1,100.0,15,Low,0,Periodic Review,2026-08-02,2028-08-01,Standard Risk
+CUST11070,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,9,Low,0,Approved,2025-08-31,2027-08-31,Standard Risk
+CUST11071,Individual,United States,Healthcare,0,0,0,0,1,1,1,1,80.0,24,Low,0,Approved,2026-04-16,2028-04-15,Source of Wealth
+CUST11072,Individual,United Kingdom,Hospitality,0,0,0,0,1,1,1,1,80.0,23,Low,0,Approved,2025-05-14,2027-05-14,Source of Wealth
+CUST11073,Individual,Mexico,Construction,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2025-02-15,2027-02-15,Standard Risk
+CUST11074,Business,Russia,FinTech,0,0,0,1,1,0,1,1,80.0,35,Moderate,0,Approved,2025-08-05,2026-08-05,High-Risk Geography
+CUST11075,Individual,Canada,Technology,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2025-06-23,2027-06-23,Standard Risk
+CUST11076,Individual,United Arab Emirates,Finance,0,0,0,1,1,1,1,1,100.0,27,Low,0,Periodic Review,2026-01-10,2028-01-10,High-Risk Geography
+CUST11077,Individual,United Kingdom,Consulting,1,0,0,1,1,1,1,1,100.0,36,Moderate,1,Periodic Review,2026-07-08,2027-07-08,PEP
+CUST11078,Individual,Mexico,Healthcare,0,0,0,1,1,1,1,1,100.0,15,Low,0,Periodic Review,2025-11-13,2027-11-13,Standard Risk
+CUST11079,Business,United States,Retail,0,0,0,0,0,1,1,1,60.0,28,Low,0,Pending Documents,2025-10-24,2027-10-24,Source of Wealth
+CUST11080,Business,United States,Logistics,0,0,0,1,0,1,1,1,80.0,24,Low,0,Approved,2025-03-02,2027-03-02,KYC Documentation
+CUST11081,Individual,United States,Technology,0,0,0,1,1,1,1,1,100.0,16,Low,0,Periodic Review,2026-06-04,2028-06-03,Standard Risk
+CUST11082,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,14,Low,0,Periodic Review,2026-02-01,2028-02-01,Standard Risk
+CUST11083,Business,United States,Retail,0,1,0,1,1,1,0,1,80.0,49,Moderate,1,EDD Review,2025-10-18,2026-10-18,Sanctions
+CUST11084,Business,United States,Manufacturing,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2025-05-24,2027-05-24,Standard Risk
+CUST11085,Individual,United States,Hospitality,0,0,0,1,1,1,1,0,80.0,20,Low,0,Periodic Review,2026-06-06,2028-06-05,KYC Documentation
+CUST11086,Individual,Russia,Technology,0,0,0,1,1,1,1,1,100.0,28,Low,0,Approved,2025-07-19,2027-07-19,High-Risk Geography
+CUST11087,Individual,United States,Finance,0,0,0,0,1,1,1,1,80.0,19,Low,0,Approved,2026-01-04,2028-01-04,Source of Wealth
+CUST11088,Business,United Kingdom,Manufacturing,0,0,0,0,0,1,1,1,60.0,31,Moderate,0,Remediation,2024-10-01,2025-10-01,Source of Wealth
+CUST11089,Individual,United States,Education,1,0,0,1,1,1,1,1,100.0,37,Moderate,1,Approved,2026-07-06,2027-07-06,PEP
+CUST11090,Business,Canada,Manufacturing,0,0,0,1,1,1,1,1,100.0,9,Low,0,Periodic Review,2026-05-11,2028-05-10,Standard Risk
+CUST11091,Individual,United States,Technology,0,0,1,1,1,0,0,1,60.0,42,Moderate,1,Remediation,2026-06-23,2027-06-23,Adverse Media
+CUST11092,Individual,United States,Technology,0,0,0,0,1,1,1,1,80.0,21,Low,0,Approved,2024-10-09,2026-10-09,Source of Wealth
+CUST11093,Individual,United Kingdom,Hospitality,0,0,0,1,1,1,1,0,80.0,16,Low,0,Approved,2026-03-01,2028-02-29,KYC Documentation
+CUST11094,Individual,United States,Technology,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2024-09-28,2026-09-28,Standard Risk
+CUST11095,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2025-11-29,2027-11-29,Standard Risk
+CUST11096,Individual,United States,Retail,0,0,0,1,1,1,0,1,80.0,17,Low,0,Approved,2026-01-11,2028-01-11,KYC Documentation
+CUST11097,Individual,United States,Technology,0,0,0,1,1,1,1,0,80.0,15,Low,0,Periodic Review,2026-07-09,2028-07-08,KYC Documentation
+CUST11098,Business,United States,Retail,0,0,0,0,1,1,1,1,80.0,19,Low,0,Approved,2025-12-18,2027-12-18,Source of Wealth
+CUST11099,Individual,United States,Hospitality,1,0,0,1,1,1,1,1,100.0,33,Moderate,1,Approved,2026-06-03,2027-06-03,PEP
+CUST11100,Individual,China,Consulting,0,0,0,1,1,1,0,1,80.0,21,Low,0,Periodic Review,2024-11-07,2026-11-07,KYC Documentation
+CUST11101,Business,Canada,Consulting,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2025-06-23,2027-06-23,Standard Risk
+CUST11102,Business,United Kingdom,Logistics,0,0,1,1,1,1,1,1,100.0,33,Moderate,1,Approved,2024-12-15,2025-12-15,Adverse Media
+CUST11103,Business,United States,Hospitality,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2025-07-20,2027-07-20,Standard Risk
+CUST11104,Business,Turkey,Consulting,0,0,0,0,1,1,1,1,80.0,36,Moderate,0,Approved,2025-12-06,2026-12-06,High-Risk Geography
+CUST11105,Individual,United States,Hospitality,0,0,0,1,1,1,1,1,100.0,17,Low,0,Periodic Review,2024-11-01,2026-11-01,Standard Risk
+CUST11106,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,17,Low,0,Periodic Review,2025-08-31,2027-08-31,Standard Risk
+CUST11107,Business,Canada,Hospitality,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2025-09-15,2027-09-15,Standard Risk
+CUST11108,Individual,United States,Technology,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2025-11-06,2027-11-06,Standard Risk
+CUST11109,Individual,United States,Hospitality,0,0,0,1,1,1,0,1,80.0,14,Low,0,Approved,2026-03-26,2028-03-25,KYC Documentation
+CUST11110,Business,United Kingdom,Real Estate,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2025-05-02,2027-05-02,Standard Risk
+CUST11111,Individual,India,Healthcare,0,0,1,1,1,1,1,1,100.0,30,Moderate,1,Approved,2025-03-24,2026-03-24,Adverse Media
+CUST11112,Individual,United Kingdom,Hospitality,0,0,0,0,1,1,1,0,60.0,30,Moderate,0,Remediation,2025-09-11,2026-09-11,Source of Wealth
+CUST11113,Individual,Nigeria,Education,0,0,0,1,1,1,1,1,100.0,24,Low,0,Approved,2024-12-19,2026-12-19,High-Risk Geography
+CUST11114,Individual,Iran,Construction,0,0,0,1,1,1,1,1,100.0,25,Low,0,Periodic Review,2025-07-27,2027-07-27,High-Risk Geography
+CUST11115,Individual,United States,Technology,0,0,0,1,1,0,1,1,80.0,24,Low,0,Periodic Review,2025-07-23,2027-07-23,KYC Documentation
+CUST11116,Individual,United States,Technology,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2026-05-28,2028-05-27,Standard Risk
+CUST11117,Business,United States,FinTech,1,0,0,1,1,1,1,1,100.0,32,Moderate,1,Approved,2024-09-24,2025-09-24,PEP
+CUST11118,Individual,United States,Finance,0,0,0,1,1,0,1,1,80.0,25,Low,0,Approved,2025-02-08,2027-02-08,KYC Documentation
+CUST11119,Individual,United States,Technology,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2025-08-05,2027-08-05,Standard Risk
+CUST11120,Business,Brazil,Manufacturing,0,0,0,0,1,1,1,1,80.0,26,Low,0,Approved,2025-09-14,2027-09-14,Source of Wealth
+CUST11121,Business,Nigeria,Import/Export,0,0,0,1,1,1,1,0,80.0,30,Moderate,0,Approved,2024-11-04,2025-11-04,High-Risk Geography
+CUST11122,Business,Canada,FinTech,0,0,0,1,1,1,0,0,60.0,20,Low,0,Remediation,2025-02-02,2027-02-02,KYC Documentation
+CUST11123,Business,United States,Manufacturing,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2024-10-31,2026-10-31,Standard Risk
+CUST11124,Individual,China,Construction,0,0,0,0,1,1,1,0,60.0,32,Moderate,0,Remediation,2024-12-07,2025-12-07,Source of Wealth
+CUST11125,Individual,Russia,Retail,0,0,0,1,1,1,1,0,80.0,31,Moderate,0,Approved,2025-11-17,2026-11-17,High-Risk Geography
+CUST11126,Individual,China,Retail,0,0,0,0,1,1,0,1,60.0,27,Low,0,Remediation,2025-03-27,2027-03-27,Source of Wealth
+CUST11127,Individual,United States,Education,0,0,0,1,1,1,0,1,80.0,19,Low,0,Approved,2024-09-05,2026-09-05,KYC Documentation
+CUST11128,Individual,Mexico,Finance,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2026-03-23,2028-03-22,Standard Risk
+CUST11129,Individual,United States,Technology,0,0,1,1,1,1,1,1,100.0,30,Moderate,1,Approved,2024-12-23,2025-12-23,Adverse Media
+CUST11130,Business,United States,Logistics,0,0,0,1,0,1,1,1,80.0,18,Low,0,Approved,2024-11-11,2026-11-11,KYC Documentation
+CUST11131,Individual,United States,Technology,0,0,0,1,1,1,1,1,100.0,10,Low,0,Periodic Review,2026-03-03,2028-03-02,Standard Risk
+CUST11132,Individual,Canada,Retail,0,0,0,1,1,1,0,1,80.0,23,Low,0,Approved,2025-03-01,2027-03-01,KYC Documentation
+CUST11133,Individual,Mexico,Consulting,0,1,0,1,1,1,1,1,100.0,45,Moderate,1,Escalated,2026-06-11,2027-06-11,Sanctions
+CUST11134,Individual,United States,Hospitality,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2025-03-26,2027-03-26,Standard Risk
+CUST11135,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,12,Low,0,Periodic Review,2026-08-28,2028-08-27,Standard Risk
+CUST11136,Business,United States,Hospitality,0,0,0,1,1,1,1,1,100.0,11,Low,0,Periodic Review,2025-04-24,2027-04-24,Standard Risk
+CUST11137,Individual,United States,Consulting,0,0,0,1,1,1,1,0,80.0,20,Low,0,Approved,2025-02-23,2027-02-23,KYC Documentation
+CUST11138,Individual,United States,Technology,0,0,0,1,1,1,0,1,80.0,19,Low,0,Approved,2026-07-12,2028-07-11,KYC Documentation
+CUST11139,Individual,United States,Technology,0,0,0,1,1,1,1,0,80.0,18,Low,0,Approved,2025-12-14,2027-12-14,KYC Documentation
+CUST11140,Business,United Arab Emirates,Manufacturing,0,0,1,1,0,1,0,1,60.0,57,Moderate,1,Pending Documents,2026-04-20,2027-04-20,Adverse Media
+CUST11141,Individual,United States,Healthcare,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2025-01-10,2027-01-10,Standard Risk
+CUST11142,Individual,United States,Hospitality,0,0,0,1,1,1,1,1,100.0,10,Low,0,Periodic Review,2025-09-04,2027-09-04,Standard Risk
+CUST11143,Individual,United States,Retail,1,0,0,1,1,1,1,0,80.0,40,Moderate,1,Approved,2025-02-10,2026-02-10,PEP
+CUST11144,Individual,Turkey,Consulting,0,0,1,1,1,1,1,0,80.0,56,Moderate,1,Approved,2026-01-27,2027-01-27,Adverse Media
+CUST11145,Business,Mexico,Logistics,0,0,0,1,0,1,1,1,80.0,22,Low,0,Periodic Review,2026-06-25,2028-06-24,KYC Documentation
+CUST11146,Business,Mexico,FinTech,0,0,0,1,0,1,1,1,80.0,18,Low,0,Periodic Review,2025-02-22,2027-02-22,KYC Documentation
+CUST11147,Individual,United States,Retail,0,0,0,0,1,1,1,1,80.0,18,Low,0,Approved,2026-04-11,2028-04-10,Source of Wealth
+CUST11148,Business,Canada,FinTech,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2025-09-20,2027-09-20,Standard Risk
+CUST11149,Business,United States,Hospitality,0,0,0,1,1,0,1,1,80.0,22,Low,0,Approved,2025-02-24,2027-02-24,KYC Documentation
+CUST11150,Individual,Mexico,Finance,0,0,0,1,1,1,1,1,100.0,11,Low,0,Approved,2024-11-19,2026-11-19,Standard Risk
+CUST11151,Business,Brazil,Import/Export,0,0,0,0,1,1,1,0,60.0,29,Low,0,Remediation,2025-01-24,2027-01-24,Source of Wealth
+CUST11152,Individual,Canada,Retail,0,0,1,1,1,1,0,0,60.0,40,Moderate,1,Remediation,2026-02-19,2027-02-19,Adverse Media
+CUST11153,Individual,India,Finance,0,0,0,1,1,1,1,1,100.0,15,Low,0,Approved,2024-11-03,2026-11-03,Standard Risk
+CUST11154,Individual,Nigeria,Consulting,0,0,0,1,1,1,1,1,100.0,30,Moderate,0,Approved,2025-12-29,2026-12-29,High-Risk Geography
+CUST11155,Business,United States,Logistics,0,0,0,1,1,1,1,0,80.0,22,Low,0,Approved,2025-10-22,2027-10-22,KYC Documentation
+CUST11156,Individual,Brazil,Healthcare,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2025-08-13,2027-08-13,Standard Risk
+CUST11157,Business,United States,FinTech,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2025-11-28,2027-11-28,Standard Risk
+CUST11158,Business,United Kingdom,Manufacturing,0,0,0,0,1,1,1,1,80.0,22,Low,0,Approved,2026-06-21,2028-06-20,Source of Wealth
+CUST11159,Individual,United States,Healthcare,1,0,0,0,1,1,1,1,80.0,43,Moderate,1,Approved,2026-04-25,2027-04-25,PEP
+CUST11160,Business,United States,Retail,0,0,0,1,1,0,1,1,80.0,23,Low,0,Approved,2025-09-08,2027-09-08,KYC Documentation
+CUST11161,Individual,United States,Hospitality,1,0,0,0,1,1,1,1,80.0,40,Moderate,1,Approved,2024-10-03,2025-10-03,PEP
+CUST11162,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2025-03-25,2027-03-25,Standard Risk
+CUST11163,Business,United Kingdom,Retail,0,0,0,1,1,1,1,0,80.0,13,Low,0,Approved,2026-01-24,2028-01-24,KYC Documentation
+CUST11164,Individual,Canada,Finance,0,0,0,1,1,1,1,1,100.0,8,Low,0,Approved,2026-08-26,2028-08-25,Standard Risk
+CUST11165,Business,United States,FinTech,1,0,0,1,1,1,1,0,80.0,42,Moderate,1,Approved,2024-12-16,2025-12-16,PEP
+CUST11166,Business,United States,Real Estate,0,0,0,1,1,1,1,1,100.0,9,Low,0,Periodic Review,2026-01-16,2028-01-16,Standard Risk
+CUST11167,Individual,United Kingdom,Construction,0,0,0,1,1,1,1,1,100.0,17,Low,0,Periodic Review,2026-08-15,2028-08-14,Standard Risk
+CUST11168,Individual,United States,Technology,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2025-01-24,2027-01-24,Standard Risk
+CUST11169,Individual,Nigeria,Technology,0,0,0,0,1,1,1,1,80.0,39,Moderate,0,Approved,2026-08-20,2027-08-20,High-Risk Geography
+CUST11170,Individual,Mexico,Technology,0,0,0,0,1,1,0,1,60.0,29,Low,0,Remediation,2025-01-11,2027-01-11,Source of Wealth
+CUST11171,Business,India,Manufacturing,0,0,0,1,0,1,1,1,80.0,24,Low,0,Approved,2025-04-20,2027-04-20,KYC Documentation
+CUST11172,Individual,Nigeria,Finance,0,0,0,1,1,1,1,1,100.0,27,Low,0,Approved,2024-10-09,2026-10-09,High-Risk Geography
+CUST11173,Individual,United States,Education,0,0,0,1,1,1,1,1,100.0,10,Low,0,Approved,2024-12-06,2026-12-06,Standard Risk
+CUST11174,Individual,Mexico,Technology,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2024-09-15,2026-09-15,Standard Risk
+CUST11175,Individual,United States,Education,0,0,0,1,1,0,1,1,80.0,21,Low,0,Periodic Review,2025-04-17,2027-04-17,KYC Documentation
+CUST11176,Business,United States,Consulting,0,0,1,1,1,1,1,1,100.0,27,Low,1,Approved,2026-06-23,2028-06-22,Adverse Media
+CUST11177,Individual,China,Consulting,0,0,0,1,1,1,1,1,100.0,13,Low,0,Approved,2026-05-16,2028-05-15,Standard Risk
+CUST11178,Business,United States,Logistics,0,0,0,1,0,1,1,1,80.0,26,Low,0,Approved,2026-02-12,2028-02-12,KYC Documentation
+CUST11179,Individual,China,Consulting,0,0,0,1,1,1,1,1,100.0,12,Low,0,Approved,2026-07-11,2028-07-10,Standard Risk
+CUST11180,Business,China,FinTech,0,0,0,1,1,1,1,0,80.0,21,Low,0,Approved,2025-03-01,2027-03-01,KYC Documentation
+CUST11181,Individual,India,Consulting,0,0,0,1,1,1,0,0,60.0,24,Low,0,Remediation,2024-12-11,2026-12-11,KYC Documentation
+CUST11182,Individual,Brazil,Consulting,0,0,0,1,1,1,1,0,80.0,15,Low,0,Approved,2025-12-16,2027-12-16,KYC Documentation
+CUST11183,Business,United States,Consulting,0,0,0,1,0,1,1,1,80.0,21,Low,0,Approved,2025-05-07,2027-05-07,KYC Documentation
+CUST11184,Individual,United States,Finance,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2025-12-11,2027-12-11,Standard Risk
+CUST11185,Business,Canada,Logistics,0,0,1,1,1,1,1,1,100.0,33,Moderate,1,Approved,2025-11-02,2026-11-02,Adverse Media
+CUST11186,Individual,United States,Retail,0,0,0,1,1,1,1,1,100.0,16,Low,0,Approved,2025-02-02,2027-02-02,Standard Risk
+CUST11187,Individual,Canada,Consulting,0,0,0,1,1,0,1,1,80.0,25,Low,0,Periodic Review,2025-02-24,2027-02-24,KYC Documentation
+CUST11188,Individual,Nigeria,Finance,0,0,0,1,1,1,1,1,100.0,26,Low,0,Approved,2025-02-23,2027-02-23,High-Risk Geography
+CUST11189,Individual,Mexico,Finance,0,0,0,0,1,1,1,1,80.0,26,Low,0,Approved,2026-04-29,2028-04-28,Source of Wealth
+CUST11190,Individual,United States,Healthcare,0,0,0,1,1,1,1,1,100.0,10,Low,0,Periodic Review,2025-12-05,2027-12-05,Standard Risk
+CUST11191,Individual,United States,Technology,1,0,0,0,1,1,1,1,80.0,47,Moderate,1,Approved,2025-05-09,2026-05-09,PEP
+CUST11192,Individual,United States,Retail,0,0,0,1,1,1,1,0,80.0,22,Low,0,Approved,2026-04-22,2028-04-21,KYC Documentation
+CUST11193,Individual,United States,Hospitality,0,0,0,1,1,1,0,1,80.0,22,Low,0,Approved,2026-08-30,2028-08-29,KYC Documentation
+CUST11194,Individual,Brazil,Retail,0,0,0,1,1,1,1,1,100.0,14,Low,0,Approved,2026-05-09,2028-05-08,Standard Risk
+CUST11195,Business,United States,Hospitality,0,0,0,1,1,1,0,1,80.0,17,Low,0,Approved,2025-05-08,2027-05-08,KYC Documentation
+CUST11196,Business,United States,FinTech,0,0,0,1,1,1,1,1,100.0,17,Low,0,Approved,2026-08-31,2028-08-30,Standard Risk
+CUST11197,Business,United States,Logistics,0,0,0,1,1,1,1,1,100.0,16,Low,0,Periodic Review,2025-10-05,2027-10-05,Standard Risk
+CUST11198,Business,Mexico,Hospitality,0,0,1,1,1,1,1,1,100.0,28,Low,1,Approved,2025-02-01,2027-02-01,Adverse Media
+CUST11199,Individual,Mexico,Construction,0,0,1,1,1,1,1,1,100.0,28,Low,1,Approved,2024-12-03,2026-12-03,Adverse Media

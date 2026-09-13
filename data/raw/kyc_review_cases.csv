@@ -1,0 +1,301 @@
+case_id,customer_id,review_reason,created_date,age_days,case_status,risk_score,risk_level,priority
+KYC00001,CUST10001,Source of Wealth,2026-03-07,188,In Review,23,Low,High
+KYC00002,CUST10003,Source of Wealth,2026-03-31,164,Closed,33,Moderate,Low
+KYC00003,CUST10007,Periodic Review,2026-07-19,54,Closed,14,Low,Low
+KYC00004,CUST10008,Periodic Review,2026-03-28,167,Open,10,Low,Medium
+KYC00005,CUST10015,Periodic Review,2026-05-25,109,Closed,16,Low,Low
+KYC00006,CUST10024,Periodic Review,2026-06-03,100,Escalated,13,Low,High
+KYC00007,CUST10027,Source of Wealth,2026-04-07,157,In Review,22,Low,Medium
+KYC00008,CUST10032,Source of Wealth,2026-06-05,98,In Review,27,Low,Low
+KYC00009,CUST10036,Periodic Review,2026-04-11,153,Open,8,Low,Low
+KYC00010,CUST10045,Source of Wealth,2026-06-30,73,Open,27,Low,High
+KYC00011,CUST10052,Periodic Review,2026-05-13,121,Awaiting Customer,15,Low,Low
+KYC00012,CUST10062,Periodic Review,2026-07-20,53,Open,9,Low,High
+KYC00013,CUST10063,Missing ID,2026-04-21,143,Closed,35,Moderate,Low
+KYC00014,CUST10065,Source of Wealth,2026-02-02,221,Closed,24,Low,Medium
+KYC00015,CUST10066,Missing ID,2026-08-14,28,In Review,29,Low,Medium
+KYC00016,CUST10072,Periodic Review,2026-08-03,39,Awaiting Customer,31,Moderate,Medium
+KYC00017,CUST10073,Source of Wealth,2026-06-16,87,Closed,33,Moderate,Low
+KYC00018,CUST10077,Missing ID,2026-01-26,228,Awaiting Customer,50,Moderate,Low
+KYC00019,CUST10081,Missing ID,2026-03-09,186,Closed,71,High,Low
+KYC00020,CUST10082,Source of Wealth,2026-03-11,184,Open,31,Moderate,Low
+KYC00021,CUST10086,UBO Verification,2026-09-06,5,Escalated,30,Moderate,High
+KYC00022,CUST10091,Source of Wealth,2026-02-22,201,In Review,26,Low,Low
+KYC00023,CUST10096,PEP Review,2026-03-22,173,In Review,53,Moderate,Low
+KYC00024,CUST10098,Periodic Review,2026-05-10,124,Escalated,15,Low,Medium
+KYC00025,CUST10104,Source of Wealth,2026-04-16,148,Open,46,Moderate,Medium
+KYC00026,CUST10106,Missing ID,2026-06-26,77,In Review,38,Moderate,Low
+KYC00027,CUST10110,Address Verification,2026-02-23,200,Open,41,Moderate,Medium
+KYC00028,CUST10114,Source of Wealth,2026-06-07,96,Open,42,Moderate,Medium
+KYC00029,CUST10115,Address Verification,2026-05-13,121,In Review,19,Low,Medium
+KYC00030,CUST10116,Source of Wealth,2026-06-21,82,Awaiting Customer,23,Low,Medium
+KYC00031,CUST10119,Periodic Review,2026-03-09,186,In Review,10,Low,Medium
+KYC00032,CUST10121,Periodic Review,2026-08-02,40,Awaiting Customer,10,Low,Low
+KYC00033,CUST10126,Periodic Review,2026-07-05,68,In Review,15,Low,Medium
+KYC00034,CUST10127,Periodic Review,2026-09-01,10,Awaiting Customer,8,Low,High
+KYC00035,CUST10138,Address Verification,2026-04-11,153,Escalated,24,Low,High
+KYC00036,CUST10145,Periodic Review,2026-04-10,154,Escalated,12,Low,Low
+KYC00037,CUST10146,Address Verification,2026-08-07,35,Awaiting Customer,23,Low,High
+KYC00038,CUST10158,Periodic Review,2026-07-21,52,Open,16,Low,Medium
+KYC00039,CUST10159,Periodic Review,2026-07-24,49,Open,17,Low,Medium
+KYC00040,CUST10160,Periodic Review,2026-01-19,235,In Review,16,Low,High
+KYC00041,CUST10161,Periodic Review,2026-01-15,239,Awaiting Customer,16,Low,Medium
+KYC00042,CUST10162,Periodic Review,2026-01-17,237,Escalated,17,Low,Medium
+KYC00043,CUST10165,Periodic Review,2026-01-03,251,Awaiting Customer,17,Low,Low
+KYC00044,CUST10172,Source of Wealth,2026-02-15,208,In Review,30,Moderate,Medium
+KYC00045,CUST10176,Periodic Review,2026-07-14,59,Awaiting Customer,15,Low,High
+KYC00046,CUST10179,Source of Wealth,2026-04-18,146,Closed,23,Low,Low
+KYC00047,CUST10186,Address Verification,2026-05-03,131,Open,44,Moderate,Low
+KYC00048,CUST10189,PEP Review,2026-01-29,225,In Review,45,Moderate,Low
+KYC00049,CUST10191,Source of Wealth,2026-02-08,215,In Review,35,Moderate,Medium
+KYC00050,CUST10199,Periodic Review,2026-08-13,29,Awaiting Customer,24,Low,Low
+KYC00051,CUST10204,Address Verification,2026-07-17,56,Closed,22,Low,Medium
+KYC00052,CUST10205,Adverse Media,2026-02-24,199,Closed,53,Moderate,High
+KYC00053,CUST10211,Periodic Review,2026-05-03,131,Closed,15,Low,Low
+KYC00054,CUST10216,Periodic Review,2026-07-02,71,In Review,9,Low,Medium
+KYC00055,CUST10218,Source of Wealth,2026-03-27,168,In Review,26,Low,Low
+KYC00056,CUST10221,Address Verification,2026-01-20,234,Awaiting Customer,28,Low,High
+KYC00057,CUST10222,Periodic Review,2026-01-05,249,In Review,15,Low,Medium
+KYC00058,CUST10223,Periodic Review,2026-08-07,35,Open,14,Low,High
+KYC00059,CUST10230,Periodic Review,2026-05-19,115,Open,15,Low,Low
+KYC00060,CUST10232,Periodic Review,2026-08-30,12,Awaiting Customer,21,Low,Medium
+KYC00061,CUST10239,Source of Wealth,2026-08-14,28,In Review,19,Low,Medium
+KYC00062,CUST10240,Adverse Media,2026-06-23,80,Awaiting Customer,48,Moderate,Medium
+KYC00063,CUST10241,Source of Wealth,2026-03-04,191,Open,32,Moderate,Low
+KYC00064,CUST10243,Periodic Review,2026-07-25,48,Open,13,Low,Low
+KYC00065,CUST10244,Periodic Review,2026-03-22,173,Escalated,13,Low,High
+KYC00066,CUST10246,Address Verification,2026-06-04,99,Awaiting Customer,66,High,Medium
+KYC00067,CUST10247,UBO Verification,2026-07-03,70,Open,26,Low,Medium
+KYC00068,CUST10263,Adverse Media,2026-03-11,184,In Review,34,Moderate,Low
+KYC00069,CUST10265,Address Verification,2026-08-12,30,Escalated,30,Moderate,Low
+KYC00070,CUST10266,Address Verification,2026-03-26,169,In Review,53,Moderate,Low
+KYC00071,CUST10269,Periodic Review,2026-04-30,134,Escalated,14,Low,Medium
+KYC00072,CUST10271,Source of Wealth,2026-02-26,197,Awaiting Customer,72,High,Medium
+KYC00073,CUST10272,Periodic Review,2026-07-10,63,In Review,13,Low,Medium
+KYC00074,CUST10273,Address Verification,2026-01-04,250,In Review,16,Low,High
+KYC00075,CUST10276,UBO Verification,2026-09-02,9,Awaiting Customer,36,Moderate,Medium
+KYC00076,CUST10280,UBO Verification,2026-01-16,238,Closed,17,Low,High
+KYC00077,CUST10285,Periodic Review,2026-07-04,69,Open,16,Low,Low
+KYC00078,CUST10286,Periodic Review,2026-06-20,83,Closed,12,Low,High
+KYC00079,CUST10303,Source of Wealth,2026-07-18,55,Closed,25,Low,Medium
+KYC00080,CUST10304,Periodic Review,2026-01-18,236,Open,16,Low,Low
+KYC00081,CUST10311,Periodic Review,2026-01-28,226,Open,25,Low,Medium
+KYC00082,CUST10312,Source of Wealth,2026-05-30,104,Escalated,45,Moderate,Medium
+KYC00083,CUST10314,PEP Review,2026-01-14,240,In Review,32,Moderate,Medium
+KYC00084,CUST10318,Missing ID,2026-04-16,148,Closed,31,Moderate,High
+KYC00085,CUST10337,Periodic Review,2026-01-25,229,Closed,15,Low,Medium
+KYC00086,CUST10341,Missing ID,2026-04-19,145,Awaiting Customer,32,Moderate,Low
+KYC00087,CUST10349,Periodic Review,2026-09-03,8,In Review,16,Low,Medium
+KYC00088,CUST10351,UBO Verification,2026-05-17,117,Closed,25,Low,High
+KYC00089,CUST10356,Periodic Review,2026-08-20,22,In Review,12,Low,High
+KYC00090,CUST10359,Periodic Review,2026-08-20,22,Escalated,9,Low,Medium
+KYC00091,CUST10367,Source of Wealth,2026-02-28,195,Escalated,29,Low,Low
+KYC00092,CUST10369,Address Verification,2026-02-08,215,Open,26,Low,Low
+KYC00093,CUST10370,PEP Review,2026-07-03,70,Closed,50,Moderate,Low
+KYC00094,CUST10373,Adverse Media,2026-05-26,108,In Review,42,Moderate,Medium
+KYC00095,CUST10374,Source of Wealth,2026-04-28,136,Closed,22,Low,High
+KYC00096,CUST10376,Periodic Review,2026-07-08,65,Awaiting Customer,21,Low,Low
+KYC00097,CUST10380,Periodic Review,2026-05-26,108,Closed,11,Low,Medium
+KYC00098,CUST10388,UBO Verification,2026-06-28,75,Open,28,Low,Medium
+KYC00099,CUST10393,Periodic Review,2026-01-17,237,Awaiting Customer,11,Low,Medium
+KYC00100,CUST10396,UBO Verification,2026-01-12,242,In Review,18,Low,Low
+KYC00101,CUST10398,UBO Verification,2026-05-16,118,Open,23,Low,Medium
+KYC00102,CUST10399,Periodic Review,2026-03-31,164,Awaiting Customer,13,Low,Low
+KYC00103,CUST10403,Periodic Review,2026-02-24,199,Open,11,Low,Low
+KYC00104,CUST10406,Missing ID,2026-04-27,137,Closed,31,Moderate,High
+KYC00105,CUST10408,UBO Verification,2026-01-14,240,Escalated,30,Moderate,High
+KYC00106,CUST10413,Address Verification,2026-08-04,38,Escalated,16,Low,High
+KYC00107,CUST10415,Missing ID,2026-04-13,151,Escalated,28,Low,Low
+KYC00108,CUST10416,Missing ID,2026-05-03,131,In Review,48,Moderate,Low
+KYC00109,CUST10420,Adverse Media,2026-01-18,236,Escalated,43,Moderate,High
+KYC00110,CUST10426,Adverse Media,2026-04-17,147,Awaiting Customer,29,Low,High
+KYC00111,CUST10428,Periodic Review,2026-05-23,111,In Review,17,Low,Low
+KYC00112,CUST10441,Periodic Review,2026-01-22,232,In Review,9,Low,Medium
+KYC00113,CUST10446,Adverse Media,2026-07-19,54,Awaiting Customer,35,Moderate,Low
+KYC00114,CUST10451,Source of Wealth,2026-09-05,6,Awaiting Customer,38,Moderate,Low
+KYC00115,CUST10452,Source of Wealth,2026-06-09,94,Closed,25,Low,Low
+KYC00116,CUST10453,Periodic Review,2026-03-16,179,Open,9,Low,High
+KYC00117,CUST10465,Periodic Review,2026-06-15,88,Awaiting Customer,17,Low,Low
+KYC00118,CUST10466,Periodic Review,2026-08-11,31,Awaiting Customer,11,Low,Low
+KYC00119,CUST10471,Address Verification,2026-06-14,89,Closed,32,Moderate,Medium
+KYC00120,CUST10473,UBO Verification,2026-07-12,61,Awaiting Customer,41,Moderate,High
+KYC00121,CUST10478,Missing ID,2026-08-16,26,Escalated,31,Moderate,Medium
+KYC00122,CUST10479,Source of Wealth,2026-01-15,239,Awaiting Customer,44,Moderate,Low
+KYC00123,CUST10480,Sanctions Potential Match,2026-02-08,215,Awaiting Customer,52,Moderate,Low
+KYC00124,CUST10483,Address Verification,2026-05-23,111,Escalated,21,Low,Medium
+KYC00125,CUST10484,Source of Wealth,2026-02-24,199,Escalated,34,Moderate,Medium
+KYC00126,CUST10492,Periodic Review,2026-08-07,35,Closed,11,Low,Medium
+KYC00127,CUST10494,Adverse Media,2026-05-19,115,Closed,38,Moderate,Low
+KYC00128,CUST10495,Address Verification,2026-02-03,220,Closed,15,Low,Low
+KYC00129,CUST10496,Periodic Review,2026-06-03,100,Open,8,Low,Low
+KYC00130,CUST10500,Periodic Review,2026-08-19,23,Open,32,Moderate,Low
+KYC00131,CUST10504,Source of Wealth,2026-06-29,74,Open,30,Moderate,High
+KYC00132,CUST10505,Source of Wealth,2026-02-19,204,Closed,24,Low,Medium
+KYC00133,CUST10515,Periodic Review,2026-02-17,206,Awaiting Customer,24,Low,Medium
+KYC00134,CUST10520,Missing ID,2026-08-02,40,In Review,23,Low,Medium
+KYC00135,CUST10521,Periodic Review,2026-07-01,72,Open,10,Low,Medium
+KYC00136,CUST10523,Address Verification,2026-01-05,249,Open,53,Moderate,Medium
+KYC00137,CUST10524,UBO Verification,2026-05-15,119,Awaiting Customer,40,Moderate,Low
+KYC00138,CUST10526,Source of Wealth,2026-06-24,79,Open,25,Low,Low
+KYC00139,CUST10532,Adverse Media,2026-05-30,104,Closed,50,Moderate,Low
+KYC00140,CUST10534,Missing ID,2026-04-19,145,Open,35,Moderate,Low
+KYC00141,CUST10537,Periodic Review,2026-01-30,224,In Review,11,Low,Low
+KYC00142,CUST10539,Source of Wealth,2026-08-14,28,Awaiting Customer,29,Low,Low
+KYC00143,CUST10540,Missing ID,2026-08-22,20,Escalated,31,Moderate,Low
+KYC00144,CUST10544,Periodic Review,2026-02-28,195,Open,13,Low,Medium
+KYC00145,CUST10548,Periodic Review,2026-03-25,170,Open,31,Moderate,High
+KYC00146,CUST10551,Address Verification,2026-03-17,178,Closed,56,Moderate,Medium
+KYC00147,CUST10554,Periodic Review,2026-02-11,212,Open,29,Low,High
+KYC00148,CUST10561,Source of Wealth,2026-06-25,78,In Review,21,Low,Low
+KYC00149,CUST10565,Sanctions Potential Match,2026-03-14,181,In Review,48,Moderate,Low
+KYC00150,CUST10566,Periodic Review,2026-05-25,109,Open,27,Low,Low
+KYC00151,CUST10571,PEP Review,2026-07-31,42,Escalated,30,Moderate,High
+KYC00152,CUST10575,Missing ID,2026-06-20,83,Escalated,50,Moderate,Low
+KYC00153,CUST10576,Adverse Media,2026-06-03,100,Awaiting Customer,39,Moderate,Low
+KYC00154,CUST10579,Periodic Review,2026-05-09,125,Open,20,Low,Medium
+KYC00155,CUST10586,Address Verification,2026-04-13,151,In Review,23,Low,High
+KYC00156,CUST10595,Source of Wealth,2026-03-11,184,Closed,27,Low,Low
+KYC00157,CUST10598,Adverse Media,2026-04-12,152,Closed,34,Moderate,Medium
+KYC00158,CUST10604,Source of Wealth,2026-05-20,114,Escalated,27,Low,Low
+KYC00159,CUST10611,Source of Wealth,2026-07-13,60,Awaiting Customer,41,Moderate,Low
+KYC00160,CUST10612,Address Verification,2026-04-11,153,Awaiting Customer,30,Moderate,Medium
+KYC00161,CUST10625,Periodic Review,2026-08-08,34,In Review,17,Low,Low
+KYC00162,CUST10627,UBO Verification,2026-08-31,11,Awaiting Customer,38,Moderate,Low
+KYC00163,CUST10628,Address Verification,2026-02-05,218,Awaiting Customer,14,Low,Low
+KYC00164,CUST10630,Periodic Review,2026-05-02,132,Open,28,Low,High
+KYC00165,CUST10633,Periodic Review,2026-08-25,17,In Review,24,Low,Low
+KYC00166,CUST10640,Periodic Review,2026-07-23,50,Open,16,Low,Medium
+KYC00167,CUST10642,Source of Wealth,2026-01-31,223,Closed,21,Low,Medium
+KYC00168,CUST10644,Periodic Review,2026-03-22,173,Open,24,Low,High
+KYC00169,CUST10645,UBO Verification,2026-04-11,153,Open,22,Low,Medium
+KYC00170,CUST10648,Address Verification,2026-08-17,25,Awaiting Customer,25,Low,Medium
+KYC00171,CUST10649,Missing ID,2026-04-17,147,Closed,51,Moderate,Medium
+KYC00172,CUST10652,Address Verification,2026-05-31,103,Closed,28,Low,High
+KYC00173,CUST10653,Periodic Review,2026-05-21,113,Open,13,Low,Low
+KYC00174,CUST10662,Source of Wealth,2026-07-11,62,In Review,20,Low,Medium
+KYC00175,CUST10664,Periodic Review,2026-01-08,246,Escalated,33,Moderate,Low
+KYC00176,CUST10665,Missing ID,2026-07-10,63,Closed,45,Moderate,Medium
+KYC00177,CUST10669,Source of Wealth,2026-01-03,251,In Review,40,Moderate,Medium
+KYC00178,CUST10670,Address Verification,2026-04-26,138,Closed,25,Low,Low
+KYC00179,CUST10671,Source of Wealth,2026-04-14,150,Closed,49,Moderate,Medium
+KYC00180,CUST10673,Periodic Review,2026-02-17,206,Awaiting Customer,19,Low,Medium
+KYC00181,CUST10674,Periodic Review,2026-02-11,212,Escalated,30,Moderate,Medium
+KYC00182,CUST10675,Periodic Review,2026-01-30,224,Closed,17,Low,Low
+KYC00183,CUST10685,Sanctions Potential Match,2026-07-16,57,Awaiting Customer,44,Moderate,Low
+KYC00184,CUST10686,Periodic Review,2026-02-11,212,Awaiting Customer,17,Low,Medium
+KYC00185,CUST10689,Periodic Review,2026-06-21,82,Awaiting Customer,26,Low,Low
+KYC00186,CUST10690,Source of Wealth,2026-01-22,232,Closed,27,Low,Low
+KYC00187,CUST10703,Periodic Review,2026-08-23,19,Open,15,Low,Medium
+KYC00188,CUST10713,Source of Wealth,2026-02-25,198,In Review,29,Low,Medium
+KYC00189,CUST10714,PEP Review,2026-02-20,203,Open,40,Moderate,Medium
+KYC00190,CUST10721,Address Verification,2026-02-21,202,Escalated,21,Low,Medium
+KYC00191,CUST10722,Periodic Review,2026-02-15,208,Open,13,Low,Medium
+KYC00192,CUST10723,Source of Wealth,2026-02-21,202,In Review,43,Moderate,Low
+KYC00193,CUST10740,Periodic Review,2026-04-13,151,Closed,16,Low,Medium
+KYC00194,CUST10742,Periodic Review,2026-07-08,65,Closed,14,Low,Low
+KYC00195,CUST10753,Source of Wealth,2026-01-09,245,Closed,69,High,High
+KYC00196,CUST10759,Source of Wealth,2026-08-18,24,Awaiting Customer,20,Low,High
+KYC00197,CUST10761,Sanctions Potential Match,2026-04-08,156,Closed,45,Moderate,Medium
+KYC00198,CUST10765,Source of Wealth,2026-01-26,228,Awaiting Customer,21,Low,Medium
+KYC00199,CUST10767,UBO Verification,2026-08-15,27,Awaiting Customer,29,Low,Low
+KYC00200,CUST10773,Periodic Review,2026-04-06,158,In Review,15,Low,High
+KYC00201,CUST10775,Source of Wealth,2026-07-25,48,Open,36,Moderate,Medium
+KYC00202,CUST10776,Periodic Review,2026-01-19,235,Closed,13,Low,High
+KYC00203,CUST10778,Adverse Media,2026-04-17,147,In Review,29,Low,High
+KYC00204,CUST10792,Periodic Review,2026-02-24,199,Open,10,Low,Medium
+KYC00205,CUST10793,Periodic Review,2026-04-29,135,Awaiting Customer,8,Low,High
+KYC00206,CUST10794,Source of Wealth,2026-06-02,101,Closed,45,Moderate,Low
+KYC00207,CUST10798,Periodic Review,2026-06-25,78,Awaiting Customer,12,Low,Medium
+KYC00208,CUST10800,Periodic Review,2026-01-19,235,Closed,15,Low,Low
+KYC00209,CUST10801,Periodic Review,2026-06-23,80,Closed,17,Low,Medium
+KYC00210,CUST10802,Source of Wealth,2026-04-02,162,In Review,20,Low,High
+KYC00211,CUST10804,PEP Review,2026-02-16,207,Awaiting Customer,36,Moderate,High
+KYC00212,CUST10811,Periodic Review,2026-08-18,24,Closed,16,Low,Low
+KYC00213,CUST10813,Periodic Review,2026-01-03,251,In Review,16,Low,High
+KYC00214,CUST10814,UBO Verification,2026-08-13,29,Escalated,28,Low,Medium
+KYC00215,CUST10824,Periodic Review,2026-06-11,92,Open,14,Low,Low
+KYC00216,CUST10825,Address Verification,2026-01-05,249,In Review,21,Low,Medium
+KYC00217,CUST10828,Periodic Review,2026-03-30,165,Awaiting Customer,17,Low,Medium
+KYC00218,CUST10844,Periodic Review,2026-02-02,221,Closed,15,Low,Low
+KYC00219,CUST10847,Source of Wealth,2026-01-22,232,Closed,39,Moderate,Medium
+KYC00220,CUST10848,Address Verification,2026-01-26,228,Awaiting Customer,19,Low,Low
+KYC00221,CUST10856,Periodic Review,2026-01-11,243,In Review,11,Low,Low
+KYC00222,CUST10862,Adverse Media,2026-03-09,186,Awaiting Customer,49,Moderate,Medium
+KYC00223,CUST10869,Adverse Media,2026-06-12,91,Closed,34,Moderate,Low
+KYC00224,CUST10870,Periodic Review,2026-06-01,102,Closed,25,Low,Medium
+KYC00225,CUST10877,Missing ID,2026-05-15,119,In Review,23,Low,Medium
+KYC00226,CUST10881,Source of Wealth,2026-08-19,23,Closed,20,Low,Low
+KYC00227,CUST10884,Adverse Media,2026-02-05,218,Closed,46,Moderate,Low
+KYC00228,CUST10886,Address Verification,2026-03-02,193,Closed,24,Low,Low
+KYC00229,CUST10895,Periodic Review,2026-03-08,187,Closed,18,Low,Low
+KYC00230,CUST10899,Address Verification,2026-03-18,177,Closed,38,Moderate,High
+KYC00231,CUST10906,Periodic Review,2026-08-09,33,Awaiting Customer,14,Low,Medium
+KYC00232,CUST10910,Periodic Review,2026-07-05,68,Open,16,Low,High
+KYC00233,CUST10913,Periodic Review,2026-07-25,48,Open,14,Low,High
+KYC00234,CUST10915,Periodic Review,2026-05-04,130,Open,9,Low,Low
+KYC00235,CUST10919,Periodic Review,2026-02-02,221,Open,14,Low,Medium
+KYC00236,CUST10920,Adverse Media,2026-06-15,88,In Review,33,Moderate,Low
+KYC00237,CUST10923,Periodic Review,2026-08-05,37,Closed,11,Low,Medium
+KYC00238,CUST10924,Periodic Review,2026-07-31,42,Closed,24,Low,Low
+KYC00239,CUST10943,Sanctions Potential Match,2026-04-26,138,Closed,50,Moderate,Medium
+KYC00240,CUST10948,Sanctions Potential Match,2026-07-10,63,Closed,45,Moderate,Medium
+KYC00241,CUST10953,Periodic Review,2026-07-05,68,Open,10,Low,Low
+KYC00242,CUST10958,Periodic Review,2026-01-01,253,Open,16,Low,Low
+KYC00243,CUST10961,Source of Wealth,2026-07-14,59,Awaiting Customer,32,Moderate,Low
+KYC00244,CUST10964,Missing ID,2026-01-25,229,Closed,32,Moderate,Low
+KYC00245,CUST10965,Periodic Review,2026-08-28,14,In Review,26,Low,Low
+KYC00246,CUST10969,Address Verification,2026-04-30,134,Escalated,15,Low,Low
+KYC00247,CUST10970,Address Verification,2026-02-22,201,Awaiting Customer,20,Low,Low
+KYC00248,CUST10979,Source of Wealth,2026-06-15,88,Open,23,Low,Low
+KYC00249,CUST10982,Adverse Media,2026-02-15,208,Escalated,45,Moderate,Low
+KYC00250,CUST10988,Sanctions Potential Match,2026-06-30,73,In Review,51,Moderate,Medium
+KYC00251,CUST10990,Adverse Media,2026-03-21,174,Closed,33,Moderate,Medium
+KYC00252,CUST10999,Source of Wealth,2026-06-22,81,Escalated,28,Low,High
+KYC00253,CUST11004,UBO Verification,2026-04-05,159,In Review,42,Moderate,Medium
+KYC00254,CUST11007,Address Verification,2026-05-03,131,In Review,29,Low,High
+KYC00255,CUST11011,Sanctions Potential Match,2026-08-20,22,Escalated,49,Moderate,Low
+KYC00256,CUST11018,Periodic Review,2026-08-16,26,Awaiting Customer,12,Low,High
+KYC00257,CUST11021,Periodic Review,2026-01-02,252,In Review,13,Low,Low
+KYC00258,CUST11029,Address Verification,2026-03-29,166,Closed,16,Low,Low
+KYC00259,CUST11030,Sanctions Potential Match,2026-04-21,143,Open,63,High,Medium
+KYC00260,CUST11034,Source of Wealth,2026-07-28,45,Awaiting Customer,32,Moderate,Medium
+KYC00261,CUST11038,Address Verification,2026-02-05,218,Open,22,Low,Low
+KYC00262,CUST11042,Source of Wealth,2026-01-26,228,Closed,22,Low,Medium
+KYC00263,CUST11052,Adverse Media,2026-07-03,70,Awaiting Customer,50,Moderate,Low
+KYC00264,CUST11059,Adverse Media,2026-03-05,190,Awaiting Customer,30,Moderate,Low
+KYC00265,CUST11061,Address Verification,2026-01-22,232,Closed,33,Moderate,Low
+KYC00266,CUST11063,Source of Wealth,2026-03-24,171,Escalated,24,Low,High
+KYC00267,CUST11066,Missing ID,2026-08-22,20,Escalated,28,Low,Low
+KYC00268,CUST11068,Periodic Review,2026-02-13,210,Escalated,8,Low,Medium
+KYC00269,CUST11079,Source of Wealth,2026-07-17,56,Awaiting Customer,28,Low,Medium
+KYC00270,CUST11083,Address Verification,2026-08-04,38,Awaiting Customer,49,Moderate,Low
+KYC00271,CUST11085,Periodic Review,2026-06-11,92,Escalated,20,Low,High
+KYC00272,CUST11088,Source of Wealth,2026-06-22,81,Closed,31,Moderate,Low
+KYC00273,CUST11091,Address Verification,2026-06-02,101,Closed,42,Moderate,Low
+KYC00274,CUST11092,Source of Wealth,2026-03-27,168,Open,21,Low,Medium
+KYC00275,CUST11094,Periodic Review,2026-03-17,178,Escalated,16,Low,Medium
+KYC00276,CUST11097,Periodic Review,2026-07-26,47,Closed,15,Low,Medium
+KYC00277,CUST11101,Periodic Review,2026-03-28,167,Open,8,Low,Medium
+KYC00278,CUST11102,Adverse Media,2026-05-16,118,Awaiting Customer,33,Moderate,Medium
+KYC00279,CUST11103,Periodic Review,2026-03-13,182,Open,15,Low,Medium
+KYC00280,CUST11107,Periodic Review,2026-05-25,109,In Review,13,Low,Medium
+KYC00281,CUST11112,Source of Wealth,2026-05-25,109,Closed,30,Moderate,Low
+KYC00282,CUST11121,Periodic Review,2026-07-14,59,Closed,30,Moderate,Low
+KYC00283,CUST11122,Address Verification,2026-01-07,247,In Review,20,Low,Low
+KYC00284,CUST11124,Source of Wealth,2026-01-04,250,Closed,32,Moderate,High
+KYC00285,CUST11126,Address Verification,2026-04-02,162,In Review,27,Low,Low
+KYC00286,CUST11127,Address Verification,2026-03-22,173,Escalated,19,Low,Medium
+KYC00287,CUST11133,Sanctions Potential Match,2026-08-04,38,Open,45,Moderate,Medium
+KYC00288,CUST11134,Periodic Review,2026-09-01,10,Escalated,12,Low,Medium
+KYC00289,CUST11138,Address Verification,2026-04-21,143,Awaiting Customer,19,Low,Low
+KYC00290,CUST11140,Address Verification,2026-04-08,156,Awaiting Customer,57,Moderate,Medium
+KYC00291,CUST11151,Source of Wealth,2026-09-03,8,Open,29,Low,Low
+KYC00292,CUST11152,Adverse Media,2026-08-04,38,Awaiting Customer,40,Moderate,Medium
+KYC00293,CUST11154,Periodic Review,2026-04-04,160,Closed,30,Moderate,Medium
+KYC00294,CUST11157,Periodic Review,2026-07-06,67,Open,8,Low,Low
+KYC00295,CUST11170,Source of Wealth,2026-05-28,106,Awaiting Customer,29,Low,High
+KYC00296,CUST11179,Periodic Review,2026-07-15,58,Open,12,Low,Low
+KYC00297,CUST11181,Address Verification,2026-07-08,65,Awaiting Customer,24,Low,Medium
+KYC00298,CUST11182,Periodic Review,2026-04-14,150,Open,15,Low,Medium
+KYC00299,CUST11187,Missing ID,2026-06-26,77,Open,25,Low,Low
+KYC00300,CUST11199,Adverse Media,2026-01-04,250,Awaiting Customer,28,Low,Low
