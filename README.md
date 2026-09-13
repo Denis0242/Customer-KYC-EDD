@@ -47,7 +47,7 @@ The visuals below come directly from the executive dashboard and summarize the p
 
 ### Review Case Aging
 
-![Review Case Aging](images/03_review_case_aging)
+![Review Case Aging](images/03_review_case_aging.png)
 
 **What it represents:** What it represents: This shows how long KYC/EDD cases remain under review. The large 90+ day backlog (193 cases) highlights the need to prioritize older cases and improve remediation efficiency.
 
