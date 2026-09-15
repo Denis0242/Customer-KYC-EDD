@@ -372,17 +372,12 @@ with tabs[3]:
 with tabs[4]:
     st.subheader("Tableau Analytics Gallery")
     st.caption(
-        "Static Tableau views for quick recruiter and hiring-manager review."
+        "Final Executive Dashboard synchronized with the current Project #3 portfolio presentation."
     )
 
     images = [
-        ("01_kpi_scorecard.png", "KPI Scorecard"),
         ("02_executive_dashboard.png", "Executive Dashboard"),
-        ("03_risk_score_distribution.png", "Risk Score Distribution"),
-        ("05_review_case_aging.png", "Review Case Aging"),
-        ("06_top_high_risk_countries.png", "High-Risk Countries"),
     ]
-
     for filename, caption in images:
         img = ROOT / "images" / filename
         if img.exists():
