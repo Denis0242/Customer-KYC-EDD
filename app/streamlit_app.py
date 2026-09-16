@@ -22,27 +22,30 @@ cases = pd.read_csv(CASES)
 
 with st.sidebar:
     st.header("Filters")
-    risk_filter = st.multiselect(
+
+    risk_filter = st.selectbox(
         "Risk level",
-        sorted(df["risk_level"].dropna().unique()),
-        default=sorted(df["risk_level"].dropna().unique())
-    )
-    type_filter = st.multiselect(
-        "Customer type",
-        sorted(df["customer_type"].dropna().unique()),
-        default=sorted(df["customer_type"].dropna().unique())
-    )
-    country_filter = st.multiselect(
-        "Country",
-        sorted(df["country"].dropna().unique()),
-        default=sorted(df["country"].dropna().unique())
+        ["All"] + sorted(df["risk_level"].dropna().unique().tolist())
     )
 
-f = df[
-    df["risk_level"].isin(risk_filter)
-    & df["customer_type"].isin(type_filter)
-    & df["country"].isin(country_filter)
-].copy()
+    type_filter = st.selectbox(
+        "Customer type",
+        ["All"] + sorted(df["customer_type"].dropna().unique().tolist())
+    )
+
+    country_filter = st.selectbox(
+        "Country",
+        ["All"] + sorted(df["country"].dropna().unique().tolist())
+    )
+
+f = df.copy()
+
+if risk_filter != "All":
+    f = f[f["risk_level"].eq(risk_filter)]
+if type_filter != "All":
+    f = f[f["customer_type"].eq(type_filter)]
+if country_filter != "All":
+    f = f[f["country"].eq(country_filter)]
 
 # -------------------------
 # KPI calculations
